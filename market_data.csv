@@ -1,0 +1,2769 @@
+,coin,exchange
+0,RPG,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1,ISA,"['Trader Joe', 'Trader Joe', 'Trader Joe']"
+2,QBU,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)']"
+3,DAI,"['Curve', 'Gatecoin', 'Uniswap (v2)', 'PancakeSwap', 'Bitfinex', 'FTX', 'PancakeSwap', 'Sushiswap', 'Uniswap (v2)', 'Gemini', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'SpookySwap', 'Uniswap (v3)', 'Balancer (v1)', 'Uniswap (v2)', 'SpiritSwap', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Balancer (v2)', 'Uniswap (v2)', 'Sushiswap', 'Apeswap', 'Uniswap (v3)', 'Sushiswap', 'CoinMate', 'Uniswap (v2)', 'Curve', 'Gatecoin', 'Curve', 'Gatecoin', 'Uniswap (v2)', 'PancakeSwap', 'Bitfinex', 'FTX', 'PancakeSwap', 'Sushiswap', 'Uniswap (v2)', 'Gemini', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'SpookySwap', 'Uniswap (v3)', 'Balancer (v1)', 'Uniswap (v2)', 'SpiritSwap', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Balancer (v2)', 'Uniswap (v2)', 'Sushiswap', 'Apeswap', 'Uniswap (v3)', 'Sushiswap', 'CoinMate', 'Uniswap (v2)', 'Balancer (v1)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Trader Joe', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Apeswap', 'Uniswap (v2)', 'Kraken', 'Uniswap (v2)', 'Uniswap (v2)', 'HitBTC', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v2)', 'Uniswap (v2)', 'Binance US', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Currency.com', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Ethfinex', 'PancakeSwap', 'Sushiswap', 'CEX.IO', 'Uniswap (v2)', 'Uniswap (v2)', 'Apeswap', 'Sushiswap']"
+4,SOKU,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+5,UOS,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+6,LUC,"['YoBit', 'YoBit', 'YoBit', 'YoBit', 'HitBTC']"
+7,SWRV,"['Binance', 'Uniswap (v2)', 'Bibox', 'CoinEx', 'Uniswap (v2)', 'Binance', 'Uniswap (v2)', 'Binance', 'Uniswap (v2)', 'Bibox', 'CoinEx', 'Uniswap (v2)']"
+8,ADA,"['Binance', 'HitBTC', 'PancakeSwap', 'CoinEx', 'Binance', 'PancakeSwap', 'CoinEx', 'Binance', 'Binance', 'HitBTC', 'PancakeSwap', 'CoinEx', 'Binance', 'PancakeSwap', 'CoinEx', 'BeQuant', 'Kraken', 'Kraken', 'PancakeSwap', 'Kraken', 'Apeswap', 'KuCoin', 'Huobi Global', 'PancakeSwap', 'CoinEx', 'Bitfinex', 'HitBTC', 'KuCoin', 'BtcTurk PRO']"
+9,DSLA,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+10,POWER,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'SpookySwap']"
+11,DFD,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+12,WETH,"['Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'SpookySwap', 'PancakeSwap', 'Uniswap (v2)', 'Sushiswap', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v2)', 'Sushiswap', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'Sushiswap', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'PancakeSwap', 'Sushiswap', 'Sushiswap', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v3)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v3)', 'Balancer (v2)', 'Uniswap (v2)', 'Sushiswap', 'Balancer (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Balancer (v1)', 'Balancer (v1)', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'Trader Joe', 'Balancer (v1)', 'Balancer (v1)', 'Balancer (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Sushiswap', 'Balancer (v1)', 'Ubeswap', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'PancakeSwap', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'SpookySwap', 'PancakeSwap', 'Uniswap (v2)', 'Sushiswap', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v2)', 'Sushiswap', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'Sushiswap', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'PancakeSwap', 'Sushiswap', 'Sushiswap', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v3)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v3)', 'Balancer (v2)', 'Uniswap (v2)', 'Sushiswap', 'Balancer (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Balancer (v1)', 'Balancer (v1)', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'Trader Joe', 'Balancer (v1)', 'Balancer (v1)', 'Balancer (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Sushiswap', 'Balancer (v1)', 'Ubeswap', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'PancakeSwap', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Apeswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v2)', 'Balancer (v1)', 'Balancer (v1)', 'PancakeSwap', 'Sushiswap', 'Balancer (v1)', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v1)', 'Sushiswap', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Balancer (v1)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Trader Joe', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap', 'Sushiswap', 'Uniswap (v3)', 'Balancer (v1)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Balancer (v2)', 'Uniswap (v2)', 'Sushiswap', 'Sushiswap', 'Balancer (v1)', 'Uniswap (v3)', 'Sushiswap', 'Ubeswap', 'Balancer (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Solarbeam', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v3)', 'Sushiswap', 'PancakeSwap', 'Balancer (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'PancakeSwap', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'Balancer (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'PancakeSwap', 'Apeswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v2)', 'Balancer (v1)', 'Uniswap (v3)', 'Sushiswap', 'Sushiswap', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'Sushiswap', 'PancakeSwap', 'Uniswap (v3)', 'PancakeSwap', 'Balancer (v1)', 'Uniswap (v2)', 'SpookySwap', 'Balancer (v1)', 'Uniswap (v2)', 'Balancer (v2)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)']"
+13,NGC,"['EXX', 'Uniswap (v2)', 'Bittrex', 'EXX', 'EXX', 'Uniswap (v2)', 'Bittrex']"
+14,DENT,"['Uniswap (v2)', 'Binance', 'Uniswap (v2)', 'Uniswap (v2)', 'Binance', 'FTX', 'Uniswap (v2)', 'OKEx']"
+15,BTC,"['Bitstamp', 'LocalBitcoins', 'EXX', 'TheRockTrading', 'ACX', 'LocalBitcoins', 'CEX.IO', 'Liquid', 'Upbit', 'HitBTC', 'Liquid', 'Liquid', 'Kraken', 'Binance US', 'Coinfloor', 'Bl3p', 'CEX.IO', 'Gatecoin', 'Allcoin', 'Bitstamp', 'Bitstamp', 'LocalBitcoins', 'EXX', 'TheRockTrading', 'ACX', 'LocalBitcoins', 'CEX.IO', 'Liquid', 'Upbit', 'HitBTC', 'Liquid', 'Liquid', 'Kraken', 'Binance US', 'Coinfloor', 'Bl3p', 'CEX.IO', 'Gatecoin', 'Allcoin', 'LocalBitcoins', 'TheRockTrading', 'HitBTC', 'Binance', 'Cobinhood', 'Bittrex', 'HitBTC', 'BeQuant', 'BTCC', 'AnyBits', 'Liquid', 'Bitso', 'Tidebit', 'Huobi Global', 'HitBTC', 'ZB', 'Bitfinex', 'Bitforex', 'BitBay', 'LocalBitcoins', 'Binance', 'Liquid', 'LocalBitcoins', 'Bitibu', 'HitBTC', 'KuCoin', 'BtcTurk PRO', 'LocalBitcoins', 'Bitibu', 'Binance', 'Kraken', 'KuCoin', 'LocalBitcoins', 'Binance']"
+16,SPIRIT,"['SpiritSwap', 'SpiritSwap', 'SpiritSwap', 'SpiritSwap', 'SpiritSwap', 'SpiritSwap', 'SpiritSwap', 'SpiritSwap', 'SpiritSwap']"
+17,SHUF,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+18,ETH,"['Binance', 'Bitstamp', 'Tidebit', 'HitBTC', 'ZB', 'Binance', 'Bitso', 'Liquid', 'Gemini', 'Binance', 'BtcTurk PRO', 'Binance', 'Binance US', 'Gemini', 'Kraken', 'Upbit', 'Cobinhood', 'Ethfinex', 'EXX', 'Bitstamp', 'Coinbase Exchange', 'Binance', 'CEX.IO', 'ACX', 'Bittrex', 'Currency.com', 'YoBit', 'Binance', 'Bitstamp', 'Binance', 'Bitstamp', 'Tidebit', 'HitBTC', 'ZB', 'Binance', 'Bitso', 'Liquid', 'Gemini', 'Binance', 'BtcTurk PRO', 'Binance', 'Binance US', 'Gemini', 'Kraken', 'Upbit', 'Cobinhood', 'Ethfinex', 'EXX', 'Bitstamp', 'Coinbase Exchange', 'Binance', 'CEX.IO', 'ACX', 'Bittrex', 'Currency.com', 'YoBit', 'CoinEx', 'BTC-Alpha', 'EXX', 'LMAX', 'Liquid', 'Hotbit', 'BeQuant', '', 'BitBay', 'Uniswap (v2)', 'CoinMate', 'FTX', 'TheRockTrading', 'BeQuant', 'LMAX', 'CoinMate', 'Stronghold', 'FTX', 'Coinone', 'Liquid', 'Binance', 'KuCoin', 'EXX', 'Okcoin', 'ACX', 'Poloniex', 'KuCoin', 'KuCoin', 'Bitfinex', 'HitBTC', 'Tidebit', 'Ethfinex', 'KuCoin', 'YoBit', 'Bitfinex', 'PancakeSwap']"
+19,IRIS,"['Huobi Global', 'Hotbit', 'Huobi Global', 'Huobi Global', 'Hotbit', 'Binance', 'Binance']"
+20,ARGUS,"['YoBit', 'YoBit', 'YoBit']"
+21,PKT,"['YoBit', 'YoBit', 'YoBit']"
+22,HAND,"['HitBTC', 'HitBTC', 'HitBTC', 'Hotbit']"
+23,BARMY,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+24,MTV,"['KuCoin', 'KuCoin', 'KuCoin', 'PancakeSwap', 'KuCoin', 'Uniswap (v2)']"
+25,ALGO,"['Binance', 'Bitstamp', 'Bitforex', 'Upbit', 'Bitstamp', 'Binance US', 'KuCoin', 'Huobi Global', 'BeQuant', 'Huobi Global', 'Binance', 'Binance', 'Bitstamp', 'Bitforex', 'Upbit', 'Bitstamp', 'Binance US', 'KuCoin', 'Huobi Global', 'BeQuant', 'Huobi Global', 'Bittrex', 'Bibox', 'Huobi Global', 'Binance', 'Korbit', 'Bitstamp', 'Hotbit']"
+26,SPD,"['YoBit', 'HitBTC', 'HitBTC', 'YoBit', 'YoBit', 'HitBTC', 'HitBTC']"
+27,safe,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+28,AT,"['Bit-Z', 'Bibox', 'Bit-Z', 'Bit-Z', 'Bibox', 'Bit-Z']"
+29,AVAX,"['Binance', 'Binance', 'Bitstamp', 'Poloniex', 'Bitfinex', 'Apeswap', 'Binance', 'Binance', 'Binance', 'Bitstamp', 'Poloniex', 'Bitfinex', 'Apeswap', 'PancakeSwap', 'Coinbase Exchange', 'Huobi Global']"
+30,SETH,"['Balancer (v1)', 'Balancer (v1)', 'Balancer (v1)']"
+31,LEON,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+32,SDL,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)']"
+33,DOGDEFI,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+34,XUC,"['Bittrex', 'Bittrex', 'Bittrex', 'Bittrex', 'Bittrex', 'HitBTC', 'EXX', 'ZB']"
+35,RFR,"['Bittrex', 'Upbit', 'Bittrex', 'Bittrex', 'Upbit']"
+36,BOO,"['SpookySwap', 'SpookySwap', 'SpookySwap', 'Uniswap (v3)', 'SpookySwap', 'SpookySwap']"
+37,QNT,"['Upbit', 'Bittrex', 'Coinbase Exchange', 'Upbit', 'Upbit', 'Bittrex', 'Coinbase Exchange', 'Binance', 'Uniswap (v3)', 'Uniswap (v3)', 'Binance']"
+38,WBNB,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'Apeswap']"
+39,USDC,"['SpookySwap', 'Uniswap (v3)', 'Balancer (v1)', 'SpookySwap', 'SpookySwap', 'Uniswap (v2)', 'Trader Joe', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap', 'SpookySwap', 'Balancer (v2)', 'Bitstamp', 'Sushiswap', 'SpookySwap', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'Sushiswap', 'SpookySwap', 'SpookySwap', 'SpiritSwap', 'Uniswap (v3)', 'Curve', 'Balancer (v2)', 'Uniswap (v3)', 'Bittrex', 'Balancer (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'SpookySwap', 'SpookySwap', 'Uniswap (v3)', 'Balancer (v1)', 'SpookySwap', 'SpookySwap', 'Uniswap (v3)', 'Balancer (v1)', 'SpookySwap', 'SpookySwap', 'Uniswap (v2)', 'Trader Joe', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap', 'SpookySwap', 'Balancer (v2)', 'Bitstamp', 'Sushiswap', 'SpookySwap', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'Sushiswap', 'SpookySwap', 'SpookySwap', 'SpiritSwap', 'Uniswap (v3)', 'Curve', 'Balancer (v2)', 'Uniswap (v3)', 'Bittrex', 'Balancer (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'SpookySwap', 'SpookySwap', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'SpookySwap', 'Uniswap (v3)', 'YoBit', 'Curve', 'SpookySwap', 'SpookySwap', 'Sushiswap', 'Huobi Global', 'SpookySwap', 'Uniswap (v2)', 'SpookySwap', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v3)', 'PancakeSwap', 'SpookySwap', 'Uniswap (v3)', 'Sushiswap', 'PancakeSwap', 'SpookySwap', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'SpookySwap', 'Sushiswap', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v2)', 'Apeswap', 'Uniswap (v3)', 'CEX.IO', 'PancakeSwap', 'SpookySwap', 'Trader Joe', 'Balancer (v1)', 'Uniswap (v3)', 'Balancer (v1)', 'SpookySwap', 'Sushiswap', 'Sushiswap', 'SpookySwap', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v3)', 'Sushiswap', 'PancakeSwap', 'SpookySwap', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v2)', 'Trader Joe', 'SpookySwap', 'Uniswap (v2)', 'Balancer (v1)', 'Hotbit', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'SpookySwap', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Trader Joe', 'SpookySwap', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'Trader Joe', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v2)', 'SpookySwap', 'Uniswap (v2)', 'Sushiswap', 'SpookySwap', 'Uniswap (v3)', 'SpookySwap', 'Kraken', 'Balancer (v2)', 'Bittrex']"
+40,CSX,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)']"
+41,MTB,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+42,OKB,"['Bitfinex', 'OKEx', 'Bitfinex', 'OKEx', 'Bitfinex', 'OKEx', 'Balancer (v1)']"
+43,MEGALAND,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+44,MM,"['Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)']"
+45,YAK,"['Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe']"
+46,GOAT,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+47,LUNA,"['PancakeSwap', 'Kraken', 'PancakeSwap', 'PancakeSwap', 'Kraken', 'PancakeSwap', 'OKEx', 'Bibox', 'Huobi Global']"
+48,KRW,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+49,LEND,"['Balancer (v1)', 'Uniswap (v2)', 'Balancer (v1)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)']"
+50,DYNMT,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+51,FRONT,"['Binance', 'Apeswap', 'Binance', 'Binance', 'Apeswap', 'FTX', 'Binance', 'Poloniex', 'Huobi Global']"
+52,UNI,"['Binance', 'CEX.IO', 'Binance', 'HitBTC', 'OKEx', 'Uniswap (v3)', 'Huobi Global', 'Uniswap (v2)', 'Bittrex', 'Uniswap (v3)', 'Uniswap (v2)', 'Balancer (v2)', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Liquid', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'BeQuant', 'Binance', 'CEX.IO', 'Binance', 'Binance', 'CEX.IO', 'Binance', 'HitBTC', 'OKEx', 'Uniswap (v3)', 'Huobi Global', 'Uniswap (v2)', 'Bittrex', 'Uniswap (v3)', 'Uniswap (v2)', 'Balancer (v2)', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Liquid', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'BeQuant', 'Bittrex', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v3)', 'Huobi Global', 'Uniswap (v2)', 'Uniswap (v2)', 'BtcTurk PRO', 'Uniswap (v2)', 'CEX.IO', 'Uniswap (v2)', 'Uniswap (v2)', 'CoinEgg', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'Okcoin', 'Bithumb', 'Uniswap (v2)', 'Uniswap (v3)', 'Binance US', 'Uniswap (v2)', 'BitBay', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Binance US', 'Binance']"
+53,BANCA,"['HitBTC', 'HitBTC', 'HitBTC']"
+54,WAVES,"['Tidex', 'Uniswap (v2)', 'Bitfinex', 'OKEx', 'Binance US', 'YoBit', 'Bittrex', 'Tidex', 'Tidex', 'Uniswap (v2)', 'Bitfinex', 'OKEx', 'Binance US', 'YoBit', 'Bittrex', 'Binance', 'YoBit', 'CoinEx', 'Uniswap (v2)', 'Bittrex', 'Uniswap (v2)']"
+55,FIDA,"['Coinbase Exchange', 'Binance', 'Coinbase Exchange', 'Coinbase Exchange', 'Binance']"
+56,AMP,"['Balancer (v1)', 'Balancer (v1)', 'Balancer (v1)', 'Bibox', 'Bitstamp']"
+57,BCI,"['Bitfinex', 'HitBTC', 'Bitfinex', 'Bitfinex', 'HitBTC']"
+58,RSR,"['Hotbit', 'Bit-Z', 'HitBTC', 'Hotbit', 'Hotbit', 'Bit-Z', 'HitBTC', 'CEX.IO', 'Liquid']"
+59,CAKE,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Poloniex', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Poloniex', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'CoinEx', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Sushiswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap']"
+60,CVT,"['Poloniex', 'HitBTC', 'Poloniex', 'Poloniex', 'HitBTC', 'OKEx']"
+61,ev,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+62,WRX,"['Binance', 'Binance', 'Binance', 'Apeswap', 'Binance']"
+63,PIE,"['YoBit', 'YoBit', 'YoBit']"
+64,MTA,"['Uniswap (v2)', 'Huobi Global', 'Uniswap (v2)', 'Uniswap (v2)', 'Huobi Global', 'Balancer (v1)', 'Uniswap (v2)', 'PancakeSwap']"
+65,PITCH,"['Uniswap (v2)', 'HitBTC', 'Uniswap (v2)', 'Uniswap (v2)', 'HitBTC']"
+66,IKOMP,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+67,SHKOOBY,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+68,USDT,"['PancakeSwap', 'PancakeSwap', 'Curve', 'PancakeSwap', 'Curve', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v3)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Sushiswap', 'Trader Joe', 'PancakeSwap', 'HitBTC', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Binance', 'Apeswap', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Okcoin', 'Hotbit', 'Bittrex', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v2)', 'Binance', 'PancakeSwap', 'Curve', 'Curve', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'HitBTC', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'BeQuant', 'Uniswap (v3)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Curve', 'PancakeSwap', 'Curve', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v3)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Sushiswap', 'Trader Joe', 'PancakeSwap', 'HitBTC', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Binance', 'Apeswap', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Okcoin', 'Hotbit', 'Bittrex', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v2)', 'Binance', 'PancakeSwap', 'Curve', 'Curve', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'HitBTC', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'BeQuant', 'Uniswap (v3)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Sushiswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Bitlish', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Curve', 'Sushiswap', 'PancakeSwap', 'Uniswap (v3)', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v2)', 'Trader Joe', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Trader Joe', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'KuCoin', 'Trader Joe', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'Trader Joe', 'Kraken', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'KuCoin', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Curve', 'PancakeSwap', 'Bibox', 'PancakeSwap', 'PancakeSwap', 'Bittrex', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v3)', 'PancakeSwap', 'PancakeSwap', 'Sushiswap', 'Sushiswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Curve', 'PancakeSwap', 'Uniswap (v2)', 'Curve', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v3)', 'Apeswap', 'PancakeSwap']"
+69,MINT,"['Bittrex', 'Bittrex', 'Bittrex', 'PancakeSwap']"
+70,STORJ,"['YoBit', 'Bitstamp', 'Kraken', 'YoBit', 'YoBit', 'Bitstamp', 'Kraken', 'HitBTC', 'HitBTC', 'Bitfinex', 'Upbit']"
+71,EVU,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+72,SIMPLI,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+73,WBTC,"['SouthXchange', 'Binance', 'Uniswap (v2)', 'Uniswap (v3)', 'Currency.com', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Balancer (v2)', 'Korbit', 'Uniswap (v2)', 'Balancer (v2)', 'Balancer (v2)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'OKEx', 'Uniswap (v3)', 'Balancer (v2)', 'Balancer (v1)', 'SouthXchange', 'Binance', 'SouthXchange', 'Binance', 'Uniswap (v2)', 'Uniswap (v3)', 'Currency.com', 'Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Balancer (v2)', 'Korbit', 'Uniswap (v2)', 'Balancer (v2)', 'Balancer (v2)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'OKEx', 'Uniswap (v3)', 'Balancer (v2)', 'Balancer (v1)', 'Sushiswap', 'SpookySwap', 'Uniswap (v3)', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Poloniex', 'Balancer (v1)', 'Sushiswap', 'Sushiswap', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'Curve', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v1)', 'Bitfinex', 'Sushiswap', 'Sushiswap', 'Uniswap (v2)', 'SpookySwap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap']"
+74,XLM,"['Bitstamp', 'Binance US', 'Binance', 'Bitstamp', 'Bitstamp', 'Binance US', 'Binance', 'Kraken', 'Bithumb', 'Bitfinex', 'Huobi Global', 'Binance', 'Bitfinex', 'CEX.IO']"
+75,CUSDC,"['Balancer (v1)', 'Balancer (v1)', 'Balancer (v1)']"
+76,TTU,"['HitBTC', 'HitBTC', 'HitBTC']"
+77,LINK,"['CEX.IO', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v3)', 'Uniswap (v2)', 'Bittrex', 'YoBit', 'OKEx', 'HitBTC', 'Uniswap (v2)', 'Binance', 'CEX.IO', 'CEX.IO', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v3)', 'Uniswap (v2)', 'Bittrex', 'YoBit', 'OKEx', 'HitBTC', 'Uniswap (v2)', 'Binance', 'itBit', 'Liquid', 'YoBit', 'Sushiswap', 'Liquid', 'KuCoin', 'Uniswap (v2)', 'Trader Joe', 'Balancer (v2)', 'Sushiswap', 'Bittrex', 'Balancer (v1)', 'Sushiswap', 'Bithumb', 'Binance', 'Uniswap (v3)', 'Uniswap (v2)', 'OKEx', 'Gemini', 'Huobi Global', 'Binance', 'EXX', 'Uniswap (v2)', 'ZB', 'Sushiswap', 'Uniswap (v2)', 'Bitstamp', 'CoinEx', 'Uniswap (v2)', 'Binance', 'Trader Joe']"
+78,AMB,"['Gatecoin', 'HitBTC', 'Gatecoin', 'Gatecoin', 'HitBTC', 'Gatecoin', 'Binance', 'HitBTC']"
+79,ETHP,"['Trader Joe', 'Trader Joe', 'Trader Joe']"
+80,TNT,"['HitBTC', 'YoBit', 'HitBTC', 'HitBTC', 'YoBit']"
+81,XSP,"['YoBit', 'YoBit', 'YoBit', 'Uniswap (v2)']"
+82,PAY,"['KuCoin', 'KuCoin', 'KuCoin', 'OKEx']"
+83,MND,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+84,SBF,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+85,WIZ,"['HitBTC', 'HitBTC', 'HitBTC', 'HitBTC', 'HitBTC']"
+86,CHZ,"['ZB', 'Binance DEX', 'FTX', 'Uniswap (v3)', 'ZB', 'ZB', 'Binance DEX', 'FTX', 'Uniswap (v3)', 'Coinbase Exchange', 'Binance', 'OKEx', 'Kraken']"
+87,BAND,"['Uniswap (v2)', 'Uniswap (v2)', 'Coinbase Exchange', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Coinbase Exchange', 'Binance', 'Balancer (v1)', 'Huobi Global', 'Sushiswap', 'CoinEx', 'Binance US']"
+88,NMR,"['Sushiswap', 'CoinEx', 'Binance', 'Bittrex', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v3)', 'Balancer (v1)', 'Coinbase Exchange', 'Poloniex', 'Sushiswap', 'Sushiswap', 'CoinEx', 'Binance', 'Bittrex', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v3)', 'Balancer (v1)', 'Coinbase Exchange', 'Poloniex', 'Poloniex', 'Uniswap (v2)']"
+89,GRID,"['Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)']"
+90,FUN,"['Uniswap (v2)', 'OKEx', 'Uniswap (v2)', 'Uniswap (v2)', 'OKEx', 'Uniswap (v3)', 'Ethfinex', 'EXX', 'Binance']"
+91,ATO,"['SouthXchange', 'SouthXchange', 'SouthXchange']"
+92,SXP,"['Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Bitstamp', 'BTC-Alpha', 'Bibox', 'PancakeSwap', 'Huobi Global', 'Upbit', 'HitBTC']"
+93,1INCH,"['Uniswap (v3)', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'Bit-Z', 'Bibox', 'Coinbase Exchange', 'Uniswap (v2)']"
+94,DAG,"['Hotbit', 'Hotbit', 'Hotbit', 'Hotbit', 'Hotbit']"
+95,STHR,"['YoBit', 'YoBit', 'YoBit']"
+96,SIGU,"['YoBit', 'YoBit', 'YoBit']"
+97,KNC,"['Bitfinex', 'CoinEx', 'Sushiswap', 'Tidex', 'Huobi Global', 'Bitfinex', 'Bitfinex', 'CoinEx', 'Sushiswap', 'Tidex', 'Huobi Global', 'HitBTC', 'KuCoin', 'Bitstamp', 'CEX.IO', 'Binance', 'KuCoin', 'ZB', 'Bittrex']"
+98,AION,"['KuCoin', 'KuCoin', 'KuCoin', 'Binance']"
+99,BTCUI,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)']"
+100,RVR,"['Bittrex', 'Bittrex', 'Bittrex']"
+101,CP,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+102,ALCH,"['Uniswap (v3)', 'Uniswap (v3)']"
+103,BABYSHIBAINU,"['PancakeSwap', 'PancakeSwap']"
+104,IGNIS,"['Bittrex', 'Bittrex', 'HitBTC', 'HitBTC']"
+105,EPC,"['EXX', 'YoBit', 'EXX', 'YoBit']"
+106,BOX,"['Ethfinex', 'Uniswap (v2)', 'Ethfinex', 'Uniswap (v2)']"
+107,ZOO,"['PancakeSwap', 'SpookySwap', 'Sushiswap', 'PancakeSwap', 'SpookySwap', 'Sushiswap', 'PancakeSwap', 'Uniswap (v3)']"
+108,PART,"['HitBTC', 'HitBTC']"
+109,jyc,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+110,ZRX,"['Coinbase Exchange', 'CEX.IO', 'Bit-Z', 'Coinone', 'Kraken', 'Binance', 'EXX', 'Coinbase Exchange', 'CEX.IO', 'Bit-Z', 'Coinone', 'Kraken', 'Binance', 'EXX', 'HitBTC', 'Huobi Global', 'Huobi Global', 'Balancer (v2)', 'Upbit', 'YoBit', 'Korbit', 'Binance', 'Upbit', 'YoBit', 'Huobi Global', 'Bitstamp', 'Balancer (v1)', 'Coinbase Exchange', 'Gatecoin', 'Balancer (v1)']"
+111,CORGI,"['PancakeSwap', 'PancakeSwap']"
+112,LSK,"['Bit-Z', 'Binance', 'Kraken', 'Binance', 'Bit-Z', 'Binance', 'Kraken', 'Binance', 'Upbit', 'OKEx', 'Huobi Global', 'Binance', 'Huobi Global']"
+113,ORN,"['KuCoin', 'KuCoin', 'HitBTC', 'Coinbase Exchange', 'Uniswap (v3)']"
+114,MARA,"['Solarbeam', 'Solarbeam']"
+115,KIN,"['YoBit', 'FTX', 'YoBit', 'FTX', 'Bitforex', 'HitBTC']"
+116,rux,"['Trader Joe', 'Trader Joe', 'Trader Joe']"
+117,SAVAX,"['Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe']"
+118,DEUS,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+119,UFT,"['Uniswap (v2)', 'Uniswap (v2)']"
+120,KING,"['PancakeSwap', 'PancakeSwap']"
+121,SUSHI,"['Sushiswap', 'Sushiswap', 'Sushiswap', 'Balancer (v2)', 'BTC-Alpha', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Balancer (v2)', 'Apeswap', 'CEX.IO', 'Sushiswap', 'Sushiswap', 'Sushiswap', 'Sushiswap', 'Sushiswap', 'Balancer (v2)', 'BTC-Alpha', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Balancer (v2)', 'Apeswap', 'CEX.IO', 'Sushiswap', 'Sushiswap', 'Uniswap (v2)', 'Huobi Global', 'Sushiswap', 'Sushiswap', 'Balancer (v1)', 'Balancer (v2)', 'BitBay', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'Sushiswap', 'Uniswap (v2)', 'Sushiswap']"
+122,shit,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)']"
+123,YAMV2,"['Uniswap (v2)', 'Uniswap (v2)']"
+124,DEGEN,"['Uniswap (v3)', 'Uniswap (v3)']"
+125,COUSD,"['SpookySwap', 'SpookySwap']"
+126,ATIS,"['Uniswap (v2)', 'Uniswap (v2)']"
+127,BPAD,"['PancakeSwap', 'PancakeSwap']"
+128,TTB,"['PancakeSwap', 'PancakeSwap']"
+129,PRB,"['PancakeSwap', 'PancakeSwap']"
+130,ADD,"['Bithumb', 'Bithumb', 'Uniswap (v2)']"
+131,TLM,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'KuCoin']"
+132,MKX,"['PancakeSwap', 'PancakeSwap']"
+133,BBADGER,"['Sushiswap', 'Sushiswap', 'Uniswap (v2)', 'Sushiswap']"
+134,MKR,"['CoinEx', 'Bibox', 'Balancer (v2)', 'Uniswap (v2)', 'Liquid', 'Uniswap (v2)', 'Bitforex', 'CoinEx', 'Bibox', 'Balancer (v2)', 'Uniswap (v2)', 'Liquid', 'Uniswap (v2)', 'Bitforex', 'Uniswap (v2)', 'CoinEx', 'Uniswap (v2)', 'Balancer (v1)', 'Ethfinex', 'HitBTC', 'Balancer (v1)', 'Kraken']"
+135,PAMP,"['Uniswap (v2)', 'Uniswap (v2)']"
+136,lft,"['Uniswap (v2)', 'Uniswap (v2)']"
+137,XEM,"['Upbit', 'Bittrex', 'OKEx', 'HitBTC', 'Upbit', 'Bittrex', 'OKEx', 'HitBTC', 'KuCoin', 'HitBTC', 'Cobinhood']"
+138,SPACE,"['PancakeSwap', 'Sushiswap', 'PancakeSwap', 'Sushiswap']"
+139,MANA,"['EXX', 'Bibox', 'Balancer (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'EXX', 'Bibox', 'Balancer (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'Gatecoin', 'KuCoin', 'EXX', 'Uniswap (v2)', 'Bitfinex', 'Uniswap (v2)', 'Coinbase Exchange']"
+140,DUSD,"['Balancer (v1)', 'Balancer (v1)']"
+141,UMA,"['Coinbase Exchange', 'Uniswap (v2)', 'Uniswap (v2)', 'Bittrex', 'HitBTC', 'CEX.IO', 'Coinbase Exchange', 'Uniswap (v2)', 'Uniswap (v2)', 'Bittrex', 'HitBTC', 'CEX.IO', 'Coinbase Exchange', 'CEX.IO']"
+142,rho,"['Uniswap (v2)', 'Uniswap (v2)']"
+143,WSYS,"['Apeswap', 'Apeswap']"
+144,AAVE,"['EXX', 'BTC-Alpha', 'Balancer (v2)', 'Kraken', 'EXX', 'BTC-Alpha', 'Balancer (v2)', 'Kraken', 'Trader Joe', 'EXX', 'Huobi Global', 'Bibox', 'Uniswap (v2)', 'Binance', 'Bibox', 'Balancer (v2)', 'Uniswap (v3)', 'Balancer (v1)', 'Trader Joe', 'KuCoin', 'Balancer (v2)', 'Bittrex', 'Sushiswap', 'Uniswap (v2)', 'Binance', 'BigONE']"
+145,BETR,"['HitBTC', 'HitBTC']"
+146,MUSD,"['Curve', 'Curve', 'Balancer (v1)']"
+147,TVT,"['YoBit', 'Uniswap (v2)', 'YoBit', 'Uniswap (v2)', 'YoBit', 'YoBit']"
+148,FOR,"['Huobi Global', 'Hotbit', 'Huobi Global', 'Hotbit', 'Binance', 'Binance', 'Coinbase Exchange', 'Binance', 'Sushiswap']"
+149,BUSD,"['PancakeSwap', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'BigONE', 'Balancer (v1)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'BigONE', 'Balancer (v1)', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'CEX.IO', 'Binance', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Solarbeam', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'KuCoin', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'Solarbeam']"
+150,BFT,"['Uniswap (v2)', 'Uniswap (v2)']"
+151,WEAR,"['PancakeSwap', 'PancakeSwap']"
+152,LBA,"['EXX', 'EXX', 'Huobi Global', 'OKEx', 'OKEx']"
+153,HPB,"['KuCoin', 'KuCoin']"
+154,BNX,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+155,TOTM,"['Uniswap (v2)', 'Uniswap (v2)']"
+156,HIGH,"['Uniswap (v2)', 'Binance', 'Uniswap (v2)', 'Binance', 'Binance', 'Uniswap (v3)']"
+157,LALA,"['Liquid', 'Liquid', 'Liquid', 'KuCoin', 'KuCoin']"
+158,MOGX,"['Sushiswap', 'Sushiswap']"
+159,BUCKS,"['YoBit', 'YoBit']"
+160,TOMO,"['Binance', 'HitBTC', 'Binance', 'Binance', 'HitBTC', 'Binance', 'CoinEx', 'HitBTC', 'Binance', 'YoBit']"
+161,PLC,"['Bibox', 'Bibox', 'Bitforex']"
+162,CMT,"['Binance', 'Binance', 'YoBit', 'Binance', 'Binance', 'YoBit', 'CoinEx', 'OKEx', 'YoBit', 'Huobi Global']"
+163,NEST,"['Uniswap (v3)', 'Uniswap (v3)', 'Coinbase Exchange']"
+164,DERI,"['Sushiswap', 'Sushiswap']"
+165,LYM,"['Huobi Global', 'Bitfinex', 'Uniswap (v2)', 'Huobi Global', 'Bitfinex', 'Uniswap (v2)', 'Ethfinex']"
+166,OXT,"['Uniswap (v2)', 'Binance', 'Binance US', 'OKEx', 'Uniswap (v2)', 'Binance', 'Binance US', 'OKEx', 'Gemini', 'Binance', 'Kraken']"
+167,ZLP,"['Uniswap (v2)', 'Uniswap (v2)']"
+168,GNY,"['Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap']"
+169,GAMMA,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)']"
+170,ATMI,"['Bitforex', 'Bitfinex', 'Bitforex', 'Bitfinex', 'Uniswap (v2)']"
+171,BTRST,"['Coinbase Exchange', 'Coinbase Exchange', 'Coinbase Exchange']"
+172,GERO,"['Uniswap (v3)', 'Uniswap (v3)']"
+173,SUB,"['OKEx', 'OKEx', 'OKEx', 'OKEx', 'OKEx', 'OKEx', 'ZB']"
+174,DEI,"['Uniswap (v2)', 'Uniswap (v2)']"
+175,MNE,"['Uniswap (v2)', 'Uniswap (v2)']"
+176,QSP,"['Balancer (v1)', 'Balancer (v1)', 'Binance', 'Balancer (v1)', 'Balancer (v1)', 'Balancer (v1)', 'Binance', 'Balancer (v1)']"
+177,EVM,"['PancakeSwap', 'PancakeSwap']"
+178,RBY,"['YoBit', 'YoBit', 'Bittrex']"
+179,AMT,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+180,WFTM,"['SpiritSwap', 'SpookySwap', 'SpiritSwap', 'SpiritSwap', 'SpookySwap', 'SpookySwap', 'Sushiswap', 'SpiritSwap', 'SpiritSwap', 'SpookySwap', 'SpiritSwap', 'SpookySwap', 'SpiritSwap', 'SpookySwap', 'SpiritSwap', 'SpiritSwap', 'SpookySwap', 'SpookySwap', 'Sushiswap', 'SpiritSwap', 'SpiritSwap', 'SpookySwap', 'SpiritSwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpiritSwap', 'SpiritSwap', 'SpiritSwap', 'SpookySwap', 'SpookySwap', 'Sushiswap', 'SpiritSwap', 'SpookySwap', 'SpiritSwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpiritSwap', 'SpookySwap', 'SpookySwap', 'SpiritSwap', 'SpookySwap']"
+181,SHIBAZILLA,"['PancakeSwap', 'PancakeSwap']"
+182,UGC,"['EXX', 'EXX']"
+183,MMM,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+184,PWG,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+185,MFI,"['Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap']"
+186,BIGSB,"['Uniswap (v2)', 'Uniswap (v2)']"
+187,RENZEC,"['Uniswap (v2)', 'Uniswap (v2)']"
+188,CNN,"['Ethfinex', 'Bitfinex', 'Huobi Global', 'Ethfinex', 'Bitfinex', 'Huobi Global']"
+189,ZEC,"['Gemini', 'Binance', 'Binance', 'Binance', 'HitBTC', 'Gemini', 'Binance', 'Binance', 'Binance', 'HitBTC', 'Upbit', 'Upbit', 'CoinEx', 'Kraken', 'Huobi Global', 'Upbit', 'EXX', 'Okcoin', 'Binance', 'Ethfinex']"
+190,DOGE,"['HitBTC', 'Bitibu', 'Bitfinex', 'Binance', 'YoBit', 'PancakeSwap', 'BTC38', 'YoBit', 'Binance US', 'HitBTC', 'Bitibu', 'Bitfinex', 'Binance', 'YoBit', 'PancakeSwap', 'BTC38', 'YoBit', 'Binance US', 'SouthXchange', 'Binance US', 'Bittrex', 'HitBTC', 'ZB', 'Binance', 'Binance', 'Hotbit', 'Binance', 'Gemini', 'Bitlish', 'TheRockTrading', 'BigONE']"
+191,MLM,"['SouthXchange', 'SouthXchange']"
+192,STEPS,"['YoBit', 'YoBit', 'Bittrex']"
+193,SLYR,"['PancakeSwap', 'PancakeSwap']"
+194,WINGS,"['Gatecoin', 'Gatecoin', 'Bittrex', 'HitBTC']"
+195,IDEX,"['Huobi Global', 'Huobi Global', 'Binance']"
+196,NXC,"['Poloniex', 'Poloniex']"
+197,ETHA,"['Bittrex', 'Bittrex']"
+198,YGG,"['Binance', 'Binance', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap', 'Bibox', 'Sushiswap']"
+199,YFI,"['Currency.com', 'HitBTC', 'Balancer (v1)', 'Balancer (v1)', 'Currency.com', 'HitBTC', 'Balancer (v1)', 'Balancer (v1)', 'Huobi Global', 'SpookySwap', 'Sushiswap', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)', 'Huobi Global', 'Uniswap (v2)', 'Gemini', 'Uniswap (v2)', 'Bibox', 'Uniswap (v3)', 'CEX.IO']"
+200,QTF,"['Uniswap (v2)', 'Uniswap (v2)']"
+201,CORGIB,"['PancakeSwap', 'PancakeSwap']"
+202,ZIL,"['YoBit', 'Bibox', 'EXX', 'CoinEx', 'YoBit', 'Bibox', 'EXX', 'CoinEx', 'PancakeSwap', 'KuCoin', 'Huobi Global', 'Huobi Global', 'Binance US', 'CoinEx', 'Upbit']"
+203,PAXG,"['Uniswap (v2)', 'HitBTC', 'Binance', 'Uniswap (v2)', 'HitBTC', 'Binance', 'Uniswap (v2)', 'Kraken', 'Gemini', 'Uniswap (v2)']"
+204,SLICE,"['Uniswap (v2)', 'Bittrex', 'Uniswap (v2)', 'Bittrex']"
+205,okinami,"['Uniswap (v3)', 'Uniswap (v3)']"
+206,KP3R,"['Poloniex', 'Poloniex', 'Uniswap (v2)', 'Uniswap (v2)', 'CoinEx']"
+207,BRAIN,"['YoBit', 'YoBit']"
+208,PEOPLE,"['Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)']"
+209,ALU,"['PancakeSwap', 'PancakeSwap']"
+210,LBC,"['Bittrex', 'Bittrex', 'Bittrex', 'Bittrex', 'Poloniex']"
+211,TTT,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Bibox', 'Uniswap (v2)']"
+212,REDBUFF,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+213,GTON,"['SpiritSwap', 'SpiritSwap', 'Sushiswap']"
+214,CORE,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+215,XPAY,"['PancakeSwap', 'PancakeSwap']"
+216,NEXO,"['Binance', 'CoinEx', 'Balancer (v2)', 'Binance', 'CoinEx', 'Balancer (v2)', 'Bitfinex', 'Huobi Global']"
+217,QTUM,"['OKEx', 'CoinEx', 'Coinone', 'OKEx', 'CoinEx', 'Coinone', 'Bitforex', 'Korbit', 'Binance', 'Bibox', 'Poloniex', 'Liquid', 'Bitfinex', 'Bitforex', 'Bibox', 'Huobi Global', 'Binance US', 'Bit-Z']"
+218,RENBTC,"['Balancer (v2)', 'Bittrex', 'Balancer (v2)', 'Bittrex', 'Balancer (v1)']"
+219,APE,"['KuCoin', 'Kraken', 'Bibox', 'Binance', 'KuCoin', 'Kraken', 'Bibox', 'Binance', 'Coinbase Exchange']"
+220,DOT,"['FTX', 'Sushiswap', 'CoinEgg', 'Binance', 'Poloniex', 'KuCoin', 'BitBay', 'Bitfinex', 'CoinEx', 'FTX', 'Sushiswap', 'CoinEgg', 'Binance', 'Poloniex', 'KuCoin', 'BitBay', 'Bitfinex', 'CoinEx', 'Bitfinex', 'Binance', 'Upbit', 'Bittrex', 'BitBay', 'KuCoin', 'KuCoin', 'FTX']"
+221,GRIN,"['Poloniex', 'Poloniex', 'HitBTC', 'KuCoin', 'Okcoin', 'Okcoin', 'BigONE']"
+222,TALK,"['PancakeSwap', 'PancakeSwap']"
+223,ZB,"['Hotbit', 'Hotbit', 'EXX', 'Bitfinex']"
+224,brn,"['PancakeSwap', 'PancakeSwap']"
+225,DOUGH,"['Uniswap (v2)', 'Uniswap (v2)']"
+226,BCD,"['HitBTC', 'HitBTC', 'Huobi Global', 'KuCoin', 'EXX', 'Bit-Z']"
+227,OXB,"['PancakeSwap', 'PancakeSwap']"
+228,SC,"['Kraken', 'Binance', 'Kraken', 'Binance', 'EXX']"
+229,HVN,"['HitBTC', 'HitBTC', 'HitBTC']"
+230,DYDX,"['Bitstamp', 'Poloniex', 'Uniswap (v2)', 'Binance', 'Uniswap (v3)', 'Bitstamp', 'Poloniex', 'Uniswap (v2)', 'Binance', 'Uniswap (v3)', 'ZB', 'CoinEx', 'Sushiswap']"
+231,BOT,"['EXX', 'EXX', 'EXX', 'EXX']"
+232,HAUS,"['Sushiswap', 'Sushiswap', 'Balancer (v2)', 'Balancer (v2)']"
+233,TOOLS,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+234,SAN,"['OKEx', 'OKEx', 'YoBit', 'EXX', 'Ethfinex', 'EXX']"
+235,WHALE,"['Uniswap (v3)', 'Uniswap (v3)']"
+236,CNJ,"['Sushiswap', 'Sushiswap']"
+237,XTZ,"['OKEx', 'Coinbase Exchange', 'Cobinhood', 'Gatecoin', 'Bithumb', 'Binance', 'Poloniex', 'OKEx', 'Coinbase Exchange', 'Cobinhood', 'Gatecoin', 'Bithumb', 'Binance', 'Poloniex', 'Gemini', 'BeQuant', 'BigONE', 'Bitfinex', 'Binance US', 'CoinEx', 'Huobi Global', 'Ethfinex', 'Bitforex', 'Huobi Global']"
+238,SHX,"['Uniswap (v2)', 'Uniswap (v2)']"
+239,POLY,"['Coinbase Exchange', 'Binance', 'PancakeSwap', 'Coinbase Exchange', 'Binance', 'PancakeSwap', 'Upbit', 'Ethfinex', 'Uniswap (v2)']"
+240,SNX,"['Balancer (v1)', 'Balancer (v1)', 'Huobi Global', 'Kraken', 'Huobi Global', 'Balancer (v2)', 'Balancer (v1)', 'Bittrex', 'BTC-Alpha', 'Bitfinex', 'Balancer (v1)', 'Balancer (v1)', 'Huobi Global', 'Kraken', 'Huobi Global', 'Balancer (v2)', 'Balancer (v1)', 'Bittrex', 'BTC-Alpha', 'Bitfinex', 'Bibox', 'Balancer (v1)', 'Uniswap (v2)', 'Balancer (v1)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)', 'CoinEx', 'Balancer (v1)', 'Okcoin', 'Uniswap (v3)', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Balancer (v1)', 'Bitstamp', 'KuCoin', 'Balancer (v1)', 'OKEx', 'CEX.IO']"
+241,POFI,"['PancakeSwap', 'PancakeSwap']"
+242,udoge,"['PancakeSwap', 'PancakeSwap']"
+243,POWR,"['HitBTC', 'CoinEx', 'HitBTC', 'CoinEx', 'Uniswap (v3)', 'Coinbase Exchange']"
+244,GENE,"['PancakeSwap', 'PancakeSwap']"
+245,MIOTA,"['Bitlish', 'SouthXchange', 'Bittrex', 'Bitlish', 'SouthXchange', 'Bittrex', 'Liquid', 'Huobi Global', 'Bittrex', 'SouthXchange', 'Upbit', 'Bitforex']"
+246,BNB,"['SouthXchange', 'FTX', 'YoBit', 'Bibox', 'SouthXchange', 'FTX', 'YoBit', 'Bibox', 'CoinEx', 'Binance', 'BinanceDEXTestnet', 'KuCoin', 'Poloniex', 'KuCoin']"
+247,KAVA,"['CEX.IO', 'Kraken', 'Binance', 'CEX.IO', 'Kraken', 'Binance', 'Huobi Global', 'Binance']"
+248,SMT,"['Uniswap (v2)', 'HitBTC', 'YoBit', 'HitBTC', 'Uniswap (v2)', 'HitBTC', 'YoBit', 'HitBTC', 'HitBTC', 'YoBit', 'HitBTC', 'OKEx']"
+249,CRV,"['CEX.IO', 'Huobi Global', 'SpookySwap', 'HitBTC', 'ZB', 'Balancer (v1)', 'HitBTC', 'CEX.IO', 'Huobi Global', 'SpookySwap', 'HitBTC', 'ZB', 'Balancer (v1)', 'HitBTC', 'SpookySwap', 'Balancer (v1)', 'Sushiswap', 'EXX', 'FTX', 'Kraken', 'SpiritSwap', 'OKEx', 'Binance', 'Bitstamp', 'CoinEx', 'Kraken']"
+250,GTO,"['EXX', 'EXX', 'Binance', 'OKEx', 'EXX', 'OKEx']"
+251,UPT,"['PancakeSwap', 'PancakeSwap']"
+252,MLN,"['Kraken', 'ZB', 'Kraken', 'ZB', 'Balancer (v1)', 'Poloniex']"
+253,SPCV2,"['Uniswap (v2)', 'Uniswap (v2)', 'HitBTC', 'EXX']"
+254,MAG,"['EXX', 'EXX']"
+255,USDP,"['Cobinhood', 'Bittrex', 'UEX', 'Hotbit', 'Uniswap (v3)', 'Cobinhood', 'Bittrex', 'UEX', 'Hotbit', 'Uniswap (v3)', 'Bit-Z', 'EXX', 'HitBTC', 'Binance', 'Uniswap (v3)', 'HitBTC', 'Bittrex', 'Bittrex']"
+256,OST,"['EXX', 'EXX', 'Upbit', 'Uniswap (v2)', 'EXX', 'Binance', 'Upbit']"
+257,SPI,"['Uniswap (v2)', 'Uniswap (v2)']"
+258,XEP,"['PancakeSwap', 'PancakeSwap']"
+259,MOMO,"['PancakeSwap', 'PancakeSwap']"
+260,CWT,"['PancakeSwap', 'PancakeSwap']"
+261,HT,"['Uniswap (v2)', 'Bitforex', 'Uniswap (v2)', 'Uniswap (v2)', 'Bitforex', 'Uniswap (v2)', 'Huobi Global', 'Bibox', 'Huobi Global']"
+262,PEPECASH,"['Zaif', 'Zaif', 'Zaif', 'Zaif']"
+263,APY,"['Uniswap (v2)', 'Uniswap (v2)']"
+264,SRNT,"['Uniswap (v2)', 'Uniswap (v2)']"
+265,STEP,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+266,PTOY,"['HitBTC', 'HitBTC']"
+267,LINA,"['Huobi Global', 'HitBTC', 'Uniswap (v2)', 'Binance', 'Huobi Global', 'HitBTC', 'Uniswap (v2)', 'Binance', 'Sushiswap', 'HitBTC', 'Huobi Global', 'HitBTC']"
+268,DASH,"['ZB', 'Binance', 'Upbit', 'BigONE', 'AnyBits', 'Liquid', 'Cobinhood', 'CEX.IO', 'Bit-Z', 'ZB', 'Binance', 'Upbit', 'BigONE', 'AnyBits', 'Liquid', 'Cobinhood', 'CEX.IO', 'Bit-Z', 'YoBit', 'Bittrex', 'Poloniex', 'Binance', 'KuCoin', 'Hotbit', 'HitBTC', 'Bitlish', 'Poloniex', 'ZB', 'Bitfinex', 'Currency.com']"
+269,YAM,"['Uniswap (v2)', 'Sushiswap', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)']"
+270,SAFECITY,"['PancakeSwap', 'PancakeSwap']"
+271,2GOSHI,"['PancakeSwap', 'PancakeSwap']"
+272,TOMB,"['SpookySwap', 'SpookySwap', 'SpookySwap', 'SpiritSwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpiritSwap', 'SpookySwap', 'SpookySwap']"
+273,GEIST,"['SpookySwap', 'SpookySwap']"
+274,TAUD,"['Balancer (v1)', 'Balancer (v1)']"
+275,BAT,"['Balancer (v1)', 'Uniswap (v2)', 'Kraken', 'The Ocean', 'Balancer (v1)', 'Uniswap (v2)', 'Kraken', 'The Ocean', 'CEX.IO', 'Uniswap (v3)', 'Upbit', 'Kraken', 'FTX', 'Uniswap (v2)', 'ZB', 'Uniswap (v2)', 'Gemini', 'Bitso']"
+276,LRC,"['Coinbase Exchange', 'Uniswap (v2)', 'Binance', 'HitBTC', 'Uniswap (v2)', 'Coinbase Exchange', 'Uniswap (v2)', 'Binance', 'HitBTC', 'Uniswap (v2)', 'YoBit', 'Sushiswap', 'YoBit', 'Balancer (v2)', 'OKEx']"
+277,ICEBRK,"['PancakeSwap', 'PancakeSwap']"
+278,RCKT,"['Uniswap (v2)', 'Uniswap (v2)']"
+279,FSN,"['Hotbit', 'OKEx', 'Hotbit', 'OKEx', 'Upbit', 'Liquid', 'Bitfinex', 'Bibox']"
+280,ZDC,"['PancakeSwap', 'PancakeSwap']"
+281,DGB,"['Binance', 'Bittrex', 'OKEx', 'Binance', 'Bittrex', 'OKEx', 'Binance']"
+282,MATIC,"['Hotbit', 'Binance', 'Binance', 'KuCoin', 'Bittrex', 'Hotbit', 'Binance', 'Binance', 'KuCoin', 'Bittrex', 'Bitfinex', 'Bittrex', 'Binance US', 'Binance US', 'Solarbeam', 'Uniswap (v2)', 'BtcTurk PRO', 'KuCoin', 'Uniswap (v3)', 'Poloniex', 'Bitforex']"
+283,EOS,"['KuCoin', 'OKEx', 'Ethfinex', 'HitBTC', 'EXX', 'Bibox', 'Binance', 'Binance', 'Huobi Global', 'KuCoin', 'OKEx', 'Ethfinex', 'HitBTC', 'EXX', 'Bibox', 'Binance', 'Binance', 'Huobi Global', 'Coinone', 'Binance', 'HitBTC', 'HitBTC', 'Binance', 'OKEx', 'BeQuant', 'Bibox', 'Kraken', 'PancakeSwap', 'BigONE', 'Binance']"
+284,LUN,"['HitBTC', 'Bittrex', 'HitBTC', 'Bittrex', 'Binance', 'Huobi Global']"
+285,SOLID,"['SpookySwap', 'SpookySwap']"
+286,ONT,"['Huobi Global', 'CoinEx', 'EXX', 'KuCoin', 'Bithumb', 'Huobi Global', 'CoinEx', 'EXX', 'KuCoin', 'Bithumb', 'CoinEx', 'CEX.IO', 'Bit-Z', 'BigONE', 'Bibox', 'Bibox', 'HitBTC', 'OKEx', 'CoinEx', 'Binance', 'Upbit']"
+287,RDT,"['Uniswap (v2)', 'Uniswap (v2)']"
+288,300,"['PancakeSwap', 'PancakeSwap']"
+289,XRP,"['PancakeSwap', 'BeQuant', 'Currency.com', 'Binance', 'AnyBits', 'CEX.IO', 'FTX', 'Liquid', 'Huobi Global', 'BtcTurk PRO', 'Huobi Global', 'FTX', 'Coinbase Exchange', 'Bittrex', 'BitBay', 'Kraken', 'PancakeSwap', 'BeQuant', 'Currency.com', 'Binance', 'AnyBits', 'CEX.IO', 'FTX', 'Liquid', 'Huobi Global', 'BtcTurk PRO', 'Huobi Global', 'FTX', 'Coinbase Exchange', 'Bittrex', 'BitBay', 'Kraken', 'Upbit', 'Stronghold', 'HitBTC', 'Coinbase Exchange', 'CoinEx', 'LMAX', 'Bitstamp', 'PancakeSwap', 'Bitstamp', 'Binance US', 'Huobi Global', 'FTX', 'Bibox']"
+290,dct,"['PancakeSwap', 'PancakeSwap']"
+291,COCO,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+292,ETHO,"['PancakeSwap', 'PancakeSwap', 'Uniswap (v2)']"
+293,F9,"['Uniswap (v2)', 'Uniswap (v2)']"
+294,ALMX,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+295,NEO,"['Binance US', 'Liquid', 'Bittrex', 'Binance US', 'Liquid', 'Bittrex', 'Poloniex', 'HitBTC', 'EXX', 'Bitfinex', 'KuCoin']"
+296,DGD,"['Huobi Global', 'Gatecoin', 'Huobi Global', 'Gatecoin', 'EXX']"
+297,MCO,"['Uniswap (v2)', 'Upbit', 'OKEx', 'Uniswap (v2)', 'Upbit', 'OKEx', 'Huobi Global']"
+298,ELF,"['Ethfinex', 'Binance', 'Ethfinex', 'Binance', 'HitBTC', 'EXX', 'EXX', 'Ethfinex', 'Huobi Global', 'Binance', 'Bitfinex', 'Uniswap (v2)', 'Huobi Global', 'Upbit', 'OKEx']"
+299,PVT,"['Huobi Global', 'Huobi Global', 'Huobi Global']"
+300,OCTAX,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+301,WNXM,"['Sushiswap', 'OKEx', 'Sushiswap', 'OKEx', 'Uniswap (v3)', 'Binance', 'Balancer (v1)']"
+302,AXIAV3,"['Balancer (v1)', 'Balancer (v1)', 'Balancer (v1)']"
+303,ICP,"['Binance', 'Coinbase Exchange', 'Coinbase Exchange', 'ZB', 'Bitfinex', 'Binance', 'Coinbase Exchange', 'Coinbase Exchange', 'ZB', 'Bitfinex', 'Huobi Global', 'Binance', 'Currency.com', 'Binance', 'Coinbase Exchange', 'Bit-Z']"
+304,PITQD,"['PancakeSwap', 'PancakeSwap']"
+305,JNT,"['Bibox', 'Bibox', 'Bittrex']"
+306,MAVRO,"['YoBit', 'YoBit']"
+307,DRT,"['YoBit', 'YoBit', 'Sushiswap']"
+308,BTT,"['CoinEx', 'PancakeSwap', 'KuCoin', 'HitBTC', 'Binance', 'EXX', 'CoinEx', 'PancakeSwap', 'KuCoin', 'HitBTC', 'Binance', 'EXX', 'Binance', 'FTX', 'Huobi Global', 'Bitfinex', 'Huobi Global', 'Ethfinex', 'Bitforex', 'CEX.IO', 'Huobi Global', 'PancakeSwap']"
+309,AUDIO,"['Uniswap (v2)', 'Bitstamp', 'Uniswap (v2)', 'Bitstamp', 'Uniswap (v3)', 'Bitstamp']"
+310,str,"['Sushiswap', 'PancakeSwap', 'Sushiswap', 'PancakeSwap']"
+311,CSHIP,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+312,BNT,"['HitBTC', 'EXX', 'Sushiswap', 'Bancor', 'HitBTC', 'EXX', 'Sushiswap', 'Bancor', 'Coinbase Exchange', 'Bancor', 'CEX.IO', 'Kraken', 'Bancor', 'Huobi Global', 'Bancor', 'BigONE', 'Uniswap (v2)']"
+313,BAN,"['PancakeSwap', 'PancakeSwap']"
+314,milady,"['Sushiswap', 'Sushiswap']"
+315,AQUAGOAT,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+316,EXY,"['BitBay', 'BitBay', 'KuCoin']"
+317,DATA,"['Binance', 'Binance', 'Balancer (v2)']"
+318,MOOND,"['PancakeSwap', 'PancakeSwap']"
+319,KORE,"['Uniswap (v2)', 'Uniswap (v2)', 'Upbit']"
+320,BAL,"['Balancer (v1)', 'Uniswap (v2)', 'Balancer (v2)', 'Kraken', 'Sushiswap', 'Uniswap (v2)', 'Balancer (v1)', 'Balancer (v1)', 'Bibox', 'OKEx', 'Huobi Global', 'Balancer (v1)', 'Uniswap (v2)', 'Balancer (v2)', 'Kraken', 'Sushiswap', 'Uniswap (v2)', 'Balancer (v1)', 'Balancer (v1)', 'Bibox', 'OKEx', 'Huobi Global', 'Bittrex', 'Balancer (v2)', 'Bitfinex', 'Balancer (v1)', 'Balancer (v1)', 'Balancer (v2)', 'Balancer (v2)', 'Balancer (v1)', 'Balancer (v1)', 'Balancer (v2)', 'Huobi Global']"
+321,LEVEN,"['Uniswap (v3)', 'Balancer (v2)', 'Uniswap (v3)', 'Balancer (v2)', 'Uniswap (v2)']"
+322,SLP,"['Binance', 'Binance', 'Binance', 'Binance', 'Uniswap (v2)', 'Bitstamp', 'Uniswap (v3)', 'Uniswap (v3)']"
+323,TRX,"['Kraken', 'BeQuant', 'Huobi Global', 'Upbit', 'BigONE', 'Bitfinex', 'Bit-Z', 'Kraken', 'BeQuant', 'Huobi Global', 'Upbit', 'BigONE', 'Bitfinex', 'Bit-Z', 'BitBay', 'ZB', 'Gatecoin', 'Bittrex', 'Korbit', 'Bitfinex', 'HitBTC', 'EXX', 'OKEx', 'Okcoin', 'EXX', 'BtcTurk PRO', 'Bittrex', 'BitBay']"
+324,moby,"['PancakeSwap', 'PancakeSwap']"
+325,RLY,"['Balancer (v2)', 'Balancer (v2)', 'Balancer (v1)']"
+326,YASHA,"['Uniswap (v2)', 'Uniswap (v2)']"
+327,IPX,"['PancakeSwap', 'HitBTC', 'PancakeSwap', 'HitBTC']"
+328,DG,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+329,LID,"['Uniswap (v2)', 'Uniswap (v2)']"
+330,BANANA,"['PancakeSwap', 'Apeswap', 'Apeswap', 'PancakeSwap', 'Apeswap', 'Apeswap', 'Apeswap', 'Apeswap', 'Apeswap', 'Apeswap', 'Apeswap']"
+331,ADX,"['HitBTC', 'Sushiswap', 'Gatecoin', 'HitBTC', 'Sushiswap', 'Gatecoin', 'Bittrex', 'Binance', 'Upbit', 'Sushiswap', 'PancakeSwap']"
+332,TREAT,"['PancakeSwap', 'PancakeSwap']"
+333,ZAP,"['PancakeSwap', 'PancakeSwap', 'Sushiswap']"
+334,PRG,"['HitBTC', 'HitBTC']"
+335,RPC,"['YoBit', 'YoBit']"
+336,TLW,"['PancakeSwap', 'PancakeSwap']"
+337,SCC,"['HitBTC', 'HitBTC']"
+338,FIL,"['Korbit', 'Binance', 'Korbit', 'Binance', 'Bittrex', 'CoinEx', 'KuCoin', 'PancakeSwap', 'Binance', 'HitBTC', 'Binance']"
+339,FEG,"['Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap']"
+340,VAL,"['Bittrex', 'Bittrex', 'PancakeSwap']"
+341,HC,"['EXX', 'Bithumb', 'Huobi Global', 'Binance', 'EXX', 'Bithumb', 'Huobi Global', 'Binance', 'ZB', 'Huobi Global', 'KuCoin']"
+342,AAC,"['Huobi Global', 'OKEx', 'Huobi Global', 'OKEx', 'EXX']"
+343,DBTC,"['Sushiswap', 'Sushiswap', 'Sushiswap']"
+344,NICKEL,"['PancakeSwap', 'PancakeSwap']"
+345,NEAR,"['Binance', 'Kraken', 'Binance', 'Kraken']"
+346,DBC,"['Huobi Global', 'Huobi Global', 'Huobi Global', 'KuCoin']"
+347,GVT,"['KuCoin', 'Hotbit', 'KuCoin', 'Hotbit', 'Uniswap (v2)']"
+348,BSV,"['Upbit', 'Bitfinex', 'Upbit', 'Bitfinex', 'BitBay', 'Bitforex', 'KuCoin', 'Hotbit', 'Huobi Global', 'OKEx', 'OKEx', 'Kraken', 'Binance', 'Bitforex']"
+349,ACA,"['Binance', 'Binance', 'Binance', 'Binance', 'OKEx', 'PancakeSwap']"
+350,ITAMCUBE,"['PancakeSwap', 'PancakeSwap']"
+351,ADP,"['Bithumb', 'Bithumb']"
+352,MITO,"['Trader Joe', 'Trader Joe']"
+353,SUSD,"['Balancer (v1)', 'Balancer (v1)', 'Bittrex', 'Uniswap (v3)', 'Uniswap (v3)', 'Curve', 'Sushiswap', 'Sushiswap']"
+354,DINT,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+355,RVST,"['Uniswap (v2)', 'Uniswap (v2)']"
+356,ARCT,"['YoBit', 'YoBit']"
+357,ETC,"['Huobi Global', 'AnyBits', 'Bitforex', 'Hotbit', 'CoinEgg', 'OKEx', 'CoinEgg', 'CoinEx', 'KuCoin', 'OKEx', 'Huobi Global', 'AnyBits', 'Bitforex', 'Hotbit', 'CoinEgg', 'OKEx', 'CoinEgg', 'CoinEx', 'KuCoin', 'OKEx', 'HitBTC', 'Bittrex', 'Binance', 'Binance', 'Bittrex', 'Bit-Z', 'BTC-Alpha', 'Kraken', 'Binance']"
+358,VBNT,"['Uniswap (v2)', 'Uniswap (v2)']"
+359,CROX,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+360,MEL,"['PancakeSwap', 'PancakeSwap']"
+361,DRPU,"['HitBTC', 'HitBTC']"
+362,msp,"['PancakeSwap', 'PancakeSwap']"
+363,TNB,"['Bibox', 'Bitfinex', 'BigONE', 'Bibox', 'Bitfinex', 'BigONE', 'Ethfinex']"
+364,NFTX,"['Bittrex', 'Bittrex', 'Sushiswap']"
+365,AVT,"['OKEx', 'OKEx', 'Bitfinex', 'Uniswap (v3)', 'Bitfinex']"
+366,PSY,"['PancakeSwap', 'PancakeSwap']"
+367,CND,"['Ethfinex', 'Ethfinex', 'HitBTC', 'Bittrex']"
+368,EDS,"['Bit-Z', 'Bit-Z', 'BigONE']"
+369,reflex,"['PancakeSwap', 'PancakeSwap']"
+370,NOAH,"['YoBit', 'YoBit']"
+371,UBE,"['Ubeswap', 'Ubeswap', 'Ubeswap', 'Ubeswap', 'Ubeswap', 'Sushiswap']"
+372,UMAD,"['Uniswap (v2)', 'Sushiswap', 'Uniswap (v2)', 'Sushiswap']"
+373,POE,"['HitBTC', 'HitBTC', 'HitBTC', 'EXX']"
+374,COMP,"['Coinbase Exchange', 'Balancer (v1)', 'Uniswap (v2)', 'HitBTC', 'Poloniex', 'CEX.IO', 'Binance', 'Binance', 'OKEx', 'Coinbase Exchange', 'Balancer (v1)', 'Uniswap (v2)', 'HitBTC', 'Poloniex', 'CEX.IO', 'Binance', 'Binance', 'OKEx', 'Upbit', 'Apeswap', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v3)', 'CoinEgg', 'Bittrex', 'PancakeSwap', 'Balancer (v2)', 'CEX.IO', 'FTX', 'PancakeSwap']"
+375,GRT,"['Sushiswap', 'Upbit', 'CoinEx', 'BitBay', 'Trader Joe', 'FTX', 'Sushiswap', 'Upbit', 'CoinEx', 'BitBay', 'Trader Joe', 'FTX', 'BitBay', 'Coinbase Exchange', 'Kraken', 'Huobi Global', 'Balancer (v2)', 'Balancer (v2)']"
+376,QNTU,"['HitBTC', 'HitBTC', 'Bit-Z']"
+377,SALT,"['HitBTC', 'Huobi Global', 'Binance', 'Upbit', 'Bittrex', 'Huobi Global', 'HitBTC', 'Huobi Global', 'Binance', 'Upbit', 'Bittrex', 'Huobi Global', 'Bithumb', 'Upbit', 'Bittrex', 'HitBTC']"
+378,RND,"['Uniswap (v2)', 'Uniswap (v2)']"
+379,LOCK,"['Uniswap (v2)', 'Uniswap (v2)']"
+380,DTR,"['HitBTC', 'HitBTC']"
+381,AUCTION,"['Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap']"
+382,OCCT,"['Uniswap (v2)', 'Uniswap (v2)']"
+383,EVC,"['Uniswap (v3)', 'Uniswap (v3)']"
+384,RLC,"['Bittrex', 'Coinbase Exchange', 'Ethfinex', 'Bithumb', 'Uniswap (v2)', 'Bittrex', 'Coinbase Exchange', 'Ethfinex', 'Bithumb', 'Uniswap (v2)', 'Bittrex', 'Ethfinex']"
+385,BETA,"['Binance', 'Binance']"
+386,ATA,"['Binance', 'Binance', 'Binance', 'Binance', 'PancakeSwap']"
+387,XPD,"['YoBit', 'YoBit']"
+388,F11,"['Uniswap (v2)', 'Uniswap (v2)']"
+389,$dcap,"['PancakeSwap', 'PancakeSwap']"
+390,LTC,"['Liquid', 'Binance US', 'FTX', 'BitBay', 'Btcbox', 'Bitbank', 'Poloniex', 'Gatecoin', 'LMAX', 'Liquid', 'Binance US', 'FTX', 'BitBay', 'Btcbox', 'Bitbank', 'Poloniex', 'Gatecoin', 'LMAX', 'Okcoin', 'Binance', 'Stronghold', 'TheRockTrading', 'Bittrex', 'Bitlish', 'BTC-Alpha', 'Currency.com', 'CEX.IO', 'ZB', 'Binance', 'Coinbase Exchange', 'Binance', 'OKEx', 'Tidex', 'Bitlish', 'BeQuant', 'EXX', 'BigONE', 'HitBTC']"
+391,JOE,"['Trader Joe', 'Trader Joe', 'Trader Joe']"
+392,HOT,"['Uniswap (v2)', 'OKEx', 'Binance', 'Uniswap (v3)', 'Uniswap (v2)', 'OKEx', 'Binance', 'Uniswap (v3)', 'Binance', 'BigONE', 'Huobi Global']"
+393,FAM,"['PancakeSwap', 'PancakeSwap']"
+394,AQU,"['SpiritSwap', 'SpiritSwap']"
+395,SHELL,"['PancakeSwap', 'PancakeSwap']"
+396,bountie,"['Apeswap', 'Apeswap']"
+397,OCTO,"['Sushiswap', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)']"
+398,VIDZ,"['YoBit', 'YoBit']"
+399,SNGLS,"['Ethfinex', 'Bitfinex', 'Ethfinex', 'Bitfinex', 'Binance', 'EXX', 'Bitfinex', 'OKEx', 'EXX', 'Bitfinex']"
+400,TUSD,"['SouthXchange', 'Uniswap (v2)', 'Uniswap (v2)', 'Binance', 'SouthXchange', 'Uniswap (v2)', 'Uniswap (v2)', 'Binance', 'CEX.IO', 'Uniswap (v2)', 'Uniswap (v2)', 'ZB', 'Uniswap (v2)', 'PancakeSwap', 'Curve']"
+401,BTCN,"['PancakeSwap', 'PancakeSwap']"
+402,SIP,"['PancakeSwap', 'PancakeSwap']"
+403,GOMAX,"['PancakeSwap', 'PancakeSwap']"
+404,ROBOT,"['Balancer (v1)', 'Balancer (v1)', 'Balancer (v2)']"
+405,CBG,"['Uniswap (v2)', 'Uniswap (v2)']"
+406,IAG,"['Uniswap (v3)', 'Uniswap (v3)']"
+407,BTCB,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'HitBTC', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'HitBTC', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Sushiswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'PancakeSwap']"
+408,WSB,"['PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)']"
+409,XPM,"['BTC38', 'BTC38', 'bx.in.th']"
+410,LOGE,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+411,PRQ,"['Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v3)']"
+412,st,"['PancakeSwap', 'PancakeSwap']"
+413,GHST,"['Uniswap (v2)', 'Bibox', 'Uniswap (v2)', 'Bibox', 'Poloniex', 'Sushiswap', 'OKEx', 'Kraken']"
+414,GXT,"['Uniswap (v3)', 'Uniswap (v3)']"
+415,ZEN,"['HitBTC', 'Coinbase Exchange', 'HitBTC', 'Coinbase Exchange', 'EXX', 'Bittrex', 'Binance US']"
+416,LND,"['HitBTC', 'HitBTC', 'Liquid', 'Uniswap (v3)']"
+417,FREE,"['PancakeSwap', 'Uniswap (v3)', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v3)', 'Uniswap (v2)']"
+418,VERO,"['PancakeSwap', 'PancakeSwap']"
+419,ZINA,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+420,SNT,"['Upbit', 'Upbit', 'Gatecoin', 'Binance', 'Balancer (v1)', 'Ethfinex', 'Balancer (v1)', 'YoBit', 'Balancer (v1)', 'Poloniex']"
+421,PICKLE,"['Balancer (v1)', 'Balancer (v1)', 'Uniswap (v2)', 'Bibox', 'Uniswap (v2)']"
+422,PUMPKIN,"['PancakeSwap', 'PancakeSwap']"
+423,HBT,"['Uniswap (v2)', 'Uniswap (v2)', 'HitBTC']"
+424,IOTX,"['Coinbase Exchange', 'Coinbase Exchange', 'PancakeSwap', 'KuCoin', 'Bittrex', 'Huobi Global', 'Binance', 'Bittrex']"
+425,ELC,"['Bitforex', 'Bitforex', 'Bitforex']"
+426,PPN,"['Uniswap (v2)', 'Uniswap (v2)']"
+427,AXS,"['Bithumb', 'Kraken', 'Balancer (v2)', 'Binance', 'Bithumb', 'Kraken', 'Balancer (v2)', 'Binance', 'Uniswap (v3)', 'Coinbase Exchange', 'Balancer (v2)']"
+428,WAN,"['KuCoin', 'KuCoin', 'Huobi Global']"
+429,BADGER,"['Binance', 'Binance', 'Coinbase Exchange', 'FTX', 'Uniswap (v2)']"
+430,BHSC,"['Balancer (v1)', 'Balancer (v1)', 'Balancer (v1)']"
+431,MONI,"['PancakeSwap', 'PancakeSwap']"
+432,EFIL,"['Sushiswap', 'Sushiswap', 'Uniswap (v2)']"
+433,SPELL,"['Huobi Global', 'Uniswap (v2)', 'Binance', 'Huobi Global', 'Uniswap (v2)', 'Binance', 'SpookySwap', 'Binance', 'SpiritSwap', 'OKEx']"
+434,UBXT,"['Uniswap (v2)', 'Uniswap (v2)']"
+435,FXT,"['HitBTC', 'HitBTC']"
+436,ZLW,"['Uniswap (v2)', 'Uniswap (v2)']"
+437,COPYCAT,"['Apeswap', 'Apeswap']"
+438,DUSK,"['Uniswap (v2)', 'Uniswap (v2)', 'Binance', 'Bitfinex', 'Bittrex', 'Binance', 'Binance', 'Binance']"
+439,MTL,"['Bittrex', 'Bittrex', 'Bancor', 'Bittrex', 'Bittrex', 'Bancor', 'ZB', 'OKEx', 'Bithumb']"
+440,YCT,"['PancakeSwap', 'PancakeSwap']"
+441,GMT,"['Bittrex', 'PancakeSwap', 'Bittrex', 'PancakeSwap', 'Binance', 'PancakeSwap', 'Coinbase Exchange']"
+442,IHF,"['Balancer (v1)', 'Balancer (v1)', 'Uniswap (v2)']"
+443,BOSS,"['PancakeSwap', 'PancakeSwap']"
+444,SPORE,"['PancakeSwap', 'PancakeSwap', 'Trader Joe']"
+445,KRM,"['HitBTC', 'HitBTC']"
+446,GAMEBOX,"['PancakeSwap', 'PancakeSwap']"
+447,MGH,"['Uniswap (v3)', 'Uniswap (v3)']"
+448,OTN,"['HitBTC', 'HitBTC']"
+449,CHINU,"['Uniswap (v2)', 'Uniswap (v2)']"
+450,FCT,"['Upbit', 'Upbit']"
+451,MBOX,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+452,waru,"['Sushiswap', 'Sushiswap']"
+453,BTCD,"['Bittrex', 'Bittrex']"
+454,KCASH,"['EXX', 'Huobi Global', 'EXX', 'Huobi Global', 'Huobi Global']"
+455,BOE,"['Bibox', 'Bibox']"
+456,TGBP,"['Balancer (v1)', 'Balancer (v1)']"
+457,RAZOR,"['Uniswap (v2)', 'Uniswap (v2)']"
+458,FEI,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Balancer (v2)']"
+459,FLOAT,"['Sushiswap', 'Sushiswap']"
+460,COD,"['PancakeSwap', 'PancakeSwap']"
+461,LAZYSHIBA,"['PancakeSwap', 'PancakeSwap']"
+462,xca,"['PancakeSwap', 'PancakeSwap']"
+463,KOMPETE,"['Uniswap (v2)', 'Uniswap (v2)']"
+464,CTSI,"['Binance', 'Bithumb', 'Binance', 'Bithumb', 'Uniswap (v3)', 'Uniswap (v2)']"
+465,SNN,"['PancakeSwap', 'PancakeSwap']"
+466,ETHMNY,"['Sushiswap', 'Balancer (v1)', 'Sushiswap', 'Balancer (v1)', 'Uniswap (v3)']"
+467,NANO,"['HitBTC', 'Kraken', 'Huobi Global', 'Binance', 'HitBTC', 'Kraken', 'Huobi Global', 'Binance', 'Kraken', 'EXX']"
+468,SPRKL,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+469,brg,"['PancakeSwap', 'PancakeSwap']"
+470,CNTR,"['Sushiswap', 'Sushiswap', 'Uniswap (v2)']"
+471,OLIVE,"['PancakeSwap', 'PancakeSwap']"
+472,SGB,"['Bitfinex', 'Bitfinex', 'Bitstamp']"
+473,NEC,"['Ethfinex', 'Ethfinex', 'Bitfinex']"
+474,X8X,"['Uniswap (v2)', 'Uniswap (v2)']"
+475,SUPERBID,"['Uniswap (v2)', 'Uniswap (v2)']"
+476,FETCH,"['PancakeSwap', 'PancakeSwap']"
+477,CDS,"['PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)']"
+478,OMG,"['Kraken', 'KuCoin', 'Upbit', 'Kraken', 'KuCoin', 'Upbit', 'CoinEx', 'Bancor', 'Bittrex', 'Bibox', 'Upbit', 'Liquid', 'BigONE', 'Huobi Global', 'Bitfinex']"
+479,ATOM,"['OKEx', 'Huobi Global', 'Coinbase Exchange', 'Bitfinex', 'Kraken', 'OKEx', 'Huobi Global', 'Coinbase Exchange', 'Bitfinex', 'Kraken', 'Bibox', 'Binance', 'Coinbase Exchange', 'Hotbit', 'Okcoin', 'Bitforex', 'Bitfinex', 'Kraken', 'PancakeSwap', 'Hotbit', 'Kraken', 'Poloniex']"
+480,SOC,"['Huobi Global', 'Huobi Global', 'OKEx', 'OKEx']"
+481,MRK,"['HitBTC', 'HitBTC', 'Liquid']"
+482,PLOT,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)']"
+483,HEX,"['PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+484,ELON,"['Sushiswap', 'Sushiswap', 'Sushiswap', 'Uniswap (v3)']"
+485,VBN,"['PancakeSwap', 'PancakeSwap']"
+486,PKG,"['Uniswap (v3)', 'Uniswap (v3)']"
+487,ALPHA,"['Trader Joe', 'Uniswap (v2)', 'Trader Joe', 'Uniswap (v2)', 'Bitstamp', 'KuCoin', 'OKEx', 'Binance', 'Binance']"
+488,MBL,"['Binance', 'Binance']"
+489,PND,"['YoBit', 'YoBit']"
+490,ALBT,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+491,ORAI,"['PancakeSwap', 'KuCoin', 'PancakeSwap', 'KuCoin']"
+492,ACED,"['Uniswap (v2)', 'Uniswap (v2)']"
+493,SEELE,"['Uniswap (v2)', 'Uniswap (v2)', 'CoinEx', 'CoinEx', 'Huobi Global']"
+494,TSP,"['PancakeSwap', 'PancakeSwap']"
+495,QRDO,"['KuCoin', 'CoinEx', 'KuCoin', 'CoinEx', 'Uniswap (v2)', 'Uniswap (v3)']"
+496,RYOSHI,"['Uniswap (v2)', 'Uniswap (v2)']"
+497,TAT,"['PancakeSwap', 'PancakeSwap']"
+498,YOU,"['OKEx', 'OKEx', 'Bittrex']"
+499,BORA,"['BigONE', 'BigONE', 'OKEx']"
+500,IBETH,"['Uniswap (v2)', 'Uniswap (v2)']"
+501,OCEAN,"['Sushiswap', 'Bit-Z', 'Balancer (v1)', 'Sushiswap', 'Bit-Z', 'Balancer (v1)', 'Uniswap (v2)', 'CEX.IO', 'Binance', 'Uniswap (v2)', 'YoBit', 'Balancer (v1)', 'Hotbit']"
+502,QASH,"['EXX', 'Bitfinex', 'EXX', 'Bitfinex']"
+503,dlc,"['Trader Joe', 'Trader Joe']"
+504,singme,"['PancakeSwap', 'PancakeSwap']"
+505,LOOMOLD,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)']"
+506,BLT,"['Uniswap (v3)', 'Uniswap (v3)']"
+507,QRL,"['Upbit', 'Bittrex', 'Upbit', 'Bittrex']"
+508,ALPINE,"['Binance', 'Binance', 'Binance']"
+509,AVS,"['Uniswap (v2)', 'Uniswap (v2)']"
+510,BLC,"['Bittrex', 'Bittrex']"
+511,BANKBTC,"['Uniswap (v2)', 'Uniswap (v2)']"
+512,RGEN,"['PancakeSwap', 'PancakeSwap']"
+513,LEV,"['OKEx', 'OKEx', 'OKEx', 'OKEx', 'Uniswap (v2)', 'PancakeSwap']"
+514,TRIBE,"['CoinEx', 'Coinbase Exchange', 'CoinEx', 'Coinbase Exchange', 'Bibox', 'Balancer (v2)']"
+515,SAND,"['Huobi Global', 'Balancer (v2)', 'Bitstamp', 'BigONE', 'Gemini', 'Huobi Global', 'Balancer (v2)', 'Bitstamp', 'BigONE', 'Gemini', 'Uniswap (v3)', 'Uniswap (v2)', 'Binance', 'Uniswap (v3)', 'Upbit', 'Uniswap (v2)', 'Kraken', 'Uniswap (v2)']"
+516,LON,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+517,vtg,"['Apeswap', 'Apeswap', 'Apeswap', 'Apeswap']"
+518,FRAK,"['Uniswap (v3)', 'Uniswap (v3)']"
+519,MFT,"['Binance', 'Balancer (v1)', 'Binance', 'Balancer (v1)', 'Upbit', 'HitBTC', 'Binance', 'Binance', 'Bittrex']"
+520,REX,"['HitBTC', 'HitBTC']"
+521,REEF,"['Bitfinex', 'Bitfinex', 'HitBTC']"
+522,GSWAP,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Balancer (v1)']"
+523,BELUGA,"['PancakeSwap', 'PancakeSwap']"
+524,TOMOE,"['Uniswap (v2)', 'Uniswap (v2)']"
+525,3CRV,"['Curve', 'Curve', 'Curve', 'Curve', 'Curve', 'Curve', 'Curve', 'Curve', 'Uniswap (v3)']"
+526,NLG,"['YoBit', 'YoBit']"
+527,PLAY,"['Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap']"
+528,XCV,"['PancakeSwap', 'PancakeSwap', 'Apeswap']"
+529,arti,"['PancakeSwap', 'PancakeSwap']"
+530,INT,"['Bitfinex', 'Bitfinex']"
+531,OOKS,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap']"
+532,KEY,"['Uniswap (v2)', 'Uniswap (v2)', 'Binance', 'Uniswap (v3)']"
+533,API3,"['Balancer (v1)', 'Balancer (v1)']"
+534,KISHU,"['OKEx', 'OKEx']"
+535,SMDX,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+536,AU,"['PancakeSwap', 'PancakeSwap']"
+537,ENJ,"['Coinbase Exchange', 'Liquid', 'Huobi Global', 'Binance', 'Binance', 'Coinbase Exchange', 'Liquid', 'Huobi Global', 'Binance', 'Binance', 'Balancer (v2)', 'Korbit', 'Bancor', 'Bitstamp', 'Binance']"
+538,FLURRY,"['PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap']"
+539,1ST,"['EXX', 'EXX', 'OKEx']"
+540,WRK,"['Uniswap (v2)', 'Uniswap (v2)']"
+541,BTG,"['CEX.IO', 'AnyBits', 'CEX.IO', 'AnyBits', 'Bit-Z', 'BeQuant', 'Bitlish', 'Bitibu', 'Coinone', 'Bitlish', 'Bittrex']"
+542,8BIT,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+543,SEN,"['Ethfinex', 'Ethfinex']"
+544,MOO,"['PancakeSwap', 'PancakeSwap', 'Ubeswap', 'PancakeSwap']"
+545,MATE,"['PancakeSwap', 'PancakeSwap']"
+546,BTS,"['Binance', 'Binance', 'EXX', 'Upbit', 'PancakeSwap', 'ZB']"
+547,BLN,"['PancakeSwap', 'PancakeSwap']"
+548,ETN,"['KuCoin', 'KuCoin']"
+549,MIM,"['SpookySwap', 'SpiritSwap', 'Solarbeam', 'SpookySwap', 'Uniswap (v3)', 'SpookySwap', 'SpiritSwap', 'Solarbeam', 'SpookySwap', 'Uniswap (v3)', 'SpiritSwap', 'Uniswap (v2)', 'Uniswap (v3)', 'SpookySwap', 'Trader Joe', 'Trader Joe', 'SpookySwap', 'Trader Joe', 'Trader Joe', 'Trader Joe', 'SpookySwap', 'Sushiswap']"
+550,ANC,"['CoinEx', 'KuCoin', 'Bitfinex', 'CoinEx', 'CoinEx', 'KuCoin', 'Bitfinex', 'CoinEx', 'OKEx', 'FTX']"
+551,ZOM,"['Uniswap (v2)', 'Uniswap (v2)']"
+552,UCT,"['OKEx', 'OKEx', 'Bittrex']"
+553,CNDL,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)']"
+554,YI12,"['Uniswap (v2)', 'Uniswap (v2)']"
+555,GRC,"['Poloniex', 'Poloniex', 'EXX']"
+556,KWT,"['PancakeSwap', 'PancakeSwap']"
+557,laika,"['Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)']"
+558,MDS,"['Uniswap (v2)', 'Huobi Global', 'Uniswap (v2)', 'Huobi Global']"
+559,HEGIC,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)']"
+560,TOPC,"['Huobi Global', 'OKEx', 'Huobi Global', 'OKEx', 'EXX']"
+561,PARA,"['Uniswap (v2)', 'Uniswap (v2)', 'YoBit']"
+562,TRDG,"['PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)']"
+563,BTTOLD,"['Sushiswap', 'Sushiswap']"
+564,XTRD,"['Uniswap (v2)', 'Uniswap (v2)']"
+565,BCPT,"['Upbit', 'Upbit', 'Binance', 'Binance']"
+566,SPND,"['Bittrex', 'Bittrex']"
+567,AID,"['Ethfinex', 'Uniswap (v2)', 'Ethfinex', 'Uniswap (v2)', 'Ethfinex']"
+568,WMC,"['YoBit', 'YoBit']"
+569,SUR,"['HitBTC', 'HitBTC']"
+570,HIFI,"['PancakeSwap', 'PancakeSwap']"
+571,OM,"['Uniswap (v2)', 'Binance', 'Uniswap (v2)', 'Binance']"
+572,imv,"['PancakeSwap', 'PancakeSwap']"
+573,FIBO,"['PancakeSwap', 'PancakeSwap']"
+574,WLO,"['Bitfinex', 'Bitfinex', 'Liquid']"
+575,CHADS,"['Uniswap (v2)', 'Uniswap (v2)']"
+576,SFI,"['Uniswap (v3)', 'Uniswap (v3)']"
+577,FANG,"['SpookySwap', 'SpookySwap']"
+578,CBIX,"['PancakeSwap', 'PancakeSwap']"
+579,RICH,"['SpookySwap', 'SpookySwap']"
+580,DUST,"['Balancer (v1)', 'Balancer (v1)', 'Balancer (v1)', 'Balancer (v1)']"
+581,CUSD,"['Ubeswap', 'Ubeswap', 'Bittrex', 'Ubeswap', 'Ubeswap', 'Okcoin']"
+582,BMXX,"['Apeswap', 'Apeswap']"
+583,UFO,"['Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)']"
+584,SWT,"['HitBTC', 'Bittrex', 'HitBTC', 'Bittrex', 'PancakeSwap']"
+585,qwla,"['Uniswap (v3)', 'Uniswap (v3)']"
+586,CCT,"['HitBTC', 'HitBTC']"
+587,REP,"['Kraken', 'Balancer (v1)', 'KuCoin', 'Kraken', 'Balancer (v1)', 'KuCoin', 'Coinbase Exchange', 'EXX', 'Uniswap (v2)', 'Uniswap (v2)', 'AnyBits', 'Currency.com', 'Ethfinex', 'Kraken']"
+588,LPK,"['PancakeSwap', 'PancakeSwap']"
+589,YFPRO,"['Uniswap (v2)', 'Uniswap (v2)']"
+590,AVE,"['Trader Joe', 'Trader Joe', 'Trader Joe']"
+591,MINIMONGOOSE,"['Uniswap (v2)', 'Uniswap (v2)']"
+592,JST,"['Bithumb', 'Bitfinex', 'OKEx', 'Bithumb', 'Bitfinex', 'OKEx', 'HitBTC', 'Binance', 'HitBTC', 'Binance']"
+593,SING,"['Apeswap', 'Apeswap']"
+594,GOHM,"['Uniswap (v2)', 'Uniswap (v2)']"
+595,LAMB,"['Bibox', 'Uniswap (v2)', 'Huobi Global', 'Bibox', 'Uniswap (v2)', 'Huobi Global', 'Bibox', 'OKEx']"
+596,ANT,"['Binance', 'Uniswap (v2)', 'Binance', 'Uniswap (v2)', 'Upbit', 'Kraken', 'HitBTC', 'CEX.IO']"
+597,WAVAX,"['Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe']"
+598,CDT,"['HitBTC', 'PancakeSwap', 'HitBTC', 'PancakeSwap', 'Binance', 'Gatecoin', 'PancakeSwap', 'PancakeSwap']"
+599,LIGHT,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'EXX', 'EXX']"
+600,PLA,"['Bittrex', 'Uniswap (v3)', 'Bittrex', 'Uniswap (v3)', 'Binance', 'Binance', 'Bittrex', 'Uniswap (v2)', 'Binance', 'Coinbase Exchange', 'Binance']"
+601,GMX,"['PancakeSwap', 'Uniswap (v3)', 'PancakeSwap', 'Uniswap (v3)']"
+602,RIF,"['HitBTC', 'Binance', 'HitBTC', 'Binance', 'Liquid', 'KuCoin']"
+603,XVE,"['YoBit', 'YoBit']"
+604,ONE,"['PancakeSwap', 'Binance', 'PancakeSwap', 'Binance']"
+605,SWFTC,"['Huobi Global', 'Uniswap (v2)', 'HitBTC', 'Poloniex', 'Huobi Global', 'Uniswap (v2)', 'HitBTC', 'Poloniex', 'EXX', 'Huobi Global']"
+606,TFUEL,"['Hotbit', 'Hotbit', 'Binance']"
+607,MTRL,"['Balancer (v2)', 'Balancer (v2)']"
+608,KEEP,"['Binance', 'Binance', 'Uniswap (v3)']"
+609,joc,"['Sushiswap', 'Sushiswap']"
+610,FLOW,"['HitBTC', 'HitBTC', 'Binance']"
+611,NUTS,"['Apeswap', 'Apeswap']"
+612,TONCOIN,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'PancakeSwap']"
+613,FUSDT,"['SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpiritSwap', 'SpookySwap', 'Sushiswap', 'SpookySwap', 'SpookySwap', 'SpookySwap', 'SpiritSwap', 'SpookySwap', 'SpookySwap', 'SpookySwap']"
+614,spdc,"['PancakeSwap', 'PancakeSwap']"
+615,LORY,"['Apeswap', 'Apeswap']"
+616,ORE,"['Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap']"
+617,ERC20,"['PancakeSwap', 'PancakeSwap']"
+618,DOS,"['Balancer (v1)', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)']"
+619,PSP,"['Balancer (v2)', 'Balancer (v2)']"
+620,FUEL,"['ACX', 'ACX', 'HitBTC']"
+621,LUMI,"['PancakeSwap', 'PancakeSwap']"
+622,shibkiller,"['PancakeSwap', 'PancakeSwap']"
+623,WOW,"['PancakeSwap', 'PancakeSwap']"
+624,Argon,"['PancakeSwap', 'PancakeSwap']"
+625,C20,"['Balancer (v1)', 'Balancer (v1)', 'HitBTC']"
+626,IFT,"['HitBTC', 'HitBTC', 'YoBit']"
+627,REN,"['Uniswap (v3)', 'Uniswap (v2)', 'Balancer (v1)', 'Uniswap (v3)', 'Uniswap (v2)', 'Balancer (v1)', 'Balancer (v1)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'CoinEx', 'Huobi Global', 'Sushiswap', 'Liquid', 'Coinbase Exchange']"
+628,TRB,"['Binance', 'Huobi Global', 'Balancer (v1)', 'Binance', 'Huobi Global', 'Balancer (v1)', 'OKEx']"
+629,shr,"['PancakeSwap', 'PancakeSwap']"
+630,BEAM,"['Binance', 'Binance', 'Binance']"
+631,BCH,"['Binance', 'Kraken', 'Binance', 'Kraken', 'Bithumb', 'BeQuant', 'Liquid', 'CoinEgg', 'Korbit', 'Upbit', 'YoBit', 'CoinEx', 'TheRockTrading', 'Gemini', 'Bitfinex', 'FTX', 'Binance', 'LMAX', 'Bittrex', 'OKEx', 'Kraken', 'LMAX', 'Bithumb']"
+632,ERTHA,"['PancakeSwap', 'PancakeSwap']"
+633,ETHOS,"['Bithumb', 'Bithumb', 'Uniswap (v2)', 'HitBTC', 'PancakeSwap', 'Binance']"
+634,WDGLD,"['Balancer (v2)', 'Balancer (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+635,STAKE,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+636,AGI,"['Bitfinex', 'Bitfinex', 'Tidex', 'KuCoin']"
+637,ROX,"['Uniswap (v2)', 'Uniswap (v2)']"
+638,UPXAU,"['Bittrex', 'Bittrex', 'Bittrex', 'Uniswap (v2)']"
+639,LC,"['Apeswap', 'Apeswap']"
+640,THETA,"['Bithumb', 'OKEx', 'Bithumb', 'OKEx', 'EXX']"
+641,movx,"['PancakeSwap', 'PancakeSwap']"
+642,MON,"['PancakeSwap', 'PancakeSwap']"
+643,BUTTER,"['PancakeSwap', 'PancakeSwap']"
+644,YFRM,"['Uniswap (v2)', 'Uniswap (v2)']"
+645,LQD,"['Uniswap (v2)', 'Uniswap (v2)']"
+646,BSCB,"['PancakeSwap', 'PancakeSwap']"
+647,HARAMBE,"['Uniswap (v3)', 'Uniswap (v3)']"
+648,INJ,"['Huobi Global', 'Kraken', 'Huobi Global', 'Kraken']"
+649,RUNE,"['Sushiswap', 'Sushiswap', 'Sushiswap', 'Sushiswap', 'Sushiswap', 'FTX', 'HitBTC']"
+650,EDO,"['Binance', 'Binance', 'HitBTC', 'OKEx']"
+651,QVT,"['PancakeSwap', 'PancakeSwap']"
+652,SMS,"['HitBTC', 'AnyBits', 'HitBTC', 'AnyBits']"
+653,BCX,"['Huobi Global', 'Huobi Global']"
+654,HBAR,"['KuCoin', 'KuCoin', 'Bittrex']"
+655,ESD,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap']"
+656,POLI,"['Uniswap (v2)', 'Uniswap (v2)']"
+657,TCN,"['YoBit', 'YoBit']"
+658,CHX,"['HitBTC', 'HitBTC']"
+659,DFC,"['PancakeSwap', 'PancakeSwap']"
+660,NFTD,"['PancakeSwap', 'PancakeSwap']"
+661,FIRO,"['BTC38', 'Binance', 'BTC38', 'Binance', 'Bitforex', 'Binance', 'Hotbit', 'Bittrex']"
+662,BICO,"['Huobi Global', 'Huobi Global', 'Coinbase Exchange']"
+663,CPU,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)']"
+664,tvk,"['Binance', 'Binance']"
+665,reef,"['Huobi Global', 'Huobi Global']"
+666,SPA,"['Uniswap (v3)', 'Uniswap (v3)', 'SpookySwap']"
+667,LQDR,"['Sushiswap', 'SpookySwap', 'Sushiswap', 'SpookySwap', 'SpiritSwap', 'Sushiswap', 'SpookySwap']"
+668,MCUSD,"['Ubeswap', 'Ubeswap']"
+669,COVA,"['Huobi Global', 'Hotbit', 'Huobi Global', 'Huobi Global', 'Hotbit', 'Huobi Global']"
+670,KAT,"['Hotbit', 'Hotbit']"
+671,CELO,"['Bittrex', 'Sushiswap', 'Bittrex', 'Sushiswap', 'Ubeswap', 'Huobi Global', 'Coinbase Exchange', 'Coinbase Exchange', 'Ubeswap', 'Sushiswap', 'Ubeswap', 'Coinbase Exchange']"
+672,ROUTE,"['Uniswap (v2)', 'Uniswap (v2)']"
+673,PETS,"['Solarbeam', 'Solarbeam', 'Apeswap']"
+674,FTT,"['Uniswap (v2)', 'FTX', 'Uniswap (v2)', 'FTX', 'Bitstamp', 'Poloniex', 'FTX', 'Bitfinex']"
+675,MRUN,"['PancakeSwap', 'PancakeSwap']"
+676,NZD,"['Currency.com', 'Currency.com', 'Currency.com']"
+677,SRM,"['Binance', 'Bitfinex', 'Kraken', 'Binance', 'Bitfinex', 'Kraken', 'Upbit', 'Uniswap (v2)', 'Poloniex']"
+678,MPG,"['PancakeSwap', 'PancakeSwap']"
+679,GNT,"['CoinEx', 'Upbit', 'CoinEx', 'Upbit', 'Binance', 'Korbit', 'Poloniex']"
+680,COFFIN,"['SpookySwap', 'SpookySwap']"
+681,RATING,"['Hotbit', 'Hotbit']"
+682,HIBIKI,"['PancakeSwap', 'PancakeSwap']"
+683,UMY,"['PancakeSwap', 'PancakeSwap']"
+684,DUET,"['PancakeSwap', 'PancakeSwap']"
+685,INDEX,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)']"
+686,LOOM,"['Uniswap (v2)', 'Hotbit', 'Uniswap (v2)', 'Hotbit', 'HitBTC', 'YoBit', 'Binance', 'Bittrex', 'Binance']"
+687,LIC,"['PancakeSwap', 'PancakeSwap']"
+688,HEROEGG,"['Apeswap', 'Apeswap']"
+689,VVT,"['Uniswap (v2)', 'Uniswap (v2)']"
+690,IMX,"['Binance', 'Solarbeam', 'Binance', 'Solarbeam', 'FTX', 'Huobi Global', 'ZB', 'Kraken', 'Coinbase Exchange', 'Kraken', 'BigONE', 'Bitforex']"
+691,MBTC,"['Sushiswap', 'Sushiswap']"
+692,CMK,"['Sushiswap', 'Sushiswap']"
+693,FRTS,"['Uniswap (v2)', 'Uniswap (v2)']"
+694,CLO,"['Bitforex', 'Bitforex', 'HitBTC']"
+695,bzrx,"['Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap']"
+696,WICK,"['Uniswap (v2)', 'Uniswap (v2)']"
+697,MIR,"['KuCoin', 'PancakeSwap', 'KuCoin', 'PancakeSwap', 'Huobi Global', 'KuCoin', 'Gemini', 'Uniswap (v2)', 'Coinbase Exchange']"
+698,DIOS,"['PancakeSwap', 'PancakeSwap']"
+699,PANGOLIN,"['PancakeSwap', 'PancakeSwap']"
+700,EFI,"['Sushiswap', 'Sushiswap', 'OKEx', 'Huobi Global', 'Uniswap (v3)']"
+701,,"['Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)']"
+702,MGO,"['Bitforex', 'Bitfinex', 'Bitforex', 'Bitfinex']"
+703,PYR,"['Huobi Global', 'Huobi Global', 'Binance']"
+704,P2P,"['Uniswap (v2)', 'Uniswap (v2)']"
+705,SPH,"['Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap']"
+706,mtvg,"['PancakeSwap', 'PancakeSwap']"
+707,OHM,"['Sushiswap', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap', 'Sushiswap', 'Uniswap (v3)']"
+708,LDO,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Balancer (v2)', 'Uniswap (v3)']"
+709,GLXM,"['PancakeSwap', 'PancakeSwap']"
+710,RAFF,"['PancakeSwap', 'PancakeSwap']"
+711,z7,"['PancakeSwap', 'PancakeSwap']"
+712,L2,"['Sushiswap', 'Sushiswap', 'Balancer (v1)']"
+713,CHEFCAKE,"['PancakeSwap', 'PancakeSwap']"
+714,DERC,"['PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap', 'Sushiswap']"
+715,SIN,"['PancakeSwap', 'PancakeSwap']"
+716,TFBX,"['Uniswap (v2)', 'Uniswap (v2)']"
+717,RGT,"['Bittrex', 'Bittrex', 'Binance']"
+718,XYZ,"['Sushiswap', 'Sushiswap']"
+719,duw,"['PancakeSwap', 'PancakeSwap']"
+720,RETH,"['Balancer (v2)', 'Balancer (v2)', 'Balancer (v2)', 'Balancer (v2)', 'Uniswap (v3)']"
+721,CSM,"['PancakeSwap', 'PancakeSwap', 'HitBTC', 'HitBTC']"
+722,CHI,"['Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)']"
+723,ALICE,"['CoinEx', 'Uniswap (v2)', 'HitBTC', 'CoinEx', 'Uniswap (v2)', 'HitBTC', 'Binance', 'Kraken', 'Kraken']"
+724,CNFT,"['Uniswap (v2)', 'Uniswap (v2)']"
+725,AMPL,"['FTX', 'Uniswap (v3)', 'FTX', 'Uniswap (v3)', 'Ethfinex', 'Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v2)']"
+726,HAVEN,"['PancakeSwap', 'PancakeSwap']"
+727,UBT,"['Liquid', 'Bittrex', 'Bancor', 'Uniswap (v2)', 'Liquid', 'Bittrex', 'Bancor', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v2)']"
+728,LMCH,"['Uniswap (v2)', 'Uniswap (v2)', 'OKEx']"
+729,BTX,"['HitBTC', 'HitBTC', 'HitBTC']"
+730,BXMI,"['Uniswap (v2)', 'Uniswap (v2)']"
+731,CMP,"['Uniswap (v2)', 'Uniswap (v2)']"
+732,CVP,"['OKEx', 'Huobi Global', 'OKEx', 'Huobi Global', 'PancakeSwap']"
+733,HUM,"['FTX', 'FTX']"
+734,YOOSHI,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+735,BUMP,"['Uniswap (v3)', 'Uniswap (v3)']"
+736,space,"['PancakeSwap', 'PancakeSwap']"
+737,CTX,"['HitBTC', 'FTX', 'HitBTC', 'FTX', 'Uniswap (v2)']"
+738,ZERO,"['PancakeSwap', 'PancakeSwap', 'Uniswap (v2)']"
+739,ALCX,"['Binance', 'FTX', 'Coinbase Exchange', 'Binance', 'FTX', 'Coinbase Exchange']"
+740,DSD,"['Uniswap (v2)', 'Uniswap (v2)']"
+741,AKRO,"['HitBTC', 'HitBTC', 'KuCoin']"
+742,XMR,"['Huobi Global', 'OKEx', 'SouthXchange', 'HitBTC', 'Huobi Global', 'OKEx', 'SouthXchange', 'HitBTC', 'Bitlish', 'BitBay', 'OKEx', 'CoinEx', '', 'Binance', 'Bittrex', 'KuCoin', 'Ethfinex']"
+743,WEC,"['Uniswap (v2)', 'Uniswap (v2)']"
+744,OGN,"['Bittrex', 'Coinbase Exchange', 'Coinbase Exchange', 'Bittrex', 'Coinbase Exchange', 'Coinbase Exchange', 'Upbit', 'Balancer (v1)', 'HitBTC', 'ZB', 'Binance', 'KuCoin']"
+745,IMT,"['PancakeSwap', 'PancakeSwap', 'Bitforex']"
+746,MOMAT,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+747,INK,"['ZB', 'Bit-Z', 'ZB', 'Bit-Z', 'EXX', 'YoBit']"
+748,LQTY,"['Coinbase Exchange', 'Coinbase Exchange', 'Balancer (v2)', 'Balancer (v2)']"
+749,PPT,"['OKEx', 'OKEx']"
+750,POND,"['ZB', 'ZB', 'Uniswap (v3)']"
+751,IOST,"['Hotbit', 'Binance', 'Hotbit', 'Binance', 'EXX', 'Binance', 'Huobi Global']"
+752,DOGES,"['Uniswap (v2)', 'Uniswap (v2)']"
+753,EOSDAC,"['Bithumb', 'BigONE', 'Bithumb', 'BigONE', 'Hotbit']"
+754,metaufo,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+755,BCC,"['Binance', 'Binance', 'Binance']"
+756,STZ,"['Apeswap', 'Apeswap', 'Apeswap']"
+757,LUNR,"['PancakeSwap', 'PancakeSwap']"
+758,TRDL,"['Sushiswap', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v3)', 'Uniswap (v2)']"
+759,ZINU,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+760,RAMP,"['Sushiswap', 'Sushiswap', 'PancakeSwap', 'HitBTC', 'Binance']"
+761,PAR,"['Uniswap (v3)', 'Uniswap (v3)']"
+762,CVC,"['Bittrex', 'Bittrex', 'Balancer (v2)', 'CoinEx', 'Bittrex', 'Bittrex', 'Balancer (v2)', 'CoinEx', 'Poloniex', 'Huobi Global', 'Balancer (v2)']"
+763,METAPETS,"['PancakeSwap', 'PancakeSwap']"
+764,QKC,"['KuCoin', 'KuCoin']"
+765,TCR,"['Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap']"
+766,o,"['Uniswap (v3)', 'Uniswap (v3)']"
+767,DHS,"['Uniswap (v2)', 'Uniswap (v2)']"
+768,DEA,"['Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)']"
+769,2OMB,"['SpookySwap', 'SpookySwap', 'SpookySwap']"
+770,SON,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+771,HERA,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Apeswap', 'Apeswap']"
+772,milky,"['PancakeSwap', 'PancakeSwap']"
+773,SFUND,"['PancakeSwap', 'PancakeSwap', 'Apeswap']"
+774,LATX,"['YoBit', 'YoBit', 'YoBit', 'Bitforex']"
+775,DOGEFI,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+776,DLT,"['HitBTC', 'HitBTC', 'Binance']"
+777,OCTANE,"['PancakeSwap', 'PancakeSwap']"
+778,METAM,"['PancakeSwap', 'PancakeSwap']"
+779,BRICK,"['PancakeSwap', 'PancakeSwap']"
+780,MICROSHIB,"['PancakeSwap', 'PancakeSwap']"
+781,tax,"['PancakeSwap', 'PancakeSwap']"
+782,TEAM,"['Bit-Z', 'Bit-Z', 'Bit-Z']"
+783,usdex,"['PancakeSwap', 'PancakeSwap']"
+784,YFID,"['Uniswap (v2)', 'Uniswap (v2)']"
+785,FLIXX,"['Bittrex', 'Bittrex']"
+786,KSM,"['Bibox', 'Kraken', 'Bibox', 'Kraken', 'Bitfinex']"
+787,C98,"['Coinbase Exchange', 'Coinbase Exchange', 'Sushiswap', 'Uniswap (v3)']"
+788,PYRO,"['Uniswap (v2)', 'Uniswap (v2)']"
+789,JIND,"['PancakeSwap', 'PancakeSwap']"
+790,SAFEMOON,"['PancakeSwap', 'PancakeSwap']"
+791,MOONS,"['Uniswap (v2)', 'Uniswap (v2)']"
+792,ONG,"['Liquid', 'Liquid', 'Upbit']"
+793,IDYP,"['Uniswap (v2)', 'Uniswap (v2)']"
+794,punk,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+795,KTN,"['Uniswap (v2)', 'Uniswap (v2)']"
+796,SMRAT,"['PancakeSwap', 'PancakeSwap']"
+797,SMBSWAP,"['Uniswap (v2)', 'Uniswap (v2)']"
+798,SOS,"['Sushiswap', 'Sushiswap', 'PancakeSwap']"
+799,SAFEMARS,"['PancakeSwap', 'PancakeSwap']"
+800,DFIAT,"['Trader Joe', 'Trader Joe']"
+801,PERP,"['Binance', 'Binance', 'OKEx', 'Kraken', 'Binance']"
+802,CHECOIN,"['PancakeSwap', 'PancakeSwap']"
+803,GRO,"['Balancer (v2)', 'Balancer (v2)']"
+804,BNK,"['HitBTC', 'HitBTC']"
+805,CRE,"['Bit-Z', 'Bit-Z', 'BigONE']"
+806,CMCX,"['PancakeSwap', 'PancakeSwap']"
+807,AXUS,"['Uniswap (v2)', 'Uniswap (v2)']"
+808,BSCM,"['PancakeSwap', 'PancakeSwap']"
+809,FARM,"['Binance', 'Binance', 'Coinbase Exchange', 'HitBTC', 'Balancer (v1)']"
+810,DOGEKING,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+811,CYCLUB,"['Uniswap (v2)', 'Uniswap (v2)']"
+812,LWF,"['HitBTC', 'HitBTC', 'HitBTC']"
+813,SYN,"['Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe', 'Trader Joe', 'Uniswap (v3)']"
+814,H3X,"['Uniswap (v2)', 'Uniswap (v2)']"
+815,KLAY,"['Korbit', 'KuCoin', 'Korbit', 'KuCoin']"
+816,LST,"['EXX', 'EXX', 'EXX']"
+817,XRA,"['Uniswap (v2)', 'Uniswap (v2)']"
+818,GALEON,"['PancakeSwap', 'PancakeSwap']"
+819,MUE,"['Bittrex', 'Bittrex']"
+820,NEU,"['YoBit', 'YoBit', 'HitBTC', 'BitBay']"
+821,STA,"['SpookySwap', 'SpookySwap', 'Uniswap (v2)']"
+822,XLC,"['HitBTC', 'HitBTC', 'PancakeSwap']"
+823,NCT,"['HitBTC', 'HitBTC']"
+824,FEAR,"['Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap']"
+825,SOV,"['Uniswap (v3)', 'Uniswap (v3)']"
+826,UFR,"['Bitfinex', 'Bitfinex']"
+827,XNS,"['Binance', 'Binance', 'HitBTC', 'EXX']"
+828,POOL,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+829,CYFM,"['PancakeSwap', 'PancakeSwap']"
+830,JEJUDOGE,"['Uniswap (v2)', 'Uniswap (v2)']"
+831,SOLVE,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+832,PEX,"['PancakeSwap', 'PancakeSwap']"
+833,VISIO,"['YoBit', 'YoBit']"
+834,XDN,"['HitBTC', 'HitBTC']"
+835,CWV,"['Bibox', 'Bibox']"
+836,REALM,"['PancakeSwap', 'PancakeSwap']"
+837,TWIN,"['PancakeSwap', 'PancakeSwap', 'Apeswap']"
+838,SEA,"['Balancer (v2)', 'Balancer (v2)']"
+839,EPAY,"['Uniswap (v2)', 'Uniswap (v2)']"
+840,DML,"['Uniswap (v2)', 'Uniswap (v2)']"
+841,FORM,"['Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap']"
+842,bandex,"['Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap']"
+843,HE,"['PancakeSwap', 'PancakeSwap']"
+844,SOL,"['Binance', 'KuCoin', 'Kraken', 'Bithumb', 'Binance', 'KuCoin', 'Kraken', 'Bithumb', 'CoinEx', 'CoinEx', 'Kraken', 'HitBTC', 'Binance', 'Poloniex']"
+845,FACE,"['HitBTC', 'HitBTC']"
+846,WST,"['PancakeSwap', 'PancakeSwap']"
+847,CATS,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+848,HIRE,"['HitBTC', 'HitBTC']"
+849,sani,"['Uniswap (v2)', 'Uniswap (v2)']"
+850,SIG,"['Bittrex', 'Bittrex']"
+851,BLVR,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+852,BU,"['Bibox', 'Bibox', 'Bitforex']"
+853,ZWZ,"['PancakeSwap', 'PancakeSwap']"
+854,SPICE,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+855,bxtb,"['Uniswap (v2)', 'Uniswap (v2)']"
+856,BTM,"['CoinEx', 'CoinEx', 'YoBit', 'Huobi Global', 'Upbit', 'Huobi Global']"
+857,CRO,"['Huobi Global', 'BigONE', 'Huobi Global', 'BigONE', 'Bittrex', 'HitBTC', 'Coinbase Exchange']"
+858,ZUSD,"['Uniswap (v2)', 'Uniswap (v2)', 'PancakeSwap']"
+859,RCN,"['HitBTC', 'ZB', 'HitBTC', 'HitBTC', 'ZB', 'HitBTC', 'EXX']"
+860,TRIG,"['Binance', 'Binance', 'Binance']"
+861,BBN,"['Ethfinex', 'Ethfinex']"
+862,UTK,"['Bitfinex', 'OKEx', 'Bitfinex', 'OKEx', 'Huobi Global', 'Binance', 'Bittrex', 'EXX']"
+863,goma,"['PancakeSwap', 'PancakeSwap']"
+864,HIT,"['Huobi Global', 'Huobi Global']"
+865,NEVADA,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+866,ELA,"['Bit-Z', 'Bit-Z', 'Huobi Global', 'Coinbase Exchange']"
+867,hero,"['Uniswap (v2)', 'Uniswap (v2)']"
+868,FRAX,"['Curve', 'Curve', 'Uniswap (v3)', 'Uniswap (v2)', 'Curve', 'Apeswap']"
+869,VET,"['Upbit', 'Upbit', 'Huobi Global', 'KuCoin', 'CoinEx']"
+870,XFIT,"['Uniswap (v2)', 'Uniswap (v2)']"
+871,SFO,"['PancakeSwap', 'PancakeSwap']"
+872,FTM,"['Bibox', 'Uniswap (v2)', 'Bibox', 'Uniswap (v2)', 'Bibox', 'Balancer (v2)', 'Binance', 'Hotbit', 'Bitstamp']"
+873,JCHF,"['Uniswap (v3)', 'Uniswap (v3)']"
+874,MSN,"['PancakeSwap', 'PancakeSwap']"
+875,EMC,"['CoinEx', 'HitBTC', 'CoinEx', 'HitBTC', 'CoinEx']"
+876,GODS,"['Uniswap (v3)', 'OKEx', 'Uniswap (v3)', 'OKEx', 'Huobi Global']"
+877,XBT,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+878,DRACE,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+879,UAD,"['Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v3)']"
+880,exmoc,"['Apeswap', 'Apeswap', 'PancakeSwap']"
+881,tifi,"['PancakeSwap', 'PancakeSwap']"
+882,KARMA,"['YoBit', 'YoBit']"
+883,ENRG,"['Bitibu', 'Bitibu']"
+884,MARK,"['Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Balancer (v1)', 'Uniswap (v2)']"
+885,BHC,"['PancakeSwap', 'PancakeSwap', 'Apeswap']"
+886,PACT,"['Uniswap (v2)', 'Uniswap (v2)', 'Ubeswap', 'Uniswap (v2)']"
+887,ionz,"['PancakeSwap', 'PancakeSwap']"
+888,ARW,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)']"
+889,TETU,"['Sushiswap', 'Sushiswap']"
+890,dentro,"['PancakeSwap', 'PancakeSwap']"
+891,DXT,"['Bitforex', 'Bitforex']"
+892,WEAVE,"['PancakeSwap', 'PancakeSwap']"
+893,GNX,"['EXX', 'EXX', 'Bibox', 'HitBTC']"
+894,RRC,"['Bit-Z', 'Bit-Z']"
+895,ICHI,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)']"
+896,mnz,"['PancakeSwap', 'PancakeSwap']"
+897,DFI,"['Bittrex', 'PancakeSwap', 'Bittrex', 'PancakeSwap', 'Bittrex', 'Uniswap (v2)', 'Bittrex']"
+898,TITI,"['PancakeSwap', 'PancakeSwap']"
+899,TOWER,"['Sushiswap', 'Sushiswap', 'Uniswap (v2)']"
+900,DRC,"['Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap']"
+901,STRP,"['Uniswap (v3)', 'Uniswap (v3)']"
+902,RDN,"['Bibox', 'Bibox', 'EXX', 'Huobi Global']"
+903,YAG,"['Apeswap', 'Apeswap', 'PancakeSwap']"
+904,AIN,"['Uniswap (v3)', 'Uniswap (v3)']"
+905,DRK,"['Uniswap (v2)', 'Uniswap (v2)']"
+906,HER,"['Bibox', 'Bibox', 'PancakeSwap']"
+907,LOC,"['Gatecoin', 'HitBTC', 'Gatecoin', 'HitBTC', 'Uniswap (v2)']"
+908,NPXS,"['Bittrex', 'Upbit', 'Bittrex', 'Upbit', 'Sushiswap', 'Binance', 'Uniswap (v2)', 'CoinEx', 'Huobi Global']"
+909,TYC,"['Bittrex', 'Bittrex', 'Bittrex']"
+910,ECT,"['PancakeSwap', 'PancakeSwap']"
+911,SKRT,"['Uniswap (v3)', 'Uniswap (v3)']"
+912,GVE,"['Huobi Global', 'Huobi Global']"
+913,SLF,"['PancakeSwap', 'PancakeSwap']"
+914,SPG,"['PancakeSwap', 'PancakeSwap']"
+915,COVAL,"['Uniswap (v2)', 'Uniswap (v2)', 'Coinbase Exchange']"
+916,DOSE,"['Uniswap (v2)', 'Apeswap', 'Uniswap (v2)', 'Apeswap']"
+917,USD,"['Currency.com', '', 'Currency.com', '', 'YoBit', 'Uniswap (v2)', 'Bittrex', 'Currency.com']"
+918,MUNCH,"['Uniswap (v2)', 'Uniswap (v2)']"
+919,CATT,"['Uniswap (v2)', 'Uniswap (v2)']"
+920,FET,"['KuCoin', 'Bitstamp', 'KuCoin', 'Bitstamp', 'BtcTurk PRO', 'Bittrex', 'Uniswap (v2)']"
+921,rev3l,"['PancakeSwap', 'PancakeSwap']"
+922,DOGEBNB,"['PancakeSwap', 'PancakeSwap']"
+923,agfi,"['Uniswap (v2)', 'Uniswap (v2)']"
+924,PMON,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v3)']"
+925,GNO,"['Sushiswap', 'Binance', 'Sushiswap', 'Binance', 'Poloniex', 'Bitfinex', 'Kraken', 'Upbit', 'Coinbase Exchange']"
+926,RULER,"['Sushiswap', 'Sushiswap', 'Uniswap (v3)']"
+927,BAO,"['Sushiswap', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+928,TBTC,"['Coinbase Exchange', 'Coinbase Exchange', 'PancakeSwap']"
+929,DFA,"['Uniswap (v3)', 'Uniswap (v3)']"
+930,inmes,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+931,NKC,"['Bit-Z', 'Bit-Z']"
+932,$SSHIBA,"['PancakeSwap', 'PancakeSwap']"
+933,ZPR,"['Liquid', 'Liquid']"
+934,BNBEER,"['PancakeSwap', 'PancakeSwap']"
+935,SST,"['Uniswap (v2)', 'Uniswap (v2)']"
+936,THKD,"['Balancer (v1)', 'Balancer (v1)']"
+937,WOOL,"['Sushiswap', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v2)']"
+938,RAIN,"['PancakeSwap', 'PancakeSwap', 'Uniswap (v2)']"
+939,HUP,"['PancakeSwap', 'PancakeSwap']"
+940,XDATA,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)', 'Sushiswap', 'Balancer (v1)']"
+941,$MAINST,"['Apeswap', 'Apeswap']"
+942,CBK,"['Uniswap (v3)', 'Uniswap (v3)']"
+943,HKSM,"['PancakeSwap', 'PancakeSwap']"
+944,ABC123,"['Sushiswap', 'Sushiswap']"
+945,VDX,"['Bittrex', 'Uniswap (v2)', 'Bittrex', 'Uniswap (v2)', 'Bittrex']"
+946,CZF,"['PancakeSwap', 'PancakeSwap']"
+947,rants,"['PancakeSwap', 'PancakeSwap']"
+948,CAT,"['Uniswap (v3)', 'Uniswap (v3)', 'HitBTC', 'HitBTC']"
+949,SHIBAL,"['Uniswap (v2)', 'Uniswap (v2)']"
+950,$tmon,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+951,FWB,"['Uniswap (v2)', 'Uniswap (v2)']"
+952,GEG,"['PancakeSwap', 'Apeswap', 'PancakeSwap', 'Apeswap']"
+953,RVN,"['Binance', 'Binance', 'Bittrex', 'Binance', 'Bitforex', 'Bittrex', 'Binance', 'Bittrex']"
+954,MBIT,"['YoBit', 'YoBit']"
+955,DND,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+956,PEAK,"['Sushiswap', 'Sushiswap']"
+957,BOXER,"['PancakeSwap', 'PancakeSwap']"
+958,VOW,"['Sushiswap', 'Sushiswap']"
+959,EMRX,"['HitBTC', 'HitBTC']"
+960,SCRT,"['Bittrex', 'Bittrex', 'Binance']"
+961,GFX,"['Uniswap (v2)', 'Uniswap (v2)']"
+962,PDOG,"['Uniswap (v2)', 'Uniswap (v2)']"
+963,AST,"['Balancer (v2)', 'Balancer (v2)', 'OKEx', 'Uniswap (v2)']"
+964,qlt,"['Uniswap (v3)', 'Uniswap (v3)']"
+965,DOMI,"['PancakeSwap', 'PancakeSwap']"
+966,NFTB,"['PancakeSwap', 'PancakeSwap']"
+967,defly,"['PancakeSwap', 'PancakeSwap']"
+968,DKNY,"['PancakeSwap', 'PancakeSwap']"
+969,EASY,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)']"
+970,XVG,"['Binance', 'Binance', 'Binance', 'Bittrex', 'Binance']"
+971,DGX,"['Bitfinex', 'Bitfinex']"
+972,PRESIDENTDOGE,"['PancakeSwap', 'PancakeSwap']"
+973,STEEM,"['Upbit', 'Bittrex', 'Upbit', 'Bittrex', 'Binance', 'Poloniex']"
+974,dna,"['PancakeSwap', 'PancakeSwap']"
+975,UST,"['Curve', 'PancakeSwap', 'Curve', 'PancakeSwap', 'PancakeSwap', 'YoBit', 'Bittrex']"
+976,SOLACE,"['Sushiswap', 'Sushiswap']"
+977,TRYB,"['Balancer (v1)', 'Balancer (v1)']"
+978,DPI,"['Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap', 'Uniswap (v2)', 'Sushiswap']"
+979,START,"['Bittrex', 'Bittrex', 'Uniswap (v2)']"
+980,AGENTSHIBAINU,"['PancakeSwap', 'PancakeSwap']"
+981,ANKR,"['Bittrex', 'Uniswap (v2)', 'Bittrex', 'Uniswap (v2)', 'Hotbit', 'Huobi Global', 'Huobi Global', 'Bitforex', 'KuCoin']"
+982,NIFTSY,"['Uniswap (v3)', 'Uniswap (v3)']"
+983,BFI,"['Uniswap (v2)', 'Uniswap (v2)']"
+984,oland,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+985,MILK,"['PancakeSwap', 'PancakeSwap']"
+986,yuse,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+987,GMEE,"['PancakeSwap', 'PancakeSwap']"
+988,SPE,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+989,XRT,"['Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)', 'Uniswap (v3)']"
+990,OUD,"['PancakeSwap', 'PancakeSwap']"
+991,CEL,"['Bittrex', 'Bittrex', 'Sushiswap', 'OKEx', 'Bitstamp']"
+992,autumn,"['Uniswap (v3)', 'Uniswap (v3)']"
+993,LMT,"['Sushiswap', 'Sushiswap']"
+994,TOMATO,"['Uniswap (v2)', 'Uniswap (v2)']"
+995,VNL,"['Uniswap (v3)', 'Uniswap (v3)']"
+996,DALI,"['PancakeSwap', 'PancakeSwap']"
+997,HBTC,"['Uniswap (v3)', 'Uniswap (v3)']"
+998,CROOGE,"['Uniswap (v2)', 'Uniswap (v2)']"
+999,USDCSO,"['Uniswap (v3)', 'Uniswap (v3)']"
+1000,HAM,"['PancakeSwap', 'PancakeSwap']"
+1001,METASHIB,"['PancakeSwap', 'PancakeSwap']"
+1002,CBC,"['KuCoin', 'KuCoin']"
+1003,OGO,"['Hotbit', 'Hotbit']"
+1004,MMP,"['PancakeSwap', 'PancakeSwap']"
+1005,cmsn,"['Uniswap (v2)', 'Uniswap (v2)']"
+1006,DICE,"['Hotbit', 'Hotbit', 'Uniswap (v2)']"
+1007,BURGER,"['Binance', 'Binance', 'Binance']"
+1008,SUTER,"['Bittrex', 'Bittrex']"
+1009,CELR,"['Balancer (v1)', 'Balancer (v1)']"
+1010,PHA,"['Huobi Global', 'Huobi Global', 'Huobi Global', 'KuCoin', 'Kraken', 'OKEx', 'Kraken', 'Binance']"
+1011,DEXTF,"['Trader Joe', 'Trader Joe', 'Uniswap (v3)']"
+1012,CFUN,"['EXX', 'EXX']"
+1013,CTRIBE,"['PancakeSwap', 'PancakeSwap']"
+1014,TRAC,"['Bittrex', 'Bittrex', 'Gatecoin', 'Coinbase Exchange']"
+1015,BART,"['Uniswap (v2)', 'Uniswap (v2)']"
+1016,TIME,"['HitBTC', 'HitBTC', 'PancakeSwap', 'Uniswap (v2)']"
+1017,SRK,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'CoinEx']"
+1018,STOX,"['HitBTC', 'HitBTC', 'Okcoin']"
+1019,JASMY,"['Uniswap (v3)', 'Uniswap (v3)']"
+1020,CL,"['HitBTC', 'HitBTC']"
+1021,FUTURE,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1022,ASTRO,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v2)']"
+1023,CRX,"['PancakeSwap', 'PancakeSwap']"
+1024,MCONTENT,"['PancakeSwap', 'PancakeSwap']"
+1025,WRC,"['OKEx', 'OKEx']"
+1026,WELD,"['PancakeSwap', 'PancakeSwap']"
+1027,STT,"['Uniswap (v2)', 'Uniswap (v2)']"
+1028,SRN,"['KuCoin', 'KuCoin', 'YoBit', 'Bittrex', 'KuCoin']"
+1029,DEG,"['Trader Joe', 'Trader Joe']"
+1030,MONSTA,"['PancakeSwap', 'PancakeSwap']"
+1031,DIA,"['Binance', 'PancakeSwap', 'Coinbase Exchange', 'Binance', 'PancakeSwap', 'Coinbase Exchange', 'Uniswap (v2)', 'Binance', 'Liquid', 'CoinEx']"
+1032,TKN,"['Ethfinex', 'Ethfinex']"
+1033,DFSG,"['PancakeSwap', 'PancakeSwap']"
+1034,PPC,"['Hotbit', 'Hotbit', 'Uniswap (v3)', 'YoBit', 'HitBTC', 'Bittrex']"
+1035,VXL,"['Uniswap (v2)', 'Uniswap (v2)']"
+1036,QAU,"['YoBit', 'YoBit', 'HitBTC']"
+1037,TSL,"['EXX', 'EXX']"
+1038,MCH,"['Uniswap (v2)', 'Uniswap (v2)']"
+1039,XCAD,"['Bittrex', 'Bittrex', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)']"
+1040,ACSI,"['PancakeSwap', 'PancakeSwap']"
+1041,ROCKY,"['PancakeSwap', 'PancakeSwap']"
+1042,CMN,"['PancakeSwap', 'PancakeSwap']"
+1043,MCR,"['PancakeSwap', 'PancakeSwap']"
+1044,MOVR,"['Binance', 'Binance']"
+1045,YLD,"['Bittrex', 'Bittrex']"
+1046,SIB,"['Bittrex', 'Bittrex']"
+1047,WAXP,"['Bithumb', 'Bithumb', 'Bitfinex', 'Bittrex', 'Bittrex', 'Ethfinex']"
+1048,AGRS,"['Bittrex', 'Bittrex', 'Uniswap (v2)']"
+1049,EGT,"['CoinEx', 'CoinEx', 'PancakeSwap', 'OKEx']"
+1050,TGT,"['HitBTC', 'HitBTC']"
+1051,MFLOKI,"['PancakeSwap', 'PancakeSwap']"
+1052,ETCH,"['PancakeSwap', 'PancakeSwap']"
+1053,m,"['PancakeSwap', 'PancakeSwap']"
+1054,SPOOK,"['SpookySwap', 'SpookySwap']"
+1055,QLC,"['Binance', 'Binance', 'KuCoin']"
+1056,VCT,"['Bit-Z', 'Bit-Z']"
+1057,AMAS,"['Uniswap (v2)', 'Uniswap (v2)']"
+1058,ELONGRAB,"['PancakeSwap', 'PancakeSwap']"
+1059,FTI,"['Bit-Z', 'Bit-Z', 'Bit-Z']"
+1060,R,"['YoBit', 'YoBit', 'KuCoin', 'OKEx', 'Bittrex']"
+1061,BONDLY,"['Sushiswap', 'Sushiswap']"
+1062,VIB,"['Bittrex', 'OKEx', 'Bittrex', 'OKEx', 'EXX', 'HitBTC']"
+1063,NMX,"['PancakeSwap', 'PancakeSwap']"
+1064,DPY,"['EXX', 'EXX', 'OKEx']"
+1065,BONK,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+1066,MNX,"['PancakeSwap', 'PancakeSwap']"
+1067,KCS,"['KuCoin', 'KuCoin']"
+1068,ATL,"['Uniswap (v2)', 'Uniswap (v2)', 'EXX']"
+1069,ETHVAULT,"['PancakeSwap', 'PancakeSwap']"
+1070,UPI,"['Coinbase Exchange', 'Coinbase Exchange']"
+1071,ENS,"['Binance', 'Binance', 'Balancer (v2)', 'Balancer (v2)', 'Bittrex', 'Binance', 'Coinbase Exchange']"
+1072,BID,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+1073,APIDAI,"['PancakeSwap', 'PancakeSwap']"
+1074,PUP,"['Uniswap (v3)', 'Uniswap (v3)']"
+1075,GAS,"['Uniswap (v2)', 'Uniswap (v2)', 'Cobinhood', 'Binance', 'EXX']"
+1076,change,"['Uniswap (v2)', 'Uniswap (v2)']"
+1077,DEB,"['KuCoin', 'KuCoin']"
+1078,TBX,"['Hotbit', 'Hotbit']"
+1079,NDX,"['Sushiswap', 'Sushiswap']"
+1080,REAPER,"['SpiritSwap', 'SpiritSwap']"
+1081,OP,"['Uniswap (v3)', 'Uniswap (v3)', 'Binance', 'KuCoin', 'KuCoin']"
+1082,MDT,"['Bittrex', 'Bittrex', 'OKEx']"
+1083,LEO,"['HitBTC', 'HitBTC', 'Bitfinex', 'ZB']"
+1084,PRX,"['YoBit', 'YoBit']"
+1085,OOKI,"['Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap']"
+1086,QUIDD,"['PancakeSwap', 'PancakeSwap', 'Apeswap']"
+1087,SOME,"['Uniswap (v2)', 'PancakeSwap', 'Uniswap (v2)', 'PancakeSwap']"
+1088,RKG,"['PancakeSwap', 'PancakeSwap']"
+1089,RUSD,"['PancakeSwap', 'PancakeSwap']"
+1090,LIEN,"['PancakeSwap', 'PancakeSwap']"
+1091,HYPER,"['PancakeSwap', 'PancakeSwap']"
+1092,QI,"['Binance', 'Binance', 'Binance']"
+1093,AMIS,"['Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap']"
+1094,freemoon,"['PancakeSwap', 'PancakeSwap']"
+1095,TT,"['Huobi Global', 'Huobi Global', 'Uniswap (v3)']"
+1096,PRA,"['OKEx', 'OKEx', 'EXX', 'Bit-Z']"
+1097,ODE,"['Uniswap (v3)', 'Uniswap (v3)']"
+1098,MOR,"['PancakeSwap', 'PancakeSwap', 'Apeswap']"
+1099,MTDR,"['PancakeSwap', 'PancakeSwap']"
+1100,MOBI,"['Upbit', 'Upbit', 'PancakeSwap', 'Ubeswap', 'Ubeswap']"
+1101,CWS,"['PancakeSwap', 'PancakeSwap']"
+1102,BALA,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1103,PINK,"['Bittrex', 'Bittrex']"
+1104,ABBC,"['Bittrex', 'Bittrex']"
+1105,OCC,"['Sushiswap', 'Sushiswap', 'Uniswap (v2)']"
+1106,DNT,"['EXX', 'Uniswap (v2)', 'EXX', 'Uniswap (v2)', 'Bittrex', 'OKEx', 'Binance', 'Binance', 'Uniswap (v2)']"
+1107,NYR,"['Uniswap (v2)', 'Uniswap (v2)']"
+1108,GINOA,"['PancakeSwap', 'PancakeSwap']"
+1109,YUGI,"['PancakeSwap', 'PancakeSwap']"
+1110,CREDIT,"['SpookySwap', 'SpookySwap']"
+1111,MEX,"['Huobi Global', 'Huobi Global']"
+1112,SHINU,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+1113,PAI,"['Hotbit', 'Hotbit', 'Hotbit', 'Bitforex']"
+1114,STX,"['Binance', 'Coinbase Exchange', 'Binance', 'Coinbase Exchange']"
+1115,MNFT,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1116,COTI,"['Huobi Global', 'Huobi Global', 'Huobi Global', 'Huobi Global', 'Binance']"
+1117,LEASH,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)']"
+1118,GAME,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'Uniswap (v2)', 'Uniswap (v2)']"
+1119,MTS,"['PancakeSwap', 'PancakeSwap']"
+1120,CPD,"['PancakeSwap', 'PancakeSwap']"
+1121,SYNC,"['Sushiswap', 'Sushiswap']"
+1122,DAR,"['Binance', 'Uniswap (v2)', 'Binance', 'Uniswap (v2)']"
+1123,GENS,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1124,LOKI,"['Bittrex', 'Bittrex']"
+1125,WPR,"['Huobi Global', 'Huobi Global', 'Binance', 'Ethfinex']"
+1126,ETHM,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1127,MINA,"['Kraken', 'Kraken']"
+1128,SHI,"['PancakeSwap', 'PancakeSwap']"
+1129,BTCBR,"['PancakeSwap', 'PancakeSwap', 'Apeswap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1130,TBT,"['PancakeSwap', 'PancakeSwap']"
+1131,BITCNY,"['Poloniex', 'Poloniex']"
+1132,BSW,"['PancakeSwap', 'PancakeSwap']"
+1133,ATPAD,"['PancakeSwap', 'PancakeSwap']"
+1134,DLB,"['Uniswap (v3)', 'Uniswap (v3)']"
+1135,EDR,"['Uniswap (v2)', 'Uniswap (v2)']"
+1136,ORBS,"['Hotbit', 'Hotbit', 'Balancer (v1)', 'Liquid']"
+1137,MFAM,"['Solarbeam', 'Solarbeam']"
+1138,ANI,"['PancakeSwap', 'PancakeSwap']"
+1139,SHIB,"['Sushiswap', 'Bitforex', 'Sushiswap', 'Bitforex', 'Binance', 'Binance', 'EXX', 'Poloniex']"
+1140,SHILLMOON,"['PancakeSwap', 'PancakeSwap']"
+1141,BIT,"['Sushiswap', 'Sushiswap', 'FTX']"
+1142,INSTAR,"['Bibox', 'Bibox']"
+1143,YYE,"['PancakeSwap', 'PancakeSwap']"
+1144,METIS,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)']"
+1145,CDAI,"['Sushiswap', 'Sushiswap']"
+1146,UNIT,"['YoBit', 'YoBit']"
+1147,EVX,"['Binance', 'Binance', 'Binance', 'Binance', 'Huobi Global']"
+1148,YON,"['PancakeSwap', 'PancakeSwap']"
+1149,SDC,"['YoBit', 'YoBit', 'Poloniex']"
+1150,FOXY,"['PancakeSwap', 'PancakeSwap']"
+1151,cym,"['PancakeSwap', 'PancakeSwap']"
+1152,POA,"['Binance', 'Binance', 'Ethfinex']"
+1153,EBUSD,"['PancakeSwap', 'PancakeSwap']"
+1154,NKN,"['Upbit', 'Upbit', 'Binance']"
+1155,CVX,"['Binance', 'Binance', 'Kraken', 'Sushiswap']"
+1156,bbox,"['PancakeSwap', 'PancakeSwap']"
+1157,KWATT,"['Bitforex', 'Bitforex']"
+1158,OPIUM,"['Sushiswap', 'Sushiswap']"
+1159,WTC,"['Bithumb', 'HitBTC', 'Bithumb', 'HitBTC', 'EXX', 'OKEx', 'OKEx', 'Huobi Global', 'Bitfinex']"
+1160,SCRL,"['PancakeSwap', 'PancakeSwap']"
+1161,make,"['PancakeSwap', 'PancakeSwap']"
+1162,LOOKS,"['OKEx', 'OKEx', 'KuCoin']"
+1163,LESS,"['Uniswap (v2)', 'Uniswap (v2)']"
+1164,BALPAC,"['PancakeSwap', 'PancakeSwap']"
+1165,MCRN,"['PancakeSwap', 'PancakeSwap']"
+1166,JULD,"['PancakeSwap', 'PancakeSwap']"
+1167,POKT,"['ZB', 'ZB']"
+1168,LOVEDOGE,"['PancakeSwap', 'PancakeSwap']"
+1169,LORDA,"['PancakeSwap', 'PancakeSwap']"
+1170,CBT,"['Ethfinex', 'Ethfinex']"
+1171,SQUID,"['Sushiswap', 'Sushiswap', 'PancakeSwap']"
+1172,MELODY,"['PancakeSwap', 'PancakeSwap']"
+1173,APPC,"['HitBTC', 'HitBTC']"
+1174,DOCK,"['Binance', 'Binance', 'Huobi Global']"
+1175,QTL,"['Bittrex', 'Bittrex']"
+1176,frzss,"['PancakeSwap', 'PancakeSwap']"
+1177,PDAI,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+1178,FORT,"['Uniswap (v3)', 'Uniswap (v3)']"
+1179,DON,"['PancakeSwap', 'PancakeSwap']"
+1180,LEOPARD,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1181,BITT,"['PancakeSwap', 'PancakeSwap', 'Sushiswap']"
+1182,MTHD,"['Uniswap (v3)', 'Uniswap (v3)']"
+1183,mfx,"['PancakeSwap', 'PancakeSwap']"
+1184,XYO,"['Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'Uniswap (v2)', 'Uniswap (v3)']"
+1185,grush,"['PancakeSwap', 'PancakeSwap']"
+1186,VTC,"['YoBit', 'YoBit', 'Upbit']"
+1187,GUP,"['Upbit', 'Upbit', 'Gatecoin', 'Bittrex']"
+1188,FRY,"['Balancer (v1)', 'Balancer (v1)', 'Uniswap (v2)', 'Uniswap (v2)']"
+1189,KISHUBABY,"['PancakeSwap', 'PancakeSwap']"
+1190,fgd,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1191,COMT,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1192,TEL,"['KuCoin', 'KuCoin']"
+1193,HDV,"['PancakeSwap', 'PancakeSwap']"
+1194,KXA,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1195,GEO,"['Bittrex', 'Bittrex']"
+1196,SKL,"['Uniswap (v3)', 'Bitstamp', 'BigONE', 'Huobi Global', 'Uniswap (v3)', 'Bitstamp', 'BigONE', 'Huobi Global', 'Bitstamp', 'Binance']"
+1197,UTOPIA,"['PancakeSwap', 'PancakeSwap']"
+1198,RYOSHIMOTO,"['Uniswap (v2)', 'Uniswap (v2)']"
+1199,PHX,"['HitBTC', 'HitBTC']"
+1200,WABI,"['Uniswap (v2)', 'CEX.IO', 'Uniswap (v2)', 'CEX.IO', 'Binance']"
+1201,FLOKIFRUNKPUPPY,"['PancakeSwap', 'PancakeSwap']"
+1202,SJCX,"['Bittrex', 'Bittrex']"
+1203,MGC,"['Uniswap (v2)', 'Uniswap (v2)']"
+1204,KIBA,"['Uniswap (v2)', 'Uniswap (v2)']"
+1205,LA,"['KuCoin', 'KuCoin', 'OKEx']"
+1206,AIMX,"['PancakeSwap', 'PancakeSwap']"
+1207,HOLY,"['Uniswap (v2)', 'Uniswap (v2)']"
+1208,PAN,"['Uniswap (v2)', 'Uniswap (v2)']"
+1209,OLT,"['CoinEx', 'CoinEx', 'Hotbit', 'Hotbit']"
+1210,OASIS,"['Apeswap', 'Apeswap']"
+1211,MOMMYDOGE,"['PancakeSwap', 'PancakeSwap']"
+1212,MASK,"['Uniswap (v2)', 'Uniswap (v2)', 'Sushiswap', 'Bitforex']"
+1213,TRL,"['Uniswap (v2)', 'Uniswap (v2)']"
+1214,EVN,"['HitBTC', 'HitBTC', 'Uniswap (v3)']"
+1215,FISH,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v3)']"
+1216,HUB,"['Uniswap (v2)', 'Uniswap (v2)']"
+1217,ZITI,"['Uniswap (v2)', 'Uniswap (v2)']"
+1218,STRAT,"['Upbit', 'Upbit', 'Uniswap (v2)', 'Upbit', 'HitBTC', 'Binance']"
+1219,RIDERS,"['PancakeSwap', 'PancakeSwap']"
+1220,4move,"['PancakeSwap', 'PancakeSwap']"
+1221,BMP,"['Bittrex', 'Bittrex']"
+1222,WIN,"['CoinEx', 'CoinEx', 'Binance', 'Binance', 'Binance']"
+1223,FOX,"['PancakeSwap', 'PancakeSwap', 'Sushiswap']"
+1224,OBTC,"['Curve', 'Curve', 'Sushiswap']"
+1225,TFT,"['PancakeSwap', 'PancakeSwap']"
+1226,DRG,"['HitBTC', 'HitBTC']"
+1227,ROSE,"['KuCoin', 'KuCoin', 'Binance', 'PancakeSwap']"
+1228,CNX,"['YoBit', 'YoBit']"
+1229,OCN,"['Bit-Z', 'Bit-Z', 'Bittrex', 'Upbit', 'KuCoin']"
+1230,ENE,"['YoBit', 'YoBit']"
+1231,DEGOV,"['Uniswap (v2)', 'Uniswap (v2)']"
+1232,GOF,"['Balancer (v1)', 'Balancer (v1)', 'Huobi Global']"
+1233,AUTO,"['OKEx', 'OKEx', 'HitBTC']"
+1234,$SNM,"['PancakeSwap', 'PancakeSwap']"
+1235,SHIRYO-INU,"['Uniswap (v2)', 'Uniswap (v2)']"
+1236,DEXE,"['Binance', 'Binance', 'Binance']"
+1237,TRIO,"['Bitfinex', 'Bitfinex', 'Bitfinex']"
+1238,DFN,"['PancakeSwap', 'PancakeSwap']"
+1239,XP,"['Uniswap (v3)', 'Uniswap (v3)', 'Uniswap (v2)']"
+1240,VIBE,"['Binance', 'Binance']"
+1241,MFM,"['PancakeSwap', 'PancakeSwap']"
+1242,DIP,"['Uniswap (v2)', 'Uniswap (v2)']"
+1243,ICON,"['YoBit', 'YoBit']"
+1244,EL,"['Uniswap (v3)', 'Uniswap (v3)', 'Sushiswap']"
+1245,SHEESHA,"['Uniswap (v2)', 'Uniswap (v2)']"
+1246,GUSD,"['Cobinhood', 'Cobinhood']"
+1247,USDB,"['Bancor', 'Bancor']"
+1248,SHE,"['Allcoin', 'Allcoin']"
+1249,RCT,"['YoBit', 'YoBit']"
+1250,LOCG,"['KuCoin', 'KuCoin']"
+1251,CLB,"['Bitforex', 'Bitforex']"
+1252,HTML,"['HitBTC', 'HitBTC', 'HitBTC']"
+1253,HAKKA,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+1254,BPT,"['Sushiswap', 'Sushiswap']"
+1255,OMC,"['PancakeSwap', 'PancakeSwap']"
+1256,LIF,"['YoBit', 'YoBit']"
+1257,BABYFB,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1258,EGGPLANT,"['PancakeSwap', 'PancakeSwap']"
+1259,RVL,"['PancakeSwap', 'PancakeSwap']"
+1260,XMC,"['HitBTC', 'HitBTC', 'HitBTC']"
+1261,BNPL,"['Sushiswap', 'Sushiswap']"
+1262,FX,"['KuCoin', 'KuCoin', 'Coinbase Exchange']"
+1263,jolt,"['PancakeSwap', 'PancakeSwap']"
+1264,OMS,"['Uniswap (v2)', 'Uniswap (v2)']"
+1265,GRS,"['Bittrex', 'Bittrex', 'Huobi Global', 'Upbit']"
+1266,AKITA,"['Trader Joe', 'Trader Joe', 'ZB', 'Bitforex', 'Sushiswap']"
+1267,BKX,"['OKEx', 'OKEx', 'HitBTC', 'OKEx', 'Hotbit']"
+1268,SDLN,"['PancakeSwap', 'PancakeSwap']"
+1269,OC,"['Allcoin', 'Allcoin']"
+1270,fota,"['PancakeSwap', 'PancakeSwap']"
+1271,z,"['Uniswap (v2)', 'Uniswap (v2)']"
+1272,ZMN,"['bx.in.th', 'bx.in.th']"
+1273,SAYAN,"['PancakeSwap', 'PancakeSwap']"
+1274,BIN,"['Uniswap (v2)', 'Uniswap (v2)']"
+1275,FLP,"['Bitforex', 'Bitforex', 'HitBTC', 'HitBTC', 'Bitforex']"
+1276,EGLD,"['Binance', 'Binance']"
+1277,AQUA,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1278,$AFLOKI,"['PancakeSwap', 'PancakeSwap']"
+1279,DCAU,"['Trader Joe', 'Trader Joe', 'Trader Joe']"
+1280,FLO,"['PancakeSwap', 'PancakeSwap', 'Bittrex']"
+1281,MOMA,"['PancakeSwap', 'PancakeSwap']"
+1282,HUSD,"['Curve', 'Curve', 'Curve']"
+1283,DATX,"['HitBTC', 'HitBTC', 'KuCoin', 'Huobi Global']"
+1284,PWAR,"['PancakeSwap', 'PancakeSwap']"
+1285,COCKTAIL,"['PancakeSwap', 'PancakeSwap']"
+1286,elft,"['PancakeSwap', 'PancakeSwap']"
+1287,ECL,"['Uniswap (v2)', 'Uniswap (v2)']"
+1288,K9,"['Uniswap (v2)', 'Uniswap (v2)']"
+1289,DVF,"['Bitfinex', 'Bitfinex']"
+1290,IGO,"['PancakeSwap', 'PancakeSwap']"
+1291,EVER,"['PancakeSwap', 'PancakeSwap']"
+1292,SATO,"['Uniswap (v2)', 'Uniswap (v2)']"
+1293,DAMA,"['Sushiswap', 'Sushiswap']"
+1294,PANTHER,"['PancakeSwap', 'PancakeSwap']"
+1295,tgold,"['PancakeSwap', 'PancakeSwap']"
+1296,MOVE,"['PancakeSwap', 'PancakeSwap']"
+1297,STAC,"['Liquid', 'Liquid']"
+1298,NUM,"['Uniswap (v2)', 'Uniswap (v2)', 'Uniswap (v2)']"
+1299,PIT,"['PancakeSwap', 'PancakeSwap']"
+1300,NPER,"['Bibox', 'Bibox']"
+1301,AGS,"['PancakeSwap', 'PancakeSwap', 'Uniswap (v3)']"
+1302,DIO,"['Huobi Global', 'Huobi Global']"
+1303,WTN,"['Uniswap (v2)', 'Uniswap (v2)']"
+1304,blood,"['Uniswap (v3)', 'Uniswap (v3)']"
+1305,RISE,"['Uniswap (v2)', 'Uniswap (v2)', 'YoBit']"
+1306,PTT,"['Bitforex', 'Bitforex']"
+1307,HORD,"['Uniswap (v2)', 'Uniswap (v2)']"
+1308,CCV2,"['Uniswap (v2)', 'Uniswap (v2)']"
+1309,SPDR,"['Uniswap (v2)', 'Uniswap (v2)']"
+1310,BTL,"['Uniswap (v2)', 'Uniswap (v2)']"
+1311,MNSTP,"['PancakeSwap', 'PancakeSwap']"
+1312,1337,"['YoBit', 'YoBit']"
+1313,MEONG,"['PancakeSwap', 'PancakeSwap']"
+1314,ESS,"['Ethfinex', 'Ethfinex', 'Bitforex', 'Hotbit']"
+1315,SNC,"['HitBTC', 'HitBTC', 'EXX']"
+1316,HCT,"['Trader Joe', 'Trader Joe']"
+1317,SLV,"['Bittrex', 'Bittrex']"
+1318,POOF,"['Ubeswap', 'Ubeswap', 'Ubeswap']"
+1319,ACOIN,['KuCoin']
+1320,LPT,"['Kraken', 'OKEx', 'Sushiswap']"
+1321,DESU,['PancakeSwap']
+1322,NEW,['Huobi Global']
+1323,PUSSY,['Uniswap (v3)']
+1324,BEST,['HitBTC']
+1325,SNTVT,['Uniswap (v3)']
+1326,TEM,"['PancakeSwap', 'PancakeSwap']"
+1327,CKB,"['Bibox', 'Huobi Global', 'Bittrex', 'CoinEx']"
+1328,WSTA,"['Balancer (v1)', 'Balancer (v1)']"
+1329,OOE,"['Uniswap (v2)', 'PancakeSwap']"
+1330,PIXEL,['Balancer (v2)']
+1331,MBBASED,['Sushiswap']
+1332,EDG,['Bittrex']
+1333,ETH2X-FLI,['Balancer (v1)']
+1334,ZAI,['Uniswap (v2)']
+1335,TAD,['Sushiswap']
+1336,kelvin,['SpookySwap']
+1337,XPR,"['PancakeSwap', 'OKEx']"
+1338,aurabal,['Balancer (v2)']
+1339,IDNA,['PancakeSwap']
+1340,YVAULT-LP-YCURVE,"['Uniswap (v2)', 'Uniswap (v2)']"
+1341,KTK,['YoBit']
+1342,nowar,['PancakeSwap']
+1343,FAMOUS,['Uniswap (v2)']
+1344,AIDOC,['Uniswap (v2)']
+1345,ENG,"['Binance', 'HitBTC']"
+1346,ATB,"['YoBit', 'HitBTC']"
+1347,BCOIN,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1348,ONL,['Bitfinex']
+1349,WZEC,"['Uniswap (v2)', 'Sushiswap']"
+1350,SOUL,"['Hotbit', 'Uniswap (v2)', 'Balancer (v1)']"
+1351,SEER,['Ethfinex']
+1352,TKP,"['PancakeSwap', 'PancakeSwap']"
+1353,KMD,"['Bittrex', 'HitBTC', 'Binance', 'Binance']"
+1354,LOON,['OKEx']
+1355,SHR,['PancakeSwap']
+1356,YOYOW,"['Bitfinex', 'OKEx', 'OKEx', 'HitBTC']"
+1357,BIMP,['PancakeSwap']
+1358,OBT,['PancakeSwap']
+1359,othr,['Uniswap (v3)']
+1360,UFARM,['PancakeSwap']
+1361,CHESS,['Binance']
+1362,PEKC,"['PancakeSwap', 'Uniswap (v2)']"
+1363,gvr,['PancakeSwap']
+1364,BITANT,['Uniswap (v2)']
+1365,MSWAP,['Uniswap (v2)']
+1366,AUSDT,['Curve']
+1367,XTRA,"['PancakeSwap', 'PancakeSwap']"
+1368,ICN,['EXX']
+1369,DMGK,['PancakeSwap']
+1370,DEGO,['PancakeSwap']
+1371,TRXC,['Sushiswap']
+1372,FORTH,"['ZB', 'HitBTC']"
+1373,ENTRP,['Uniswap (v2)']
+1374,UBQ,['Uniswap (v3)']
+1375,NU,"['Huobi Global', 'Coinbase Exchange', 'Coinbase Exchange', 'Uniswap (v3)', 'CoinEx', 'Huobi Global', 'Binance']"
+1376,CS,"['PancakeSwap', 'KuCoin', 'KuCoin', 'KuCoin', 'Bitfinex']"
+1377,TERA,['Uniswap (v2)']
+1378,GZE,['Liquid']
+1379,ACH,['Bibox']
+1380,FXF,['Uniswap (v2)']
+1381,BONE,"['Uniswap (v3)', 'Uniswap (v2)']"
+1382,JEWEL,['Sushiswap']
+1383,BXX,['Uniswap (v2)']
+1384,STONK,"['Uniswap (v2)', 'Uniswap (v2)']"
+1385,FXS,"['SpiritSwap', 'Binance', 'Uniswap (v2)']"
+1386,STBU,"['Uniswap (v2)', 'PancakeSwap']"
+1387,ole,['PancakeSwap']
+1388,HUNGRY,['PancakeSwap']
+1389,TORN,['PancakeSwap']
+1390,YAE,['PancakeSwap']
+1391,REV,['PancakeSwap']
+1392,EUR,"['Currency.com', 'Kraken', 'Currency.com']"
+1393,MNY,"['Uniswap (v2)', 'PancakeSwap']"
+1394,EXPR,['PancakeSwap']
+1395,POLL,"['HitBTC', 'HitBTC']"
+1396,THG,['PancakeSwap']
+1397,DOLA,"['Sushiswap', 'Sushiswap']"
+1398,BTCA,['YoBit']
+1399,SOX,['Uniswap (v2)']
+1400,MURPHY,['PancakeSwap']
+1401,BSTN,['HitBTC']
+1402,SPMK,['Uniswap (v2)']
+1403,SFUEL,['PancakeSwap']
+1404,IQN,['Bitforex']
+1405,GSC,"['OKEx', 'EXX', 'EXX']"
+1406,NFTS,"['Uniswap (v3)', 'Uniswap (v2)']"
+1407,CSPR,['CoinEx']
+1408,8FI,['Uniswap (v2)']
+1409,BPLC,"['Uniswap (v2)', 'Uniswap (v3)', 'Sushiswap']"
+1410,MR,['PancakeSwap']
+1411,bip,['Uniswap (v2)']
+1412,INSUR,"['OKEx', 'Uniswap (v2)']"
+1413,HID,['Uniswap (v2)']
+1414,N1,['Uniswap (v2)']
+1415,FOUR,['Balancer (v2)']
+1416,DEV,['Sushiswap']
+1417,lrc,['PancakeSwap']
+1418,UNCX,['Uniswap (v3)']
+1419,MVC,['Bittrex']
+1420,FINE,"['PancakeSwap', 'PancakeSwap']"
+1421,BSHIB,['PancakeSwap']
+1422,DGAT,['PancakeSwap']
+1423,DRACO,['Bittrex']
+1424,TFI,"['PancakeSwap', 'PancakeSwap']"
+1425,bitsu,['PancakeSwap']
+1426,DOGGY,['PancakeSwap']
+1427,YEE,"['EXX', 'Huobi Global']"
+1428,PVU,['PancakeSwap']
+1429,SWM,"['HitBTC', 'HitBTC']"
+1430,GXC,"['Bithumb', 'Binance', 'Bittrex', 'Binance']"
+1431,SWISE,"['Uniswap (v2)', 'Uniswap (v3)']"
+1432,GALA,"['Bitstamp', 'OKEx', 'Binance', 'Coinbase Exchange', 'Uniswap (v3)', 'Binance']"
+1433,naleph,['Trader Joe']
+1434,TIT,['YoBit']
+1435,ASSG,['Uniswap (v2)']
+1436,AXC,['Uniswap (v2)']
+1437,YAY,['PancakeSwap']
+1438,leo,['Trader Joe']
+1439,REVV,"['Uniswap (v2)', 'Bibox']"
+1440,XOR,"['Poloniex', 'Uniswap (v2)', 'Uniswap (v3)', 'Uniswap (v2)']"
+1441,ICX,"['Kraken', 'HitBTC']"
+1442,sdc,['PancakeSwap']
+1443,CE,['Uniswap (v2)']
+1444,RENDOGE,['Uniswap (v2)']
+1445,rsft,['Uniswap (v3)']
+1446,TIO,"['OKEx', 'EXX']"
+1447,ARX,['Uniswap (v2)']
+1448,SSS,['Bit-Z']
+1449,BABYFLOKIZILLA,['PancakeSwap']
+1450,CRY,['PancakeSwap']
+1451,META,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1452,ACE,"['EXX', 'OKEx']"
+1453,y5tt,['PancakeSwap']
+1454,OFF,['PancakeSwap']
+1455,COIN,"['Uniswap (v2)', 'YoBit', 'Currency.com']"
+1456,CFI,['Ethfinex']
+1457,KBC,"['Bit-Z', 'Bit-Z', 'Bitforex', 'Bit-Z']"
+1458,WGIRL,['PancakeSwap']
+1459,ETHIX,"['Bitfinex', 'Bitfinex']"
+1460,DINU,['Uniswap (v3)']
+1461,ETP,"['Bit-Z', 'Bitfinex']"
+1462,DCR,"['KuCoin', 'OKEx', 'Poloniex', 'Huobi Global']"
+1463,NFT,"['PancakeSwap', 'PancakeSwap']"
+1464,SURGE,['PancakeSwap']
+1465,LOKA,['Uniswap (v2)']
+1466,VITE,"['Binance', 'Bittrex', 'Uniswap (v3)']"
+1467,METAP,['PancakeSwap']
+1468,DCN,"['HitBTC', 'Sushiswap']"
+1469,COSMIC,['PancakeSwap']
+1470,KS,['PancakeSwap']
+1471,CIFI,['PancakeSwap']
+1472,ISHND,['PancakeSwap']
+1473,$DPACE,['PancakeSwap']
+1474,IST,['Bitforex']
+1475,UBTC,['Liquid']
+1476,STARS,['Uniswap (v2)']
+1477,RTC,['PancakeSwap']
+1478,NXT,"['EXX', 'PancakeSwap', 'Upbit']"
+1479,bct,['Uniswap (v2)']
+1480,UIM,['PancakeSwap']
+1481,BOND,"['Uniswap (v2)', 'Uniswap (v2)', 'Binance', 'Binance', 'Sushiswap']"
+1482,BABYFLOKI,['PancakeSwap']
+1483,rocketfi,"['PancakeSwap', 'PancakeSwap']"
+1484,QUICK,"['Binance', 'Uniswap (v3)']"
+1485,MUSK,"['Uniswap (v2)', 'Uniswap (v2)']"
+1486,DOP,['Uniswap (v3)']
+1487,PLAT,['Bitforex']
+1488,roemp,['PancakeSwap']
+1489,CEEK,"['Uniswap (v2)', 'Uniswap (v3)', 'Huobi Global']"
+1490,VIA,"['YoBit', 'Poloniex', 'Bittrex']"
+1491,NRG,"['CoinEx', 'KuCoin']"
+1492,HOTCROSS,"['PancakeSwap', 'Sushiswap', 'Uniswap (v3)']"
+1493,PAKK,['Uniswap (v2)']
+1494,TMT,"['Hotbit', 'PancakeSwap', 'Gatecoin']"
+1495,BULL,['Binance']
+1496,TAP,['PancakeSwap']
+1497,ESC,['PancakeSwap']
+1498,SWIRL,['PancakeSwap']
+1499,FIRA,"['Sushiswap', 'Sushiswap']"
+1500,EKT,['Huobi Global']
+1501,BDC,['PancakeSwap']
+1502,DBA,"['PancakeSwap', 'PancakeSwap']"
+1503,CFC,['YoBit']
+1504,AUD,"['Currency.com', 'Kraken', 'Currency.com']"
+1505,BTSG,"['Uniswap (v2)', 'Uniswap (v3)']"
+1506,KLEE,['Uniswap (v2)']
+1507,COIL,['Uniswap (v2)']
+1508,rusd,['PancakeSwap']
+1509,VRM,['Bittrex']
+1510,BLOVELY,"['PancakeSwap', 'PancakeSwap']"
+1511,UUNICLY,['Uniswap (v2)']
+1512,PLANET,['YoBit']
+1513,VST,['PancakeSwap']
+1514,AI,['Uniswap (v3)']
+1515,HQX,"['YoBit', 'HitBTC']"
+1516,PNT,"['HitBTC', 'HitBTC', 'Balancer (v2)', 'KuCoin']"
+1517,ZIP,"['EXX', 'EXX', 'OKEx', 'OKEx']"
+1518,HSF,['Uniswap (v3)']
+1519,BIRD,"['Uniswap (v2)', 'Uniswap (v2)']"
+1520,KIF,['Uniswap (v2)']
+1521,RADR,['PancakeSwap']
+1522,ZPT,"['HitBTC', 'HitBTC']"
+1523,MAPS,['FTX']
+1524,DLD,['PancakeSwap']
+1525,SHIBGF,['Uniswap (v2)']
+1526,AUSD,['PancakeSwap']
+1527,DVP,['Uniswap (v3)']
+1528,MEC,['Bittrex']
+1529,PPAY,"['Uniswap (v2)', 'Uniswap (v2)']"
+1530,BAS,['Uniswap (v2)']
+1531,XIO,"['Uniswap (v2)', 'Trader Joe', 'Uniswap (v2)']"
+1532,QANX,"['PancakeSwap', 'PancakeSwap']"
+1533,ARDR,"['CoinEx', 'EXX', 'Binance']"
+1534,fitn,['PancakeSwap']
+1535,$DOGEALLY,"['Apeswap', 'Apeswap']"
+1536,FORCE,"['Uniswap (v2)', 'Sushiswap']"
+1537,ffa,['PancakeSwap']
+1538,SQM,['PancakeSwap']
+1539,DADI,"['Uniswap (v2)', 'HitBTC']"
+1540,WILC,['Uniswap (v2)']
+1541,FLOKIM,"['PancakeSwap', 'PancakeSwap']"
+1542,IOI,"['PancakeSwap', 'Uniswap (v3)']"
+1543,OPUL,['PancakeSwap']
+1544,NIF,"['Uniswap (v3)', 'Uniswap (v3)']"
+1545,VALUE,"['Uniswap (v2)', 'Huobi Global']"
+1546,POOP,"['SpiritSwap', 'SpookySwap', 'SpookySwap']"
+1547,BIGETH,['PancakeSwap']
+1548,bln,['PancakeSwap']
+1549,jet,['PancakeSwap']
+1550,ARES,"['Uniswap (v2)', 'Uniswap (v2)']"
+1551,HEDG,"['Bittrex', 'Bancor']"
+1552,MATH,['FTX']
+1553,FDM,['PancakeSwap']
+1554,dcar,['Trader Joe']
+1555,OMI,['Bitforex']
+1556,TSAR,['PancakeSwap']
+1557,PERX,['Sushiswap']
+1558,moceans,['PancakeSwap']
+1559,HIVE,"['Binance', 'Binance', 'Bithumb']"
+1560,SKILL,['Apeswap']
+1561,TRST,['HitBTC']
+1562,MOIN,['YoBit']
+1563,ZEE,"['PancakeSwap', 'Uniswap (v2)']"
+1564,TNNS,['Apeswap']
+1565,DDOS,"['Uniswap (v2)', 'PancakeSwap']"
+1566,MAN,"['Ethfinex', 'Bitfinex', 'Huobi Global', 'HitBTC']"
+1567,EXRN,"['Hotbit', 'Hotbit']"
+1568,QWLA,['Uniswap (v2)']
+1569,dc,"['Uniswap (v2)', 'PancakeSwap']"
+1570,UBEX,"['Uniswap (v3)', 'Bitforex', 'Uniswap (v3)', 'Uniswap (v2)']"
+1571,SHARE,['Uniswap (v2)']
+1572,XHV,['CoinEx']
+1573,SHINNOSUKE,['Uniswap (v2)']
+1574,ROYA,['Uniswap (v2)']
+1575,YFKA,['Uniswap (v2)']
+1576,ABI,['Uniswap (v2)']
+1577,TCAP,['Uniswap (v2)']
+1578,FUSE,"['PancakeSwap', 'PancakeSwap']"
+1579,BSHARE,['SpookySwap']
+1580,GMB,['Uniswap (v2)']
+1581,WHALEFARM,['PancakeSwap']
+1582,TSC,['PancakeSwap']
+1583,ARNO,['Uniswap (v3)']
+1584,GTC,"['Balancer (v2)', 'Huobi Global', 'Uniswap (v2)']"
+1585,DEFIDO,['PancakeSwap']
+1586,FREN,['PancakeSwap']
+1587,AUSDC,['Curve']
+1588,cplt,['PancakeSwap']
+1589,GMR,"['PancakeSwap', 'Apeswap']"
+1590,UTNP,['HitBTC']
+1591,SWINGBY,"['Poloniex', 'Sushiswap', 'Poloniex']"
+1592,TACO,['Uniswap (v2)']
+1593,spacepi,"['PancakeSwap', 'PancakeSwap']"
+1594,TAG,"['PancakeSwap', 'PancakeSwap', 'BTC38']"
+1595,TXL,"['Sushiswap', 'PancakeSwap', 'Apeswap', 'Sushiswap']"
+1596,HMR,"['Bitforex', 'BTC-Alpha']"
+1597,BANK,"['Uniswap (v3)', 'Uniswap (v2)']"
+1598,BXR,['Uniswap (v2)']
+1599,NULS,"['EXX', 'Huobi Global']"
+1600,CHR,"['Upbit', 'Bithumb', 'Binance', 'Binance', 'Huobi Global', 'HitBTC']"
+1601,GAT,['Gatecoin']
+1602,FLL,['Uniswap (v2)']
+1603,dop,['PancakeSwap']
+1604,MAX,['YoBit']
+1605,PULSEMOON,['PancakeSwap']
+1606,meer,['PancakeSwap']
+1607,CPC,['YoBit']
+1608,KANA,['PancakeSwap']
+1609,PSG,"['Binance', 'Binance']"
+1610,GMI,['PancakeSwap']
+1611,KEN,['Uniswap (v2)']
+1612,mhunt,"['PancakeSwap', 'Apeswap']"
+1613,DCIP,['PancakeSwap']
+1614,NCASH,"['Huobi Global', 'Bitfinex', 'Ethfinex']"
+1615,BABY,['PancakeSwap']
+1616,SAKE,['Uniswap (v2)']
+1617,BENJI,['YoBit']
+1618,O3,['Bittrex']
+1619,DODO,"['Binance', 'CoinEx']"
+1620,SPANK,"['Uniswap (v3)', 'Ethfinex', 'Uniswap (v2)', 'Bitfinex']"
+1621,PIN,['PancakeSwap']
+1622,LCX,"['Uniswap (v2)', 'Coinbase Exchange', 'Coinbase Exchange']"
+1623,VPAD,['Uniswap (v3)']
+1624,VLD,['Uniswap (v2)']
+1625,CHAT,"['Huobi Global', 'HitBTC']"
+1626,PHL,['PancakeSwap']
+1627,DTA,"['Huobi Global', 'Ethfinex']"
+1628,SHIP,['HitBTC']
+1629,OAX,"['HitBTC', 'Uniswap (v2)']"
+1630,BFG,['PancakeSwap']
+1631,LUNC,"['Binance', 'OKEx', 'CoinEx', 'Bittrex', 'Huobi Global', 'CoinEx', 'BigONE']"
+1632,BGO,['PancakeSwap']
+1633,PLACE,['PancakeSwap']
+1634,CVXCRV,"['Uniswap (v3)', 'Sushiswap']"
+1635,UNDG,['Uniswap (v2)']
+1636,lmu,['PancakeSwap']
+1637,SYF,['SpookySwap']
+1638,gymnet,['PancakeSwap']
+1639,WGMI,['Uniswap (v2)']
+1640,SYFI,['Uniswap (v2)']
+1641,ATD,['Uniswap (v2)']
+1642,BYTZ,['Uniswap (v3)']
+1643,TERN,"['Bitforex', 'Bitforex']"
+1644,CARDS,"['Uniswap (v3)', 'Sushiswap']"
+1645,CARD,['CoinEx']
+1646,LSWAP,['PancakeSwap']
+1647,CHG,['PancakeSwap']
+1648,RFOX,"['Liquid', 'PancakeSwap']"
+1649,TF,['PancakeSwap']
+1650,AMM,"['YoBit', 'EXX']"
+1651,JUNGLE,['Uniswap (v2)']
+1652,XMN,"['PancakeSwap', 'PancakeSwap', 'PancakeSwap']"
+1653,HBEE,['PancakeSwap']
+1654,mon,['PancakeSwap']
+1655,COMB,['Uniswap (v2)']
+1656,mt3,['PancakeSwap']
+1657,COLL,['Uniswap (v3)']
+1658,JGBP,['Sushiswap']
+1659,KCLP,['PancakeSwap']
+1660,ALLBI,['PancakeSwap']
+1661,INV,['Sushiswap']
+1662,rtw,['PancakeSwap']
+1663,DOGO,['PancakeSwap']
+1664,SPACEDOGE,"['Uniswap (v2)', 'Uniswap (v2)']"
+1665,SUSHIBA,['PancakeSwap']
+1666,UMB,"['PancakeSwap', 'Sushiswap']"
+1667,BUND,['Uniswap (v2)']
+1668,FICO,['Uniswap (v2)']
+1669,IOTE,['BigONE']
+1670,EARNX,['PancakeSwap']
+1671,SYS,"['BTC38', 'Poloniex', 'CoinEx']"
+1672,MONSTR,['Uniswap (v2)']
+1673,QUSD,['Uniswap (v2)']
+1674,KANGAL,['Uniswap (v2)']
+1675,TAK,['YoBit']
+1676,POP,['Sushiswap']
+1677,USDF,['Uniswap (v2)']
+1678,RLOKI,['PancakeSwap']
+1679,XCH,"['CoinEx', 'OKEx', 'HitBTC']"
+1680,assa,['PancakeSwap']
+1681,BCDT,['Uniswap (v2)']
+1682,AXL,['Uniswap (v2)']
+1683,SCARE,"['SpookySwap', 'SpookySwap']"
+1684,ECOT,['PancakeSwap']
+1685,YFII,"['Sushiswap', 'Binance']"
+1686,AIOZ,"['Uniswap (v2)', 'Coinbase Exchange', 'PancakeSwap', 'PancakeSwap']"
+1687,CLOAK,['Binance']
+1688,ZNE,['YoBit']
+1689,RARE,"['Balancer (v2)', 'Sushiswap']"
+1690,PAL,"['PancakeSwap', 'KuCoin']"
+1691,IDTT,['Uniswap (v3)']
+1692,JUSTICE,['Balancer (v2)']
+1693,land,['PancakeSwap']
+1694,SCAM,['PancakeSwap']
+1695,NXL,"['Sushiswap', 'Uniswap (v2)']"
+1696,xbx,['PancakeSwap']
+1697,BMI,['Uniswap (v2)']
+1698,WANA,['PancakeSwap']
+1699,ARGO,['Uniswap (v3)']
+1700,zpro,['PancakeSwap']
+1701,EVED,"['Bitforex', 'Uniswap (v3)']"
+1702,YFV,['Uniswap (v2)']
+1703,MAHA,"['Uniswap (v2)', 'Uniswap (v3)']"
+1704,METADOGE,"['Uniswap (v2)', 'Uniswap (v3)']"
+1705,XWG,['PancakeSwap']
+1706,KOMBAT,"['Sushiswap', 'PancakeSwap']"
+1707,XCN,['Coinbase Exchange']
+1708,RAI,"['Trader Joe', 'Balancer (v2)', 'Curve', 'Huobi Global']"
+1709,SHICO,"['PancakeSwap', 'PancakeSwap']"
+1710,NST,['Sushiswap']
+1711,BLO,['Uniswap (v3)']
+1712,ELI,['PancakeSwap']
+1713,BNA,['Uniswap (v3)']
+1714,LMN,['Apeswap']
+1715,WAD,['PancakeSwap']
+1716,PUR,['PancakeSwap']
+1717,BBO,['Bancor']
+1718,lkr,['Uniswap (v3)']
+1719,BELT,['PancakeSwap']
+1720,PHOON,['Sushiswap']
+1721,CAVO,"['Uniswap (v2)', 'Sushiswap']"
+1722,NFTFY,['Uniswap (v2)']
+1723,METAMUSK,['PancakeSwap']
+1724,PUNDIX,"['CoinEx', 'Bithumb']"
+1725,XGDAO,['Uniswap (v2)']
+1726,EPS,['Apeswap']
+1727,KINO,['PancakeSwap']
+1728,WOO,"['Sushiswap', 'Binance', 'Kraken']"
+1729,MED,['Bittrex']
+1730,GAMINGDOGE,['PancakeSwap']
+1731,SMSCT,['Sushiswap']
+1732,3SHARE,['SpookySwap']
+1733,WIMI,['PancakeSwap']
+1734,EDRC,['YoBit']
+1735,LOOT,['PancakeSwap']
+1736,CPT,['HitBTC']
+1737,SENT,"['YoBit', 'YoBit', 'Hotbit']"
+1738,luck,['PancakeSwap']
+1739,GYEN,['Coinbase Exchange']
+1740,UUU,"['Huobi Global', 'Huobi Global']"
+1741,CNET,['Allcoin']
+1742,cnt,['PancakeSwap']
+1743,BEZ,['HitBTC']
+1744,MITH,"['Binance DEX', 'HitBTC', 'Bitfinex']"
+1745,FLM,"['Bit-Z', 'Binance']"
+1746,THECITADEL,['Uniswap (v2)']
+1747,SDT,['Uniswap (v3)']
+1748,GST,"['PancakeSwap', 'HitBTC']"
+1749,AR,"['Binance', 'Binance']"
+1750,ylf,['PancakeSwap']
+1751,ITC,['Huobi Global']
+1752,PFTM,['SpookySwap']
+1753,ETNA,['PancakeSwap']
+1754,UNCL,['PancakeSwap']
+1755,PIVX,"['Binance', 'Upbit']"
+1756,WAL,['Uniswap (v2)']
+1757,PIGX,['Uniswap (v2)']
+1758,WMEMO,['SpiritSwap']
+1759,RFUEL,['Uniswap (v2)']
+1760,NAMI,['Uniswap (v2)']
+1761,innit,['Uniswap (v2)']
+1762,EVE,['Hotbit']
+1763,BSCPAD,['Sushiswap']
+1764,DMC,['PancakeSwap']
+1765,EGAME,['Uniswap (v3)']
+1766,IDT,['BigONE']
+1767,topg,['PancakeSwap']
+1768,SLD,"['PancakeSwap', 'Uniswap (v3)']"
+1769,SAFEBTC,['PancakeSwap']
+1770,KMON,['PancakeSwap']
+1771,rktn,['Uniswap (v2)']
+1772,IPC,"['Bitforex', 'EXX', 'EXX']"
+1773,S4F,['PancakeSwap']
+1774,PRE,"['KuCoin', 'HitBTC']"
+1775,siu,['PancakeSwap']
+1776,DUEL,['PancakeSwap']
+1777,MET,"['Bittrex', 'Sushiswap']"
+1778,CRYP,['PancakeSwap']
+1779,gal,['PancakeSwap']
+1780,movez,"['PancakeSwap', 'PancakeSwap']"
+1781,jcr,['Uniswap (v3)']
+1782,MX,['Huobi Global']
+1783,QBT,['PancakeSwap']
+1784,wallphy,['Uniswap (v2)']
+1785,COOL,['Balancer (v2)']
+1786,LGB,['Sushiswap']
+1787,PLU,"['Uniswap (v2)', 'Bitfinex']"
+1788,SRC,['BTC38']
+1789,SHIBAFI,['PancakeSwap']
+1790,GEC,['PancakeSwap']
+1791,SVS,['Uniswap (v3)']
+1792,GRAIN,['Uniswap (v2)']
+1793,DAC,['Uniswap (v2)']
+1794,STC,"['OKEx', 'Uniswap (v3)']"
+1795,CEX,['PancakeSwap']
+1796,TLOS,['Uniswap (v2)']
+1797,BREAST,['Uniswap (v2)']
+1798,PBTT,['HitBTC']
+1799,sta,"['PancakeSwap', 'PancakeSwap']"
+1800,dvf,['Bitfinex']
+1801,ddd,['PancakeSwap']
+1802,dbs,['Uniswap (v2)']
+1803,CLNY,['Sushiswap']
+1804,LOG,['Bitfinex']
+1805,SACKS,"['Sushiswap', 'Uniswap (v3)']"
+1806,UNL,"['Uniswap (v2)', 'Uniswap (v2)']"
+1807,METAR,['PancakeSwap']
+1808,SILV,['Uniswap (v3)']
+1809,ONLEXPA,['PancakeSwap']
+1810,2LC,['PancakeSwap']
+1811,MGT,['PancakeSwap']
+1812,SHPING,['Uniswap (v3)']
+1813,ANRX,['Uniswap (v2)']
+1814,KRN,['PancakeSwap']
+1815,STQ,"['HitBTC', 'Hotbit']"
+1816,MMON,['PancakeSwap']
+1817,wow,['PancakeSwap']
+1818,GENART,['Uniswap (v2)']
+1819,TSR,['Uniswap (v2)']
+1820,MOONCAT,['Sushiswap']
+1821,KAR,['Kraken']
+1822,NTK,"['YoBit', 'HitBTC']"
+1823,NANJ,['HitBTC']
+1824,CREAM,"['Sushiswap', 'Uniswap (v2)']"
+1825,HOGE,['PancakeSwap']
+1826,REQ,"['Uniswap (v2)', 'YoBit', 'KuCoin', 'Bancor']"
+1827,BABYUSDT,['PancakeSwap']
+1828,XLG,['ACX']
+1829,STFIRO,['Uniswap (v2)']
+1830,UNIDX,"['Uniswap (v2)', 'SpiritSwap']"
+1831,UP,['Upbit']
+1832,POG,['PancakeSwap']
+1833,GFNC,['PancakeSwap']
+1834,MDX,['Uniswap (v3)']
+1835,YF4,['Uniswap (v2)']
+1836,REFI,['PancakeSwap']
+1837,SMBR,"['PancakeSwap', 'PancakeSwap']"
+1838,ABS,['PancakeSwap']
+1839,KIWI,['Uniswap (v3)']
+1840,ANGLE,['Sushiswap']
+1841,INUBIS,['Uniswap (v2)']
+1842,BUIDL,['Uniswap (v2)']
+1843,PLUG,"['Uniswap (v3)', 'Uniswap (v2)']"
+1844,NAOS,['PancakeSwap']
+1845,MFG,"['Uniswap (v2)', 'Uniswap (v2)']"
+1846,HMC,['BigONE']
+1847,LUXE,['PancakeSwap']
+1848,ARV,['PancakeSwap']
+1849,STMX,"['Uniswap (v3)', 'Binance', 'FTX']"
+1850,REI,"['Uniswap (v2)', 'Uniswap (v3)']"
+1851,IIC,"['Huobi Global', 'Uniswap (v2)']"
+1852,YFSI,['Uniswap (v2)']
+1853,USDK,"['Sushiswap', 'Bitfinex', 'Bitfinex']"
+1854,METAMOON,['PancakeSwap']
+1855,RING,"['SpiritSwap', 'Uniswap (v3)']"
+1856,RARI,['Balancer (v1)']
+1857,PANFT,['PancakeSwap']
+1858,MEGA,['Uniswap (v2)']
+1859,KOKOMO,['PancakeSwap']
+1860,PEPR,['PancakeSwap']
+1861,VEE,"['Trader Joe', 'Bitfinex', 'Balancer (v1)']"
+1862,FLOKI,['PancakeSwap']
+1863,ACAT,"['Hotbit', 'KuCoin']"
+1864,TRIAS,['PancakeSwap']
+1865,BRC,['ZB']
+1866,ribt,['Trader Joe']
+1867,PERL,['Binance']
+1868,XTT-B20,"['PancakeSwap', 'PancakeSwap']"
+1869,KURAI,"['PancakeSwap', 'PancakeSwap']"
+1870,BETH,['PancakeSwap']
+1871,KALA,['PancakeSwap']
+1872,VRC,['Poloniex']
+1873,RLQ,['PancakeSwap']
+1874,MER,['Upbit']
+1875,ECOIN,['HitBTC']
+1876,GLCH,['Uniswap (v2)']
+1877,GSM,['YoBit']
+1878,RACA,['Uniswap (v2)']
+1879,YFFS,['Uniswap (v2)']
+1880,RBTC,['Bitfinex']
+1881,GOAL,['PancakeSwap']
+1882,URQA,['Uniswap (v2)']
+1883,NFTG,['PancakeSwap']
+1884,RNTB,"['HitBTC', 'HitBTC']"
+1885,TEMPO,['Trader Joe']
+1886,GRAND,['Uniswap (v2)']
+1887,VTX,['PancakeSwap']
+1888,PMA,"['Upbit', 'Uniswap (v2)']"
+1889,RIV2,['PancakeSwap']
+1890,NPX,"['HitBTC', 'Uniswap (v2)']"
+1891,LIFE,['PancakeSwap']
+1892,NET,"['HitBTC', 'Bittrex']"
+1893,EXOD,['SpookySwap']
+1894,ACT,"['OKEx', 'EXX', 'KuCoin']"
+1895,DGSHIB,['PancakeSwap']
+1896,BPM,['PancakeSwap']
+1897,AUC,['Balancer (v1)']
+1898,UNIFI,"['Uniswap (v2)', 'Uniswap (v3)']"
+1899,PROM,"['FTX', 'Binance']"
+1900,baxis,['PancakeSwap']
+1901,ARB,['YoBit']
+1902,AMLT,"['Liquid', 'Liquid', 'Liquid']"
+1903,NFTY,['Uniswap (v3)']
+1904,MVL,['Poloniex']
+1905,BNS,['Uniswap (v2)']
+1906,AETH,['Sushiswap']
+1907,singh,['PancakeSwap']
+1908,DKA,"['Upbit', 'Upbit']"
+1909,ABT,"['Bittrex', 'OKEx', 'EXX', 'Bibox']"
+1910,DES,['Uniswap (v2)']
+1911,MEPAD,['PancakeSwap']
+1912,sen,['PancakeSwap']
+1913,FWC,['PancakeSwap']
+1914,PHC,['PancakeSwap']
+1915,OPS,['PancakeSwap']
+1916,TFL,"['KuCoin', 'HitBTC']"
+1917,ARC,"['PancakeSwap', 'PancakeSwap']"
+1918,QUID,['Uniswap (v2)']
+1919,BOR,"['Huobi Global', 'Uniswap (v3)']"
+1920,COVER,['Uniswap (v2)']
+1921,KINTA,"['Apeswap', 'PancakeSwap']"
+1922,SNAP,['PancakeSwap']
+1923,b8t,"['PancakeSwap', 'PancakeSwap']"
+1924,RBIES,['YoBit']
+1925,FVT,['Uniswap (v2)']
+1926,FIO,['Binance']
+1927,HMQ,['Upbit']
+1928,EXE,['Poloniex']
+1929,NIFTY,['PancakeSwap']
+1930,ARTE,['Uniswap (v2)']
+1931,MIST,['Sushiswap']
+1932,CGG,['Sushiswap']
+1933,STAK,['HitBTC']
+1934,MNS,['Uniswap (v2)']
+1935,ECCHI,['PancakeSwap']
+1936,SAFESTAR,['PancakeSwap']
+1937,PECO,['Sushiswap']
+1938,TCT,"['EXX', 'OKEx']"
+1939,CHSB,['KuCoin']
+1940,YUP,['Uniswap (v2)']
+1941,mct,['PancakeSwap']
+1942,HNS,['BigONE']
+1943,VOT,['Bit-Z']
+1944,EURT,['Uniswap (v3)']
+1945,FTE,['PancakeSwap']
+1946,BEEINU,['PancakeSwap']
+1947,NNB,['CoinEx']
+1948,DBET,['HitBTC']
+1949,NEWB,"['PancakeSwap', 'PancakeSwap']"
+1950,EARN,['PancakeSwap']
+1951,BLUE,['PancakeSwap']
+1952,RBX,"['PancakeSwap', 'Uniswap (v2)']"
+1953,HOFF,"['Uniswap (v2)', 'Uniswap (v3)']"
+1954,WIB,['Bitforex']
+1955,ZATCOIN,['PancakeSwap']
+1956,gst,"['PancakeSwap', 'PancakeSwap']"
+1957,koi,['Uniswap (v2)']
+1958,MDA,['Uniswap (v2)']
+1959,MPH,['Uniswap (v3)']
+1960,FNC,['Uniswap (v3)']
+1961,VEST,['PancakeSwap']
+1962,DXY,['Uniswap (v2)']
+1963,DCTD,['Uniswap (v3)']
+1964,KALM,['PancakeSwap']
+1965,usdd,['Uniswap (v3)']
+1966,LOFI,['PancakeSwap']
+1967,MYO,['Bitforex']
+1968,XSGD,"['Uniswap (v3)', 'Uniswap (v3)']"
+1969,WFIL,"['Gemini', 'Gemini', 'Uniswap (v2)']"
+1970,DELOS,['PancakeSwap']
+1971,RUPX,['YoBit']
+1972,MAXI,['Trader Joe']
+1973,MNOP,['PancakeSwap']
+1974,XIOT,['Uniswap (v2)']
+1975,NICE,['Uniswap (v2)']
+1976,DERO,"['Hotbit', 'CoinEx']"
+1977,X,['Sushiswap']
+1978,CZRX,['Balancer (v1)']
+1979,XTP,['Uniswap (v2)']
+1980,XSUSHI,['Sushiswap']
+1981,MEME,['Upbit']
+1982,smc,"['PancakeSwap', 'PancakeSwap']"
+1983,WHL,['Uniswap (v2)']
+1984,MASH,['PancakeSwap']
+1985,WHIS,['Uniswap (v2)']
+1986,rloop,['Trader Joe']
+1987,PKR,['Bittrex']
+1988,OS,['Uniswap (v3)']
+1989,ARIA20,['Sushiswap']
+1990,PIGGY,"['PancakeSwap', 'Trader Joe']"
+1991,GDC,['Uniswap (v2)']
+1992,PNL,['Uniswap (v2)']
+1993,WSG,['PancakeSwap']
+1994,FOL,['Bittrex']
+1995,ID,"['PancakeSwap', 'Bitfinex']"
+1996,USDS,['Bittrex']
+1997,XBY,['YoBit']
+1998,SUPS,['PancakeSwap']
+1999,TRISM,['Uniswap (v2)']
+2000,GIM,['Gatecoin']
+2001,ARCO,['YoBit']
+2002,IFOOD,['Allcoin']
+2003,IMO,['PancakeSwap']
+2004,MBONK,['Uniswap (v3)']
+2005,BMON,"['PancakeSwap', 'PancakeSwap']"
+2006,PROS,"['Uniswap (v2)', 'Sushiswap']"
+2007,JOT,['HitBTC']
+2008,SBD,"['HitBTC', 'Bittrex']"
+2009,INVOX,['Uniswap (v2)']
+2010,ISLA,['Uniswap (v2)']
+2011,SMAX,['Uniswap (v2)']
+2012,BAC,['Uniswap (v2)']
+2013,FHTN,"['PancakeSwap', 'PancakeSwap']"
+2014,catpay,"['PancakeSwap', 'PancakeSwap']"
+2015,KP4R,['Uniswap (v2)']
+2016,MONO,['PancakeSwap']
+2017,URG-U,['PancakeSwap']
+2018,PRDX,['Uniswap (v2)']
+2019,POL,['PancakeSwap']
+2020,blst,['PancakeSwap']
+2021,PUNKS,['Uniswap (v3)']
+2022,WEST,['Tidex']
+2023,BTN,['ZB']
+2024,AVAXUP,['PancakeSwap']
+2025,ECO,['YoBit']
+2026,PICA,['Uniswap (v2)']
+2027,ALPACA,"['Binance', 'PancakeSwap', 'Sushiswap']"
+2028,M2O,['Bitforex']
+2029,EVIL,['YoBit']
+2030,SHUSKY,['Uniswap (v2)']
+2031,EKO,['HitBTC']
+2032,PING,['PancakeSwap']
+2033,xmeta,['PancakeSwap']
+2034,SUM,['Sushiswap']
+2035,mint,['Uniswap (v2)']
+2036,BSCX,"['PancakeSwap', 'PancakeSwap']"
+2037,QSD,"['PancakeSwap', 'PancakeSwap']"
+2038,PREMIA,['Uniswap (v3)']
+2039,XLR,['KuCoin']
+2040,RBI,['Uniswap (v2)']
+2041,SAV3,['Uniswap (v2)']
+2042,VXV,['Uniswap (v2)']
+2043,VAI,['PancakeSwap']
+2044,AE,"['Binance', 'OKEx', 'HitBTC']"
+2045,JPYC,['Uniswap (v3)']
+2046,SLINK,['Curve']
+2047,SBP,['PancakeSwap']
+2048,FLDC,['EXX']
+2049,SOON,['Bittrex']
+2050,CPTINU,['Uniswap (v2)']
+2051,DUCK,['Uniswap (v3)']
+2052,GUM,['PancakeSwap']
+2053,PLF,['Uniswap (v2)']
+2054,MCB,"['FTX', 'Uniswap (v2)']"
+2055,LEXI,['PancakeSwap']
+2056,ZSC,['HitBTC']
+2057,GLMR,"['KuCoin', 'Binance']"
+2058,MULTI,['Apeswap']
+2059,ZEP,['PancakeSwap']
+2060,EMP,"['PancakeSwap', 'PancakeSwap']"
+2061,CSNO,['HitBTC']
+2062,DFAI,['PancakeSwap']
+2063,PACOCA,"['Apeswap', 'PancakeSwap']"
+2064,SUG,['PancakeSwap']
+2065,MINISHIB,['Uniswap (v2)']
+2066,sdby,"['Apeswap', 'PancakeSwap']"
+2067,zenc,['PancakeSwap']
+2068,CRYPT,['PancakeSwap']
+2069,BST,"['Uniswap (v3)', 'Bittrex']"
+2070,ROOM,"['Uniswap (v3)', 'PancakeSwap', 'Sushiswap']"
+2071,W3C,['HitBTC']
+2072,class,['PancakeSwap']
+2073,DIFX,['PancakeSwap']
+2074,XQN,['YoBit']
+2075,RDD,['Upbit']
+2076,SAITOKI,['Uniswap (v2)']
+2077,VBIT,['Uniswap (v2)']
+2078,ARKER,['PancakeSwap']
+2079,HEC,['Apeswap']
+2080,POC,['PancakeSwap']
+2081,PULI,"['PancakeSwap', 'PancakeSwap']"
+2082,ALLUO,['Balancer (v2)']
+2083,SWAP,['PancakeSwap']
+2084,DYP,['PancakeSwap']
+2085,FINS,['PancakeSwap']
+2086,OUSE,['PancakeSwap']
+2087,$dreamn,['PancakeSwap']
+2088,LYN,['Uniswap (v2)']
+2089,UBU,['Uniswap (v2)']
+2090,WWB,['Bitforex']
+2091,ESHARE,['PancakeSwap']
+2092,PNG,"['Trader Joe', 'Trader Joe']"
+2093,X2Y2,['Uniswap (v3)']
+2094,BAX,['KuCoin']
+2095,BRDG,['HitBTC']
+2096,WTF,['Uniswap (v3)']
+2097,BIZZ,['Uniswap (v2)']
+2098,$adoge,['PancakeSwap']
+2099,SMRTR,"['Trader Joe', 'Trader Joe']"
+2100,ARA,['PancakeSwap']
+2101,CARMA,['PancakeSwap']
+2102,ENGT,['HitBTC']
+2103,COCK,['PancakeSwap']
+2104,SAI,"['CoinEx', 'Uniswap (v3)', 'Bittrex']"
+2105,SPS,['PancakeSwap']
+2106,TMTG,"['Uniswap (v2)', 'Uniswap (v2)']"
+2107,CHF,"['Currency.com', 'Currency.com']"
+2108,TRDC,['PancakeSwap']
+2109,tbs,['PancakeSwap']
+2110,VGX,['Coinbase Exchange']
+2111,TOKO,['PancakeSwap']
+2112,USDCET,['PancakeSwap']
+2113,terraform,['Uniswap (v2)']
+2114,NFTASCII,['PancakeSwap']
+2115,NIMBUS,['Uniswap (v2)']
+2116,GM,['Uniswap (v2)']
+2117,WAGMI,['Sushiswap']
+2118,SMG,['PancakeSwap']
+2119,CTS,['PancakeSwap']
+2120,vizslaswap,['PancakeSwap']
+2121,BBC,"['Bit-Z', 'HitBTC']"
+2122,FRAT,['PancakeSwap']
+2123,LZP,['PancakeSwap']
+2124,BCUG,['Uniswap (v3)']
+2125,STARSB,['Uniswap (v2)']
+2126,DOM,['PancakeSwap']
+2127,CHER,['PancakeSwap']
+2128,TANGO,['Uniswap (v2)']
+2129,ORIO,['PancakeSwap']
+2130,STKR,['Uniswap (v2)']
+2131,NMC,['']
+2132,SMHDOGE,['Uniswap (v2)']
+2133,SAITO,['BigONE']
+2134,PIXELSQUID,['PancakeSwap']
+2135,gemz,['PancakeSwap']
+2136,BREWLABS,['PancakeSwap']
+2137,JNTR/E,['Uniswap (v2)']
+2138,GINZA,['PancakeSwap']
+2139,WHEAT,['Apeswap']
+2140,HNT,['Binance US']
+2141,PANDAVS,['PancakeSwap']
+2142,ECC,['PancakeSwap']
+2143,adao,['PancakeSwap']
+2144,KIAN,['PancakeSwap']
+2145,ZRC,"['HitBTC', 'YoBit']"
+2146,TROY,['Binance']
+2147,LZ,"['PancakeSwap', 'PancakeSwap']"
+2148,HMNG,['PancakeSwap']
+2149,MBBY,['PancakeSwap']
+2150,SAFUU,['PancakeSwap']
+2151,ADAO,['PancakeSwap']
+2152,MOB,['FTX']
+2153,tbac,['PancakeSwap']
+2154,CGANG,['PancakeSwap']
+2155,ZOON,"['Apeswap', 'PancakeSwap']"
+2156,TABOO,['PancakeSwap']
+2157,SPHTX,['Liquid']
+2158,ORME,['Bibox']
+2159,lc,['Apeswap']
+2160,ADT,['Bittrex']
+2161,SSAP,['PancakeSwap']
+2162,GDAO,['Uniswap (v3)']
+2163,USDN,"['Curve', 'Uniswap (v3)']"
+2164,TRON,['YoBit']
+2165,FXC,['Bittrex']
+2166,XMON,['Sushiswap']
+2167,dryp,['Uniswap (v2)']
+2168,NSR,['Poloniex']
+2169,seor,['PancakeSwap']
+2170,rvlx,['PancakeSwap']
+2171,HEPA,['Apeswap']
+2172,XBN,['Apeswap']
+2173,EDOGE,['PancakeSwap']
+2174,yld,['PancakeSwap']
+2175,aura,['Balancer (v2)']
+2176,SPOOL,['Uniswap (v2)']
+2177,THRT,['Liquid']
+2178,TXA,"['Uniswap (v2)', 'Uniswap (v3)']"
+2179,ROFI,['PancakeSwap']
+2180,COV,"['Uniswap (v3)', 'PancakeSwap']"
+2181,BUBO,['HitBTC']
+2182,CQT,['Uniswap (v3)']
+2183,WET,['Bithumb']
+2184,DAD,"['Bitfinex', 'Upbit']"
+2185,CROSS,['PancakeSwap']
+2186,BOOMSHIBA,['PancakeSwap']
+2187,DEC,['YoBit']
+2188,MATA,['PancakeSwap']
+2189,OPEN,['Uniswap (v2)']
+2190,DOGEFATHER,['PancakeSwap']
+2191,RRR,['Uniswap (v2)']
+2192,DOWS,['Uniswap (v2)']
+2193,LTO,"['Binance', 'PancakeSwap', 'Binance']"
+2194,LF,['Trader Joe']
+2195,VITA,['Uniswap (v3)']
+2196,CIV,"['Uniswap (v3)', 'Uniswap (v3)']"
+2197,COPS,['Uniswap (v2)']
+2198,law,['PancakeSwap']
+2199,CENNZ,['HitBTC']
+2200,BONES,['Uniswap (v2)']
+2201,ANTEX,['PancakeSwap']
+2202,horgi,['PancakeSwap']
+2203,ATM,['Uniswap (v2)']
+2204,BPLUS,['PancakeSwap']
+2205,LAVA,['PancakeSwap']
+2206,SWPR,['PancakeSwap']
+2207,MEETONE,['Hotbit']
+2208,EVA,['PancakeSwap']
+2209,hyperr,['PancakeSwap']
+2210,N3RDZ,"['Uniswap (v2)', 'Uniswap (v2)']"
+2211,WEFIN,['PancakeSwap']
+2212,NAV,"['HitBTC', 'Upbit']"
+2213,MCO2,"['Coinbase Exchange', 'Coinbase Exchange']"
+2214,BRD,"['HitBTC', 'Uniswap (v3)']"
+2215,ENK,['Sushiswap']
+2216,KRYPTO,['PancakeSwap']
+2217,NRK,['Trader Joe']
+2218,sensi,['PancakeSwap']
+2219,ONSTON,['Sushiswap']
+2220,OT-AUSDC-29DEC2022,['Sushiswap']
+2221,DOGECO,['Sushiswap']
+2222,MEANTAMATO,['Uniswap (v2)']
+2223,riff,['PancakeSwap']
+2224,ERN,"['Coinbase Exchange', 'Uniswap (v3)']"
+2225,HOTDOGE,['PancakeSwap']
+2226,DCC,['YoBit']
+2227,KOM,['Apeswap']
+2228,STU,['HitBTC']
+2229,APLP,['Uniswap (v2)']
+2230,CUB,['PancakeSwap']
+2231,DEPO,['Uniswap (v2)']
+2232,mbp,['PancakeSwap']
+2233,HOME,['PancakeSwap']
+2234,WHIRL,['Sushiswap']
+2235,BIDOG,['PancakeSwap']
+2236,ART,['PancakeSwap']
+2237,BRTK,['PancakeSwap']
+2238,PIB,['Uniswap (v2)']
+2239,WOZX,"['Uniswap (v2)', 'Uniswap (v2)']"
+2240,FONT,['Uniswap (v2)']
+2241,MINIFOOTBALL,"['PancakeSwap', 'PancakeSwap']"
+2242,clg,['PancakeSwap']
+2243,BUGG,['Uniswap (v2)']
+2244,YOCO,['PancakeSwap']
+2245,YTTRIUM,['PancakeSwap']
+2246,AQT,['Bithumb']
+2247,UNN,['Uniswap (v2)']
+2248,JADE,['PancakeSwap']
+2249,TUDA,['Uniswap (v3)']
+2250,WICC,['Hotbit']
+2251,CREVA,['YoBit']
+2252,anarchy,['Uniswap (v2)']
+2253,NRCH,['Uniswap (v2)']
+2254,GLMS,['PancakeSwap']
+2255,PHNX,['CoinEx']
+2256,FERA,['Uniswap (v2)']
+2257,HDAO,['Bittrex']
+2258,MYTH,['Uniswap (v2)']
+2259,CMX,['PancakeSwap']
+2260,GPU,['YoBit']
+2261,VTHO,"['HitBTC', 'Cobinhood']"
+2262,WCFG,['Gemini']
+2263,POLS,"['Poloniex', 'PancakeSwap', 'Uniswap (v2)']"
+2264,RTE,['Bitfinex']
+2265,SHIBU,['PancakeSwap']
+2266,BMC,['HitBTC']
+2267,CHIM,['PancakeSwap']
+2268,HY,['Uniswap (v2)']
+2269,AFEN,['PancakeSwap']
+2270,JEFF,['Uniswap (v2)']
+2271,HBX,['PancakeSwap']
+2272,SEED,['Uniswap (v3)']
+2273,MNST,['PancakeSwap']
+2274,XRD,['Bitfinex']
+2275,UNICAT,['Uniswap (v2)']
+2276,gst-eth,['Uniswap (v2)']
+2277,HBZ,['HitBTC']
+2278,VNDC,['Uniswap (v2)']
+2279,ILV,"['Binance', 'Uniswap (v2)']"
+2280,BBTC,"['PancakeSwap', 'Curve']"
+2281,REF,['OKEx']
+2282,USDX,"['Uniswap (v2)', 'Uniswap (v2)']"
+2283,BOMB,"['PancakeSwap', 'Apeswap']"
+2284,USDO,['PancakeSwap']
+2285,ps1,['PancakeSwap']
+2286,JOON,['Uniswap (v2)']
+2287,VPP,['PancakeSwap']
+2288,VID,['Uniswap (v2)']
+2289,LDFI,['PancakeSwap']
+2290,MYB,['Bancor']
+2291,HBC,['Huobi Global']
+2292,BDO,['PancakeSwap']
+2293,BDOT,['PancakeSwap']
+2294,LAVAX,['PancakeSwap']
+2295,GEN,"['PancakeSwap', 'Apeswap']"
+2296,afit,['PancakeSwap']
+2297,laeeb,['PancakeSwap']
+2298,INFI,['Uniswap (v2)']
+2299,LUCKY,['PancakeSwap']
+2300,NTB,['Bitforex']
+2301,LIBERO,['PancakeSwap']
+2302,FC2,['Bittrex']
+2303,SHIBEV,['PancakeSwap']
+2304,2GIVE,['YoBit']
+2305,C0,['Uniswap (v2)']
+2306,PNGN,['Bitfinex']
+2307,KICKS,['Bitforex']
+2308,ULU,['Uniswap (v2)']
+2309,PWR,['PancakeSwap']
+2310,INXT,['Bittrex']
+2311,ogv,['Uniswap (v3)']
+2312,SHARD,"['Uniswap (v3)', 'Uniswap (v2)']"
+2313,KAN,"['Huobi Global', 'ZB']"
+2314,AIRT,['PancakeSwap']
+2315,XAI,['Sushiswap']
+2316,BIX,['Huobi Global']
+2317,ALC,['YoBit']
+2318,noe,['PancakeSwap']
+2319,XBP,['Bancor']
+2320,EQX,['PancakeSwap']
+2321,TKNT,['Uniswap (v2)']
+2322,PST,['EXX']
+2323,LYXE,['Uniswap (v2)']
+2324,PEAKAVAX,['PancakeSwap']
+2325,TOS,['Huobi Global']
+2326,BINSPIRIT,['SpiritSwap']
+2327,ONC,['Uniswap (v2)']
+2328,PMGT,['Uniswap (v3)']
+2329,NUT,['Bitfinex']
+2330,PAYT,['Uniswap (v2)']
+2331,BRIGHT,['Uniswap (v3)']
+2332,RABBIT,['PancakeSwap']
+2333,BOST,['BTC38']
+2334,SHD,['PancakeSwap']
+2335,ARY,['KuCoin']
+2336,TME,['Uniswap (v2)']
+2337,SDN,['Kraken']
+2338,EYE,['Uniswap (v2)']
+2339,ROAR,['Uniswap (v2)']
+2340,GAN,"['Apeswap', 'PancakeSwap']"
+2341,ARK,['OKEx']
+2342,CPI,['Balancer (v1)']
+2343,nudes,['PancakeSwap']
+2344,csr,['PancakeSwap']
+2345,ANV,['Bithumb']
+2346,AENJ,['Uniswap (v2)']
+2347,BUSY,['Uniswap (v2)']
+2348,FIRST,['Uniswap (v2)']
+2349,WAB,['Bitforex']
+2350,CLT,['Uniswap (v2)']
+2351,NAUT,['PancakeSwap']
+2352,LEAD,['PancakeSwap']
+2353,TOM,['Uniswap (v2)']
+2354,IQ,['Uniswap (v3)']
+2355,FGSPORT,['PancakeSwap']
+2356,wkc,['PancakeSwap']
+2357,BAKT,['Uniswap (v3)']
+2358,GMM,['PancakeSwap']
+2359,DOV,['Uniswap (v2)']
+2360,blt,['PancakeSwap']
+2361,PEER,['Uniswap (v2)']
+2362,BTCR,['YoBit']
+2363,MVD,['SpookySwap']
+2364,TOR,['Hotbit']
+2365,SIW,['Apeswap']
+2366,3web,['PancakeSwap']
+2367,SEQ,['Bittrex']
+2368,CHEE,['PancakeSwap']
+2369,HPY,['ZB']
+2370,UKG,['OKEx']
+2371,REVT,['PancakeSwap']
+2372,MCAT,['PancakeSwap']
+2373,BOOFI,['Trader Joe']
+2374,ZODI,['PancakeSwap']
+2375,MVP,"['OKEx', 'PancakeSwap']"
+2376,FTO,['BitBay']
+2377,MRCR,['PancakeSwap']
+2378,HKUN,['PancakeSwap']
+2379,SFP,['Binance']
+2380,HARE,"['PancakeSwap', 'PancakeSwap']"
+2381,GSY,['YoBit']
+2382,move,['PancakeSwap']
+2383,PUNCH,['PancakeSwap']
+2384,ARM,['Uniswap (v2)']
+2385,EVERETH,['PancakeSwap']
+2386,BASE,['Uniswap (v2)']
+2387,PUPDOGE,['PancakeSwap']
+2388,PINKSALE,['PancakeSwap']
+2389,CCL,['HitBTC']
+2390,SEK,['Currency.com']
+2391,AUNI,['Uniswap (v2)']
+2392,SURF,['Sushiswap']
+2393,PLG,['Sushiswap']
+2394,RXS,['PancakeSwap']
+2395,EMPIRE,['PancakeSwap']
+2396,OIL,['Uniswap (v2)']
+2397,FYN,['HitBTC']
+2398,WCCX,"['Uniswap (v2)', 'PancakeSwap']"
+2399,AVG,['Uniswap (v3)']
+2400,TV,['EXX']
+2401,CTR,['PancakeSwap']
+2402,NABOX,['PancakeSwap']
+2403,ALG,['Ethfinex']
+2404,HEJJ,['PancakeSwap']
+2405,PAND,['Uniswap (v2)']
+2406,CPHR,['PancakeSwap']
+2407,FROG,['SpookySwap']
+2408,SFEX,['PancakeSwap']
+2409,PBTC,['Curve']
+2410,BATH,['PancakeSwap']
+2411,ARNXM,['Uniswap (v2)']
+2412,BNC,['Uniswap (v2)']
+2413,MNSTRS,['PancakeSwap']
+2414,MYST,"['HitBTC', 'HitBTC', 'Uniswap (v2)']"
+2415,WANATHA,['Uniswap (v2)']
+2416,VOX,"['Uniswap (v2)', 'Uniswap (v2)']"
+2417,XSUTER,['PancakeSwap']
+2418,ARKN,['PancakeSwap']
+2419,PYLNT,['Bit-Z']
+2420,AAA,['Uniswap (v3)']
+2421,bex,['PancakeSwap']
+2422,SUNDER,['Sushiswap']
+2423,$MUNDO,['PancakeSwap']
+2424,STACK,['PancakeSwap']
+2425,RMRK,['Sushiswap']
+2426,ELLO,['PancakeSwap']
+2427,YUNO,['Uniswap (v2)']
+2428,KYL,['Uniswap (v2)']
+2429,PLBT,['Uniswap (v2)']
+2430,DAF,['Uniswap (v2)']
+2431,plot,['PancakeSwap']
+2432,RPL,['Balancer (v2)']
+2433,DEK,['PancakeSwap']
+2434,cornx,['PancakeSwap']
+2435,ACS,['PancakeSwap']
+2436,LIME,['Uniswap (v2)']
+2437,FOOD,['PancakeSwap']
+2438,HO,['PancakeSwap']
+2439,INFLUENCE,['PancakeSwap']
+2440,MIXS,['Uniswap (v2)']
+2441,LAMA,['PancakeSwap']
+2442,$grush,['PancakeSwap']
+2443,fnf,['PancakeSwap']
+2444,BITE,['Uniswap (v2)']
+2445,lego,['PancakeSwap']
+2446,lgo,['PancakeSwap']
+2447,IB,['SpookySwap']
+2448,DJBZ,['Uniswap (v2)']
+2449,AMES,"['PancakeSwap', 'PancakeSwap']"
+2450,MILKY,['PancakeSwap']
+2451,RNT,['OKEx']
+2452,UPUSD,['Bittrex']
+2453,MBX,['Uniswap (v3)']
+2454,BRIBE,['Uniswap (v2)']
+2455,GOM2,['Uniswap (v2)']
+2456,DNXC,['Uniswap (v2)']
+2457,pmr,['PancakeSwap']
+2458,MT,['CoinEx']
+2459,METAL,['Bittrex']
+2460,KICK,['YoBit']
+2461,RYMA,['Uniswap (v3)']
+2462,HUSKY,['Trader Joe']
+2463,VLX,['PancakeSwap']
+2464,DSH,"['', '']"
+2465,EMB,['YoBit']
+2466,CRL,['PancakeSwap']
+2467,MAPC,['YoBit']
+2468,WOJ,['PancakeSwap']
+2469,YUANG,['Uniswap (v2)']
+2470,BSD,['Uniswap (v2)']
+2471,BDG,['HitBTC']
+2472,BLZ,['Balancer (v1)']
+2473,BASH,"['YoBit', 'Allcoin']"
+2474,MANY,['PancakeSwap']
+2475,GATE,['Uniswap (v2)']
+2476,ALEPH,"['Coinbase Exchange', 'FTX']"
+2477,BOOST,['Uniswap (v2)']
+2478,CURE,['Poloniex']
+2479,PSK,['Uniswap (v2)']
+2480,TPV,['PancakeSwap']
+2481,CSF,['PancakeSwap']
+2482,redluna,['PancakeSwap']
+2483,PXL,['Bittrex']
+2484,MRPH,['HitBTC']
+2485,METAWORLD,['PancakeSwap']
+2486,mu,['Trader Joe']
+2487,0XMR,['Uniswap (v2)']
+2488,SLT,['PancakeSwap']
+2489,fct,['PancakeSwap']
+2490,ctr,['Balancer (v2)']
+2491,BANK$,['PancakeSwap']
+2492,DHC,['PancakeSwap']
+2493,HOL,['PancakeSwap']
+2494,MASTERCHEF2,['PancakeSwap']
+2495,SHIBORG,['PancakeSwap']
+2496,ARPA,['Uniswap (v2)']
+2497,OMX,['KuCoin']
+2498,CHOP,['Uniswap (v2)']
+2499,VIU,"['OKEx', 'OKEx']"
+2500,RXC,['PancakeSwap']
+2501,YCURVE,"['Balancer (v1)', 'Balancer (v1)']"
+2502,STPT,['Poloniex']
+2503,YTSLA,['Uniswap (v2)']
+2504,VACAY,['PancakeSwap']
+2505,ecoin,['PancakeSwap']
+2506,SYNR,['Uniswap (v2)']
+2507,PAID,['PancakeSwap']
+2508,WHE,['PancakeSwap']
+2509,ATHD,['PancakeSwap']
+2510,bhny,['Uniswap (v2)']
+2511,AXE,['Uniswap (v2)']
+2512,DSE,['Sushiswap']
+2513,SANTA,['PancakeSwap']
+2514,BABYDOGEZILLA,['PancakeSwap']
+2515,YHC,['PancakeSwap']
+2516,YFL,['Uniswap (v2)']
+2517,MWG,['Uniswap (v2)']
+2518,RWS,['Uniswap (v2)']
+2519,BRISE,['PancakeSwap']
+2520,LTT,['PancakeSwap']
+2521,UNFI,['PancakeSwap']
+2522,MOZ,['Uniswap (v2)']
+2523,WSPP,['PancakeSwap']
+2524,HTR,['KuCoin']
+2525,WON,['Uniswap (v2)']
+2526,VNXLU,['Uniswap (v2)']
+2527,MCDOGE,['Uniswap (v2)']
+2528,XNK,['Upbit']
+2529,HGET,['Uniswap (v3)']
+2530,ETZ,"['Bithumb', 'Hotbit']"
+2531,nxusd,['Trader Joe']
+2532,SPEX,['YoBit']
+2533,OPT,['Uniswap (v2)']
+2534,COVIDTOKEN,['PancakeSwap']
+2535,DEXI,['PancakeSwap']
+2536,EOSDT,['Bitfinex']
+2537,FAN8,['PancakeSwap']
+2538,velo,['Uniswap (v3)']
+2539,HDG,['HitBTC']
+2540,LINKS,['PancakeSwap']
+2541,ELE,['YoBit']
+2542,EXT,['YoBit']
+2543,ZYD,['YoBit']
+2544,KIMCHI,['Uniswap (v2)']
+2545,ORI,['PancakeSwap']
+2546,NOAHP,['Balancer (v1)']
+2547,ELY,['Hotbit']
+2548,DAO,"['Uniswap (v2)', 'Sushiswap']"
+2549,PM,['PancakeSwap']
+2550,SWIN,['PancakeSwap']
+2551,AERGO,['Sushiswap']
+2552,HP,['Uniswap (v2)']
+2553,nnt,['PancakeSwap']
+2554,rock,['Uniswap (v2)']
+2555,DACC,['Bitforex']
+2556,MTC,['YoBit']
+2557,vim,['PancakeSwap']
+2558,MYSTIC,['PancakeSwap']
+2559,ARI,['Ubeswap']
+2560,EGC,['PancakeSwap']
+2561,WUSD,['PancakeSwap']
+2562,SASHIMI,['Uniswap (v2)']
+2563,PETH,['PancakeSwap']
+2564,FADO,['PancakeSwap']
+2565,gode,['PancakeSwap']
+2566,JGN,['Uniswap (v2)']
+2567,ZOOT,['Uniswap (v2)']
+2568,PHUNK,['Sushiswap']
+2569,MAI,['Uniswap (v2)']
+2570,NBIT,['YoBit']
+2571,BR,['PancakeSwap']
+2572,MIX,['Uniswap (v2)']
+2573,CRB,['PancakeSwap']
+2574,IMS,['YoBit']
+2575,KUN,['PancakeSwap']
+2576,SUKU,['Bitfinex']
+2577,LIB,['Uniswap (v2)']
+2578,INE,['EXX']
+2579,ZEFI,['PancakeSwap']
+2580,PRY,['Uniswap (v2)']
+2581,STIMMY,['PancakeSwap']
+2582,WILD,['HitBTC']
+2583,DYN,['Upbit']
+2584,ETHPAD,['PancakeSwap']
+2585,ROZ,['PancakeSwap']
+2586,XIN,['YoBit']
+2587,HAC,['HitBTC']
+2588,POOCOIN,['PancakeSwap']
+2589,USE,['HitBTC']
+2590,HOD,['PancakeSwap']
+2591,TAJ,['YoBit']
+2592,PRIA,['Uniswap (v2)']
+2593,BNBD,['PancakeSwap']
+2594,rdnt,['Uniswap (v3)']
+2595,XVS,['Binance']
+2596,ARENA,['PancakeSwap']
+2597,DEFY,['PancakeSwap']
+2598,tpiggy,['SpookySwap']
+2599,3OMB,['SpookySwap']
+2600,WENB,['Uniswap (v2)']
+2601,FTS,['PancakeSwap']
+2602,LAYER,"['Uniswap (v2)', 'Uniswap (v2)']"
+2603,QCH,['Uniswap (v2)']
+2604,dddx,['PancakeSwap']
+2605,SKY,['Binance']
+2606,PAWG,['PancakeSwap']
+2607,FFA,['PancakeSwap']
+2608,ZFARM,['PancakeSwap']
+2609,MTH,['OKEx']
+2610,FLY,['PancakeSwap']
+2611,NCC,['Huobi Global']
+2612,BAY,['Bittrex']
+2613,TOB,['Uniswap (v2)']
+2614,SUNC,['Uniswap (v2)']
+2615,$GREED,['PancakeSwap']
+2616,MXC,['Uniswap (v2)']
+2617,APX,['Bittrex']
+2618,cstc,['PancakeSwap']
+2619,IBY,['Sushiswap']
+2620,VALOR,['PancakeSwap']
+2621,DMT,['Uniswap (v2)']
+2622,TOAD,['PancakeSwap']
+2623,qom,['Uniswap (v3)']
+2624,blk,['PancakeSwap']
+2625,psr,['Sushiswap']
+2626,PRO,"['Bittrex', 'HitBTC']"
+2627,CTI,['Uniswap (v2)']
+2628,ks,['PancakeSwap']
+2629,POLYDOGE,['Sushiswap']
+2630,GO,['YoBit']
+2631,MZ,['PancakeSwap']
+2632,FIII,['EXX']
+2633,CAD,['Currency.com']
+2634,PCNT,['Uniswap (v2)']
+2635,SHIBTAMA,['Uniswap (v2)']
+2636,LPDI,['PancakeSwap']
+2637,DEVIL,['SpookySwap']
+2638,ASPO,"['PancakeSwap', 'PancakeSwap', 'Apeswap']"
+2639,TON,"['Uniswap (v2)', 'HitBTC']"
+2640,POM,['PancakeSwap']
+2641,RNB,['Uniswap (v2)']
+2642,NUX,['PancakeSwap']
+2643,POMI,['Uniswap (v2)']
+2644,MXX,['Uniswap (v2)']
+2645,NPC,['YoBit']
+2646,MOONDASH,['PancakeSwap']
+2647,SFG,['OKEx']
+2648,$LORDZ,['Sushiswap']
+2649,VRT,['PancakeSwap']
+2650,SKCH,['Bitforex']
+2651,MOONTOKEN,['PancakeSwap']
+2652,BTA,['Bittrex']
+2653,MRT,['Bittrex']
+2654,BGL,['PancakeSwap']
+2655,HLAND,['Uniswap (v2)']
+2656,YETU,['PancakeSwap']
+2657,OSINA,['Uniswap (v2)']
+2658,yks,['PancakeSwap']
+2659,GIZ,['YoBit']
+2660,USC,['YoBit']
+2661,BFR,['Uniswap (v2)']
+2662,XNL,['Uniswap (v3)']
+2663,UCO,['Uniswap (v3)']
+2664,GOG,['OKEx']
+2665,bull,['PancakeSwap']
+2666,INNBC,['Uniswap (v3)']
+2667,VOYCE,['PancakeSwap']
+2668,APIX,['Bithumb']
+2669,DEFI,['PancakeSwap']
+2670,VANA,['Uniswap (v2)']
+2671,PENDLE,['Sushiswap']
+2672,STND,['Uniswap (v2)']
+2673,TENW,['PancakeSwap']
+2674,UNISTAKE,['Uniswap (v2)']
+2675,JSHIBA,['Uniswap (v2)']
+2676,LHC,['Uniswap (v3)']
+2677,POKE,['PancakeSwap']
+2678,poop,['PancakeSwap']
+2679,PRED,['PancakeSwap']
+2680,ABCD,['PancakeSwap']
+2681,BABYKITTY,['PancakeSwap']
+2682,VALK,['PancakeSwap']
+2683,YF-DAI,['Uniswap (v2)']
+2684,$FLOGE,['PancakeSwap']
+2685,RLX,['Uniswap (v2)']
+2686,AAG,['Uniswap (v2)']
+2687,HYMETEOR,['PancakeSwap']
+2688,asw,['Uniswap (v2)']
+2689,CDTC,['PancakeSwap']
+2690,CDC,['Huobi Global']
+2691,PETG,['PancakeSwap']
+2692,satsall,['PancakeSwap']
+2693,RFCTR,['Uniswap (v2)']
+2694,HST,['Bittrex']
+2695,PACIFIC,['PancakeSwap']
+2696,WAIF,['Uniswap (v2)']
+2697,astar,['PancakeSwap']
+2698,rats,['PancakeSwap']
+2699,COFI,['Uniswap (v2)']
+2700,ROME,['Solarbeam']
+2701,DNDB,['PancakeSwap']
+2702,SDBY,['PancakeSwap']
+2703,GRLC,['Uniswap (v3)']
+2704,FLUX,['Uniswap (v3)']
+2705,BURST,['Poloniex']
+2706,AMC,['PancakeSwap']
+2707,ALI,['Uniswap (v3)']
+2708,POLIS,['PancakeSwap']
+2709,EVOC,['PancakeSwap']
+2710,rpp,['PancakeSwap']
+2711,GOLD NUGGET,['Apeswap']
+2712,TESLASAFE,['PancakeSwap']
+2713,DIT,['HitBTC']
+2714,MSLV,['Uniswap (v2)']
+2715,GAL,['PancakeSwap']
+2716,CF,['YoBit']
+2717,rifico,['PancakeSwap']
+2718,MONA,"['Upbit', 'Zaif']"
+2719,HES,['PancakeSwap']
+2720,ZDEX,['Uniswap (v3)']
+2721,CID,['Uniswap (v2)']
+2722,B21,['PancakeSwap']
+2723,EOSC,['Bibox']
+2724,1WO,['Liquid']
+2725,UNR,['PancakeSwap']
+2726,ENT,['YoBit']
+2727,NCE,['PancakeSwap']
+2728,STB,['PancakeSwap']
+2729,DEFI+L,['Balancer (v1)']
+2730,SPHRI,['Uniswap (v2)']
+2731,WOOF,['PancakeSwap']
+2732,RI,['Uniswap (v2)']
+2733,BFU,['PancakeSwap']
+2734,FMT,['PancakeSwap']
+2735,ADK,['HitBTC']
+2736,$CASIO,['PancakeSwap']
+2737,OLYMPUS,['PancakeSwap']
+2738,XMX,['Hotbit']
+2739,COCOS,['Binance']
+2740,CERE,['Uniswap (v2)']
+2741,WTLOS,['PancakeSwap']
+2742,bb-a-usd,['Balancer (v2)']
+2743,SSM,['PancakeSwap']
+2744,RUPEE,['PancakeSwap']
+2745,DEP,['PancakeSwap']
+2746,VSYS,['Hotbit']
+2747,BERRY,['HitBTC']
+2748,NYXT,['Uniswap (v2)']
+2749,BLINU,['PancakeSwap']
+2750,SLS,['YoBit']
+2751,UDT,['Uniswap (v3)']
+2752,IBANK,['YoBit']
+2753,RVP,['Uniswap (v2)']
+2754,DOGY,['Uniswap (v2)']
+2755,JAIHO,['PancakeSwap']
+2756,ZKS,['Poloniex']
+2757,gken,['PancakeSwap']
+2758,POTS,['Apeswap']
+2759,PROPS,['OKEx']
+2760,SHIELD,['Uniswap (v2)']
+2761,QUBE,['Bit-Z']
+2762,GAINZ,['PancakeSwap']
+2763,MMAON,['Bittrex']
+2764,PSLIP,['Uniswap (v2)']
+2765,POSH,['Uniswap (v2)']
+2766,tiger,['PancakeSwap']
+2767,SPO,['PancakeSwap']
